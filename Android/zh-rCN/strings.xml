@@ -1,0 +1,179 @@
+<resources>
+    <string name="title_astroweather">晴天钟</string>
+    <string name="title_setting">设置</string>
+    <string name="title_event">天象</string>
+    <string name="title_quanzi">圈子</string>
+    <string name="title_satellite">云图</string>
+    <string name="title_pick_location">选择位置</string>
+    <string name="title_set_name">设置名称</string>
+    <string name="action_refresh">刷新</string>
+    <string name="action_light_pollution">光污染</string>
+    <string name="action_riset">升落</string>
+    <string name="permission_location_denied">定位权限被拒绝</string>
+    <string name="permission_external_storage_denied">存储权限被拒绝</string>
+    <string name="title_light_pollution">光污染</string>
+    <string name="title_riset">升落</string>
+    <string name="current_location">当前位置</string>
+    <string name="navigation_title_about">晴天钟</string>
+    <string name="navigation_title_setting">设置</string>
+    <string name="add_fav">+</string>
+    <string name="location_name">名称</string>
+    <string name="common_cancel">取消</string>
+    <string name="common_add">添加</string>
+    <string name="common_ok">确定</string>
+    <string name="common_error">错误</string>
+    <string name="common_delete">删除</string>
+    <string name="common_rename">重命名</string>
+    <string name="location_error">无法获取当前位置</string>
+    <string name="no_data">无数据</string>
+    <string name="wrong_format">格式错误</string>
+    <string name="fail_to_get_data">获取数据失败</string>
+    <string name="update_available">检查到更新</string>
+    <string name="to_download">前往下载</string>
+    <string name="location_lon_unit">经度（小数表示）</string>
+    <string name="location_lat_unit">纬度（小数表示）</string>
+    <string name="help_section_about">关于</string>
+    <string name="help_section_instruction">使用说明</string>
+    <string name="help_section_instruction1">云量八分图，蓝色代表晴天所占的比例，白色代表云所占的比例，从左到右的云量从0%递增到100%。</string>
+    <string name="help_section_instruction2">视宁度，从左到右：&lt;0.5", 0.5"-0.75", 0.75"-1", 1"-1.25", 1.25"-1.5", 1.5"-2", 2"-2.5", &gt;2.5"。简单地说，图标越小/越蓝，视宁度越好。</string>
+    <string name="help_section_instruction3"><![CDATA[透明度，从左到右：<0.3, 0.3–0.4, 0.4–0.5, 0.5–0.6, 0.6–0.7, 0.7–0.85, 0.85–1, >1（单位为星等每大气质量）。简单地说，横杠越少/越蓝，透明度越好。]]></string>
+    <string name="help_section_instruction4">可能有雨/有雪</string>
+    <string name="help_section_instruction5">大气不稳定度，从左到右分别代表抬升指数介于0至-3，-3至-5，以及小于-5。</string>
+    <string name="help_section_instruction6">高湿度警告。从左到右：相对湿度介于80%-90%，90%-95%，以及超过95%。</string>
+    <string name="help_section_instruction7">大风警告。从左到右：持续风速介于8.0–10.8米/秒（5级），10.8–17.2米/秒（6–7级），以及17.2米/秒以上（8级以上）。</string>
+    <string name="help_section_instruction8">风向指示器，向上的箭头为南风。</string>
+    <string name="help_section_recommend">向朋友推荐晴天钟</string>
+    <string name="recommend_astrowether_title">欢迎使用晴天钟</string>
+    <string name="recommend_astrowether_detail">打开你的天文探索之旅</string>
+    <string name="navigation_drawer_open">打开抽屉</string>
+    <string name="navigation_drawer_close">关闭抽屉</string>
+    <string name="title_activity_location_picker">LocationPickerActivity</string>
+    <string name="title_activity_light_pollution">LightPollutionActivity</string>
+    <string name="title_activity_meteoblue">MeteoblueActivity</string>
+    <string name="title_activity_solar_riset">SolarSystemRisetActivity</string>
+    <string name="title_activity_satellite">SatelliteActivity</string>
+
+    <string name="astro_alt_meteoblue">Meteoblue</string>
+    <string name="astro_alt_clear_outside">Clear Outside</string>
+
+    <string name="astro_title_time">预报时间：%1$s</string>
+    <string name="astro_title_time_no">预报时间：N/A</string>
+
+    <string name="astro_param_temperature">温度</string>
+    <string name="astro_param_cloud">云量</string>
+    <string name="astro_param_seeing">视宁度</string>
+    <string name="astro_param_transparency">透明度</string>
+    <string name="astro_param_humidity">湿度</string>
+    <string name="astro_param_precipation">降水</string>
+    <string name="astro_param_instability">不稳定度</string>
+    <string name="astro_param_wind_direction">风向</string>
+    <string name="astro_param_wind_speed">风速</string>
+    <string name="astro_param_time">时间</string>
+    <string name="astro_param_today">今天</string>
+    <string name="astro_param_tomorrow">明天</string>
+
+    <string name="astro_not_up">太阳未升起</string>
+
+    <string name="astro_not_available">N/A</string>
+    <string name="astro_next_new_moon">下次新月：</string>
+    <string name="astro_next_full_moon">下次满月：</string>
+
+
+    <string name="astro_new_moon">新月</string>
+    <string name="astro_waxing_crescent">峨眉月</string>
+    <string name="astro_first_quarter">上弦月</string>
+    <string name="astro_waxing_gibbous">盈凸月</string>
+    <string name="astro_full_moon">满月</string>
+    <string name="astro_waning_crescent">亏凸月</string>
+    <string name="astro_last_quarter">下弦月</string>
+    <string name="astro_waning_gibbous">残月</string>
+
+    <string name="astro_utility">工具</string>
+
+    <string name="astro_utility_red_light">红灯助手</string>
+    <string name="astro_utility_sky_chart">星图</string>
+    <string name="astro_utility_solar_system">太阳系</string>
+    <string name="astro_utility_sun_riset_detail">日出/落详情</string>
+
+    <string name="satellite_area_east_asia">东亚</string>
+    <string name="satellite_area_east_hemisphere">东半球</string>
+    <string name="satellite_area_united_states">美国</string>
+    <string name="satellite_area_china">中国</string>
+
+    <string name="satellite_type_rgb_infrared_himawari">红外全彩（日本）</string>
+    <string name="satellite_type_rgb_infrared_enhanced_himawari">红外色调强化（日本）</string>
+    <string name="satellite_type_bw_infrared_himawari">红外黑白（日本）</string>
+    <string name="satellite_type_visible_spectrum_himawari">可见光（日本）</string>
+    <string name="satellite_type_true_color_fy4a">真彩色（风云四号）</string>
+    <string name="satellite_type_infrared_fy4a">红外（风云四号）</string>
+    <string name="satellite_type_visible_spectrum_fy4a">可见光（风云四号）</string>
+    <string name="satellite_type_water_vapor_fy4a">水汽（风云四号）</string>
+    <string name="satellite_type_rgb_infrared">红外全彩</string>
+    <string name="satellite_type_rgb_infrared_enhanced">红外色调强化</string>
+    <string name="satellite_type_bw_infrared">红外黑白</string>
+    <string name="satellite_type_visible_spectrum">可见光</string>
+    <string name="satellite_type_geo_color">地质色彩</string>
+    <string name="satellite_type_radar">雷达</string>
+    <string name="satellite_type_radar_north_east">"雷达（东北）</string>
+    <string name="satellite_type_radar_north">雷达（华北）</string>
+    <string name="satellite_type_radar_south">雷达（华南）</string>
+    <string name="satellite_type_radar_center">雷达（华中）</string>
+    <string name="satellite_type_radar_north_west">雷达（西北）</string>
+    <string name="satellite_type_radar_south_west">雷达（西南）</string>
+    <string name="satellite_type_radar_east">雷达（华东）</string>
+
+    <string name="riset_sun">太阳</string>
+    <string name="riset_moon">月球</string>
+    <string name="riset_mercury">水星</string>
+    <string name="riset_venus">金星</string>
+    <string name="riset_mars">火星</string>
+    <string name="riset_jupiter">木星</string>
+    <string name="riset_saturn">土星</string>
+    <string name="riset_uranus">天王星</string>
+    <string name="riset_neptune">海王星</string>
+    <string name="riset_pluto">冥王星</string>
+
+    <string name="service_unavailable_use_clear_sky">晴天钟服务不可用，查看Clear Sky上的天气信息？</string>
+
+    <string name="setting_remove_cache">清除缓存</string>
+    <string name="setting_remove_cache_success">清除缓存成功</string>
+    <string name="setting_remove_cache_failed">清除缓存失败</string>
+
+    <string name="setting_instructions">使用说明</string>
+    <string name="setting_submit_feedback">提交反馈</string>
+    <string name="setting_recommend_to_friend">推荐晴天钟给朋友</string>
+
+    <string name="setting_version">版本号</string>
+    <string name="setting_about">关于</string>
+
+    <string name="setting_theme">主题</string>
+
+    <string name="setting_hide_ads">隐藏广告</string>
+
+    <string name="setting_theme_system">系统</string>
+    <string name="setting_theme_light">亮色</string>
+    <string name="setting_theme_dark">暗色</string>
+
+    <string name="setting_about_7timer_header">晴天钟（7Timer!）</string>
+    <string name="setting_about_7timer_info">晴天钟是一系列天气预测产品的总称，它们主要提取于美国国家大气海洋局/气候环境预测局(NOAA/NCEP)的“全球预测系统”(Global Forecast System, GFS)数值模式。晴天钟在2005年7月作为国家天文台宇宙驿站服务器的实验产品开始运作，并在2008年及2011年进行了大规模的翻新。目前它由中国科学院上海天文台中国天文科普网提供硬件及网络支持。\n\n请留意，我们（晴天钟App开发者）并非晴天钟服务提供者。</string>
+
+    <string name="setting_about_light_pollution_header">光害地图</string>
+    <string name="setting_about_light_pollution_info">光害地图数据来自于World Atlas 2015\n\nCredits: Falchi, Fabio; Cinzano, Pierantonio; Duriscoe, Dan; Kyba, Christopher C. M.; Elvidge, Christopher D.; Baugh, Kimberly; Portnov, Boris; Rybnikova, Nataliya A.; Furgoni, Riccardo (2016): Supplement to: The New World Atlas of Artificial Night Sky Brightness. GFZ Data Services. http://doi.org/10.5880/GFZ.1.4.2016.001 Falchi F, Cinzano P, Duriscoe D, Kyba CC, Elvidge CD, Baugh K, Portnov BA, Rybnikova NA, Furgoni R. The new world atlas of artificial night sky brightness. Science Advances. 2016 Jun 1;2(6):e1600377.</string>
+
+    <string name="setting_about_riset_header">升落</string>
+    <string name="setting_about_riset_info">天体升落时间是在手机上计算的，不需要网络连接也可以正常使用。</string>
+
+    <string name="setting_hide_ads_title">隐藏广告</string>
+    <string name="setting_hide_ads_detail">接下来的4天内将不再显示广告，重启晴天钟后生效。</string>
+
+    <string name="feedback_email_subject">反馈晴天钟(Android)问题</string>
+    <string name="feedback_email_title">反馈</string>
+
+    <string name="sun_riset_detail_button_title">日出/落详情</string>
+
+    <string name="sun_riset_detail_format">天文晨光始：%s\n航海晨光始：%s\n民用晨光始：%s\n日出开始：%s\n日出结束：%s\n日出黄金时间结束：%s\n上中天：%s\n日落黄金时间开始：%s\n日落开始：%s\n日落结束：%s\n民用昏影终：%s\n航海昏影终：%s\n天文昏影终：%s\n下中天：%s\n</string>
+    <string name="app_name">晴天钟</string>
+    <string name="satellite_area_europe">欧洲</string>
+    <string name="satellite_type_visual_sat24">可见光（Sat24）</string>
+    <string name="satellite_type_infrared_sat24">红外（Sat24）</string>
+</resources>

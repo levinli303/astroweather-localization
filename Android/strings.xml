@@ -1,0 +1,179 @@
+<resources>
+    <string name="title_astroweather">Astroweather</string>
+    <string name="title_setting">Settings</string>
+    <string name="title_event">Events</string>
+    <string name="title_quanzi">Quanzi</string>
+    <string name="title_satellite">Satellite Images</string>
+    <string name="title_pick_location">Pick Location</string>
+    <string name="title_set_name">Set Name</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_light_pollution">Light Pollution</string>
+    <string name="action_riset">Rise and Set</string>
+    <string name="permission_location_denied">Permission for location has been denied</string>
+    <string name="permission_external_storage_denied">Permission for storage has been denied</string>
+    <string name="title_light_pollution">Light Pollution</string>
+    <string name="title_riset">Rise and Set</string>
+    <string name="current_location">Current Location</string>
+    <string name="navigation_title_about">Astroweather</string>
+    <string name="navigation_title_setting">Settings</string>
+    <string name="add_fav">+</string>
+    <string name="location_name">Name</string>
+    <string name="common_cancel">Cancel</string>
+    <string name="common_add">Add</string>
+    <string name="common_ok">OK</string>
+    <string name="common_error">Error</string>
+    <string name="common_delete">Delete</string>
+    <string name="common_rename">Rename</string>
+    <string name="location_error">Failed to get current location</string>
+    <string name="no_data">No data</string>
+    <string name="wrong_format">Wrong format</string>
+    <string name="fail_to_get_data">Failed to get data</string>
+    <string name="update_available">An update is available</string>
+    <string name="to_download">Download</string>
+    <string name="location_lon_unit">Longitude (decimal)</string>
+    <string name="location_lat_unit">Latitude (decimal)</string>
+    <string name="help_section_about">About</string>
+    <string name="help_section_instruction">Help</string>
+    <string name="help_section_instruction1">Octet-gram of cloud cover, blue is for clear while white is for cloud. e.g. the \"cake\" on the left is 0% cloud while the one on the right is 100% cloud.</string>
+    <string name="help_section_instruction2">Astronomical seeing. From left to right: &lt;0.5\", 0.5\"-0.75\", 0.75\"-1\", 1\"-1.25\", 1.25\"-1.5\", 1.5\"-2\", 2\"-2.5\", &gt;2.5\". In short, the smaller/bluer, the better the seeing condition is.</string>
+    <string name="help_section_instruction3"><![CDATA[Atmospheric transparency. From left to right: <0.3, 0.3–0.4, 0.4–0.5, 0.5–0.6, 0.6–0.7, 0.7–0.85, 0.85–1, >1 (unit: mag per air mass). In short, the fewer bars/bluer, the better the transparency is.]]></string>
+    <string name="help_section_instruction4">Chances of rain/snow.</string>
+    <string name="help_section_instruction5">Atmospheric instability. From left to right: lifted index between 0 to -3, -3 to -5, and below -5.</string>
+    <string name="help_section_instruction6">Humid weather warning. From left to right: relative humidity between 80%-90%, 90%-95%, and over 95%.</string>
+    <string name="help_section_instruction7">Windy weather warning. From left to right: sustained wind speed between 8.0–10.8m/s (fresh), 10.8–17.2m/s (strong), and over 17.2m/s (gale or above).</string>
+    <string name="help_section_instruction8">Wind direction indicator, an up arrow indicates south wind(wind coming from south).</string>
+    <string name="help_section_recommend">Recommend Astroweather to friends</string>
+    <string name="recommend_astrowether_title">Welcome to Astroweather</string>
+    <string name="recommend_astrowether_detail">Explore your astronomy world here</string>
+    <string name="navigation_drawer_open">Open Drawer</string>
+    <string name="navigation_drawer_close">Close Drawer</string>
+    <string name="title_activity_location_picker">LocationPickerActivity</string>
+    <string name="title_activity_light_pollution">LightPollutionActivity</string>
+    <string name="title_activity_meteoblue">MeteoblueActivity</string>
+    <string name="title_activity_solar_riset">SolarSystemRisetActivity</string>
+    <string name="title_activity_satellite">SatelliteActivity</string>
+
+    <string name="astro_alt_meteoblue">Meteoblue</string>
+    <string name="astro_alt_clear_outside">Clear Outside</string>
+
+    <string name="astro_title_time">Report released at：%1$s</string>
+    <string name="astro_title_time_no">Report released at：N/A</string>
+
+    <string name="astro_param_temperature">Temperature</string>
+    <string name="astro_param_cloud">Cloud Cover</string>
+    <string name="astro_param_seeing">Seeing</string>
+    <string name="astro_param_transparency">Transparency</string>
+    <string name="astro_param_humidity">Humidity</string>
+    <string name="astro_param_precipation">Precipation</string>
+    <string name="astro_param_instability">Instability</string>
+    <string name="astro_param_wind_direction">Wind Direction</string>
+    <string name="astro_param_wind_speed">Wind Speed</string>
+    <string name="astro_param_time">Time</string>
+    <string name="astro_param_today">Today</string>
+    <string name="astro_param_tomorrow">Tomorrow</string>
+
+    <string name="astro_not_up">Not Up</string>
+
+    <string name="astro_not_available">N/A</string>
+    <string name="astro_next_new_moon">Next new moon：</string>
+    <string name="astro_next_full_moon">Next full moon：</string>
+
+
+    <string name="astro_new_moon">New Moon</string>
+    <string name="astro_waxing_crescent">Waxing Crescent</string>
+    <string name="astro_first_quarter">First Quarter</string>
+    <string name="astro_waxing_gibbous">Waxing Gibbous</string>
+    <string name="astro_full_moon">Full Moon</string>
+    <string name="astro_waning_crescent">Waning Crescent</string>
+    <string name="astro_last_quarter">Last Quarter</string>
+    <string name="astro_waning_gibbous">Waning Gibbous</string>
+
+    <string name="astro_utility">Utilities</string>
+
+    <string name="astro_utility_red_light">Red Light Helper</string>
+    <string name="astro_utility_sky_chart">Sky Chart</string>
+    <string name="astro_utility_solar_system">Solar System</string>
+    <string name="astro_utility_sun_riset_detail">Sun Rise/Set Detail</string>
+
+    <string name="satellite_area_east_asia">East Asia</string>
+    <string name="satellite_area_east_hemisphere">East Hemisphere</string>
+    <string name="satellite_area_united_states">United States</string>
+    <string name="satellite_area_europe">Europe</string>
+    <string name="satellite_area_china">China</string>
+
+    <string name="satellite_type_rgb_infrared_himawari">RGB Infrared (Himawari)</string>
+    <string name="satellite_type_rgb_infrared_enhanced_himawari">RGB Infrared Enhanced (Himawari)</string>
+    <string name="satellite_type_bw_infrared_himawari">Black/White Infrared (Himawari)</string>
+    <string name="satellite_type_visible_spectrum_himawari">Visible Spectrum (Himawari)</string>
+    <string name="satellite_type_true_color_fy4a">True Color (FY4A)</string>
+    <string name="satellite_type_infrared_fy4a">Infrared (FY4A)</string>
+    <string name="satellite_type_visible_spectrum_fy4a">Visible Spectrum (FY4A)</string>
+    <string name="satellite_type_water_vapor_fy4a">Water Vapor (FY4A)</string>
+    <string name="satellite_type_rgb_infrared">RGB Infrared</string>
+    <string name="satellite_type_rgb_infrared_enhanced">RGB Infrared Enhanced</string>
+    <string name="satellite_type_bw_infrared">Black/White Infrared</string>
+    <string name="satellite_type_visible_spectrum">Visible Spectrum</string>
+    <string name="satellite_type_geo_color">GeoColor</string>
+    <string name="satellite_type_visual_sat24">Visible Spectrum (Sat24)</string>
+    <string name="satellite_type_infrared_sat24">Infrared (Sat24)</string>
+    <string name="satellite_type_radar">Radar</string>
+    <string name="satellite_type_radar_north_east">Radar (North East)</string>
+    <string name="satellite_type_radar_north">Radar (North)</string>
+    <string name="satellite_type_radar_south">Radar (South)</string>
+    <string name="satellite_type_radar_center">Radar (Center)</string>
+    <string name="satellite_type_radar_north_west">Radar (North West)</string>
+    <string name="satellite_type_radar_south_west">Radar (South West)</string>
+    <string name="satellite_type_radar_east">Radar (East)</string>
+
+    <string name="riset_sun">Sun</string>
+    <string name="riset_moon">Moon</string>
+    <string name="riset_mercury">Mercury</string>
+    <string name="riset_venus">Venus</string>
+    <string name="riset_mars">Mars</string>
+    <string name="riset_jupiter">Jupiter</string>
+    <string name="riset_saturn">Saturn</string>
+    <string name="riset_uranus">Uranus</string>
+    <string name="riset_neptune">Neptune</string>
+    <string name="riset_pluto">Pluto</string>
+
+    <string name="service_unavailable_use_clear_sky">7Timer service is currently unavailable, show Clear Sky results instead?</string>
+
+    <string name="setting_remove_cache">Clear Caches</string>
+    <string name="setting_remove_cache_success">Caches cleared</string>
+    <string name="setting_remove_cache_failed">Failed to clear caches</string>
+
+    <string name="setting_instructions">Help</string>
+    <string name="setting_submit_feedback">Submit Feedback</string>
+    <string name="setting_recommend_to_friend">Recommend Astroweather to friends</string>
+
+    <string name="setting_version">Version</string>
+    <string name="setting_about">About</string>
+
+    <string name="setting_theme">Theme</string>
+
+    <string name="setting_hide_ads">Remove Ads</string>
+
+    <string name="setting_theme_system">System</string>
+    <string name="setting_theme_light">Light</string>
+    <string name="setting_theme_dark">Dark</string>
+
+    <string name="setting_about_7timer_header">Astroweather (7Timer!)</string>
+    <string name="setting_about_7timer_info">7Timer! is a series of web-based meteorological forecast products, mainly derived from the NOAA/NCEP-based numeric weather model, the Global Forecast System (GFS). 7Timer! was firstly established in July 2005 as an exploration product under supported of the National Astronomical Observatories of China and had been largely renovated in 2008 and 2011. Currently it is supported by the Shanghai Astronomical Observatory of Chinese Academy of Sciences. It was firstly designed as a weather forecast tool for astronomical purpose, as the author himself is a long-term star gazer and was always annoyed by fluky weather conditions.</string>
+
+    <string name="setting_about_light_pollution_header">Light Pollution Map</string>
+    <string name="setting_about_light_pollution_info">Resources for the light pollution map are from World Atlas 2015.\n\nCredits: Falchi, Fabio; Cinzano, Pierantonio; Duriscoe, Dan; Kyba, Christopher C. M.; Elvidge, Christopher D.; Baugh, Kimberly; Portnov, Boris; Rybnikova, Nataliya A.; Furgoni, Riccardo (2016): Supplement to: The New World Atlas of Artificial Night Sky Brightness. GFZ Data Services. http://doi.org/10.5880/GFZ.1.4.2016.001 Falchi F, Cinzano P, Duriscoe D, Kyba CC, Elvidge CD, Baugh K, Portnov BA, Rybnikova NA, Furgoni R. The new world atlas of artificial night sky brightness. Science Advances. 2016 Jun 1;2(6):e1600377. </string>
+
+    <string name="setting_about_riset_header">Rise &amp; Set</string>
+    <string name="setting_about_riset_info">Rise and set times for astro objects are calculated on your device without the need of Internet connection.</string>
+
+    <string name="setting_hide_ads_title">Remove Ads</string>
+    <string name="setting_hide_ads_detail">Ads will be disabled for 4 days, restart Astroweather to take effect.</string>
+
+    <string name="feedback_email_subject">Feedback about Astroweather (Android)</string>
+    <string name="feedback_email_title">Feedback</string>
+
+    <string name="sun_riset_detail_button_title">Sun Rise/Set Detail</string>
+
+    <string name="sun_riset_detail_format">Night End: %s\nNautical Dawn: %s\nDawn: %s\nSunrise: %s\nSunrise End: %s\nGolden Hour End: %s\nSolar Noon: %s\nGolden Hour: %s\nSunset Start: %s\nSunset: %s\nDusk: %s\nNautical Dusk: %s\nNight: %s\nNadir: %s\n</string>
+    <string name="app_name">Astroweather</string>
+</resources>

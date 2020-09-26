@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Trans"; ObjectID = "59e-Dn-60c"; */
+"59e-Dn-60c.text" = "透明度";
+
+/* Class = "UILabel"; text = "Current Location"; ObjectID = "HqV-pR-68r"; */
+"HqV-pR-68r.text" = "当前位置";
+
+/* Class = "UILabel"; text = "Cloud"; ObjectID = "QPS-1s-mTo"; */
+"QPS-1s-mTo.text" = "云量";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QjD-vr-cKT"; */
+"QjD-vr-cKT.text" = "Label";
+
+/* Class = "UILabel"; text = "See"; ObjectID = "Sxn-rn-dxn"; */
+"Sxn-rn-dxn.text" = "视宁度";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "XP4-IU-1ko"; */
+"XP4-IU-1ko.text" = "时间";
+
+/* Class = "UILabel"; text = "Report Time: "; ObjectID = "YH1-IN-l5W"; */
+"YH1-IN-l5W.text" = "报告时间: ";
+
+/* Class = "UILabel"; text = "N/A"; ObjectID = "rxX-xe-pUk"; */
+"rxX-xe-pUk.text" = "N/A";

@@ -1,0 +1,87 @@
+
+/* Class = "UILabel"; text = "Humidity"; ObjectID = "9az-JQ-CFY"; */
+"2Vw-fJ-aen.text" = "湿度";
+
+/* Class = "UIBarButtonItem"; title = "Current"; ObjectID = "BPL-jp-TeL"; */
+"BPL-jp-TeL.title" = "当前位置";
+
+/* Class = "UILabel"; text = "Not Up"; ObjectID = "Fvd-8w-Oes"; */
+"Fvd-8w-Oes.text" = "未升起";
+
+/* Class = "UILabel"; text = "Precipation"; ObjectID = "PbZ-GS-eu3"; */
+"HkC-Ii-ODG.text" = "降水";
+
+/* Class = "UILabel"; text = "Wind Direction"; ObjectID = "QKX-Xh-H6h"; */
+"GnP-Gb-U63.text" = "风向";
+
+/* Class = "UIBarButtonItem"; title = "Favorite"; ObjectID = "Qfg-SV-rPd"; */
+"Qfg-SV-rPd.title" = "收藏";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "Yph-Ac-TIm"; */
+"Yph-Ac-TIm.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Temp"; ObjectID = "aHa-xl-8qJ"; */
+"ceW-qr-NU7.text" = "温度";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "hnI-UK-xZz"; */
+"FlR-Qb-eGV.text" = "时间";
+
+/* Class = "UINavigationItem"; title = "Map"; ObjectID = "iPu-EV-Rsk"; */
+"iPu-EV-Rsk.title" = "地图";
+
+/* Class = "UILabel"; text = "Instability"; ObjectID = "iXI-1O-OOv"; */
+"Auz-lG-F29.text" = "不稳定度";
+
+/* Class = "UILabel"; text = "Cloud"; ObjectID = "kYI-ZG-0nT"; */
+"FWB-1M-wSC.text" = "云量";
+
+/* Class = "UILabel"; text = "Transparency"; ObjectID = "lcY-2r-6B7"; */
+"Tol-xn-cv5.text" = "透明度";
+
+/* Class = "UILabel"; text = "Seeing"; ObjectID = "moI-bT-lFD"; */
+"PMe-vS-ypS.text" = "视宁度";
+
+/* Class = "UILabel"; text = "Wind Speed"; ObjectID = "qif-in-KiA"; */
+"bUZ-uJ-axh.text" = "风速";
+
+/* Class = "UILabel"; text = "Report Time"; ObjectID = "M8v-Lv-mJV"; */
+"M8v-Lv-mJV.text" = "报告时间:";
+
+/* Class = "UIButton"; normalTitle = "Astro"; ObjectID = "fKG-aO-C3i"; */
+"fKG-aO-C3i.normalTitle" = "天文";
+
+/* Class = "UIButton"; normalTitle = "Civil"; ObjectID = "7D5-hh-9I5"; */
+"7D5-hh-9I5.normalTitle" = "气象";
+
+/* Class = "UILabel"; text = "Temp"; ObjectID = "cvS-jx-ly8"; */
+"cvS-jx-ly8.text" = "温度";
+
+/* Class = "UILabel"; text = "Humidity"; ObjectID = "IAe-j2-XUo"; */
+"IAe-j2-XUo.text" = "湿度";
+
+/* Class = "UILabel"; text = "Weather"; ObjectID = "tUm-H4-5gy"; */
+"tUm-H4-5gy.text" = "天气";
+
+/* Class = "UILabel"; text = "Wind Direction"; ObjectID = "9jT-Wh-kAI"; */
+"9jT-Wh-kAI.text" = "风向";
+
+/* Class = "UILabel"; text = "Wind Speed"; ObjectID = "8gt-V1-JMS"; */
+"8gt-V1-JMS.text" = "风速";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "wU9-nU-wPR"; */
+"wU9-nU-wPR.text" = "时间";
+
+/* Class = "UINavigationItem"; title = "Change Location"; ObjectID = "rFP-2L-llB"; */
+"2bl-OE-6Hx.title" = "修改位置";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "e3G-Ie-CDe"; */
+"nZf-tD-OPP.title" = "取消";
+
+/* Class = "UILabel"; text = "Next full moon:"; ObjectID = "WHB-t2-jir"; */
+"WHB-t2-jir.text" = "下次满月：";
+
+/* Class = "UILabel"; text = "Next new moon:"; ObjectID = "sPF-ez-62x"; */
+"sPF-ez-62x.text" = "下次新月：";
+
+/* Class = "UITabBarItem"; title = "Astroweather"; ObjectID = "k0U-yj-PGW"; */
+"k0U-yj-PGW.title" = "晴天钟";

@@ -1,0 +1,8 @@
+/* Class = "UINavigationItem"; title = "Animated Images"; ObjectID = "PTt-EK-ZRq"; */
+"PTt-EK-ZRq.title" = "动图";
+
+/* Class = "UINavigationItem"; title = "Satellite Images"; ObjectID = "Yxd-L3-SCr"; */
+"Yxd-L3-SCr.title" = "卫星云图";
+
+/* Class = "UIButton"; normalTitle = "Try Again"; ObjectID = "fkJ-U4-xZD"; */
+"fkJ-U4-xZD.normalTitle" = "重试";
