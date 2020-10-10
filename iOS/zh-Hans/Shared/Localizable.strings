@@ -1141,3 +1141,21 @@
 
 /* No comment provided by engineer. */
 "Infrared (Sat24)" = "红外（Sat24）";
+
+/* No comment provided by engineer. */
+"Rise & Set" = "升落";
+
+/* No comment provided by engineer. */
+"View rise and set time for sun, moon and planets." = "查看太阳、月球和行星的升落时间。";
+
+/* No comment provided by engineer. */
+"Up, will set at %@" = "已升起，会在%@落下";
+
+/* No comment provided by engineer. */
+"Not up, will rise at %@" = "已落下，会在%@升起";
+
+/* No comment provided by engineer. */
+"Lunar Phase" = "月相";
+
+/* No comment provided by engineer. */
+"View current lunar phase." = "查看当前的月相。";
