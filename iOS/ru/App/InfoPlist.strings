@@ -1,0 +1,29 @@
+/* 
+  InfoPlist.strings
+  Astroweather
+
+  Created by 李林峰 on 2017/7/8.
+  Copyright © 2017年 李林峰. All rights reserved.
+*/
+
+
+// English: Astroweather
+"CFBundleDisplayName" = "Астропогода";
+
+// English: Location service is needed for showing the weather of your location and display your location on the map
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "Доступ к геопозиции необходим для отображения погоды в вашем регионе и отображения вашего местоположения на карте";
+
+// English: Location service is needed for showing the weather of your location and display your location on the map
+"NSLocationAlwaysUsageDescription" = "Доступ к геопозиции необходим для отображения погоды в вашем регионе и отображения вашего местоположения на карте";
+
+// English: Location service is needed for showing the weather of your location and display your location on the map
+"NSLocationWhenInUseUsageDescription" = "Доступ к геопозиции необходим для отображения погоды в вашем регионе и отображения вашего местоположения на карте";
+
+// English: Access is required to post contents with photo
+"NSPhotoLibraryUsageDescription" = "Разрешение необходимо для публикаций с фотографиями";
+
+// English: Access is required to save pictures
+"NSPhotoLibraryAddUsageDescription" = "Разрешение необходимо для загрузки фотографий";
+
+// English: Use Siri to display astroweather reports
+"NSSiriUsageDescription" = "Используйте Сири для получения прогнозов астропогоды";
