@@ -56,8 +56,8 @@
     <string name="astro_alt_meteoblue">Meteoblue</string>
     <string name="astro_alt_clear_outside">Clear Outside</string>
 
-    <string name="astro_title_time">Report released at：%1$s</string>
-    <string name="astro_title_time_no">Report released at：N/A</string>
+    <string name="astro_title_time">Report released at: %1$s</string>
+    <string name="astro_title_time_no">Report released at: N/A</string>
 
     <string name="astro_param_temperature">Temperature</string>
     <string name="astro_param_cloud">Cloud Cover</string>
@@ -75,8 +75,8 @@
     <string name="astro_not_up">Not Up</string>
 
     <string name="astro_not_available">N/A</string>
-    <string name="astro_next_new_moon">Next new moon：</string>
-    <string name="astro_next_full_moon">Next full moon：</string>
+    <string name="astro_next_new_moon">Next new moon: </string>
+    <string name="astro_next_full_moon">Next full moon: </string>
 
 
     <string name="astro_new_moon">New Moon</string>

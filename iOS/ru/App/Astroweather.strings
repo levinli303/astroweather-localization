@@ -1,0 +1,87 @@
+
+/* Class = "UILabel"; text = "Humidity"; ObjectID = "9az-JQ-CFY"; */
+"2Vw-fJ-aen.text" = "Влажность";
+
+/* Class = "UIBarButtonItem"; title = "Current"; ObjectID = "BPL-jp-TeL"; */
+"BPL-jp-TeL.title" = "Текущее местоположение";
+
+/* Class = "UILabel"; text = "Not Up"; ObjectID = "Fvd-8w-Oes"; */
+"Fvd-8w-Oes.text" = "Солнце под горизонтом";
+
+/* Class = "UILabel"; text = "Precipation"; ObjectID = "PbZ-GS-eu3"; */
+"HkC-Ii-ODG.text" = "Осадки";
+
+/* Class = "UILabel"; text = "Wind Direction"; ObjectID = "QKX-Xh-H6h"; */
+"GnP-Gb-U63.text" = "Направление ветра";
+
+/* Class = "UIBarButtonItem"; title = "Favorite"; ObjectID = "Qfg-SV-rPd"; */
+"Qfg-SV-rPd.title" = "Избранное";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "Yph-Ac-TIm"; */
+"Yph-Ac-TIm.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Temp"; ObjectID = "aHa-xl-8qJ"; */
+"ceW-qr-NU7.text" = "Температура";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "hnI-UK-xZz"; */
+"FlR-Qb-eGV.text" = "Время";
+
+/* Class = "UINavigationItem"; title = "Map"; ObjectID = "iPu-EV-Rsk"; */
+"iPu-EV-Rsk.title" = "Карта";
+
+/* Class = "UILabel"; text = "Instability"; ObjectID = "iXI-1O-OOv"; */
+"Auz-lG-F29.text" = "Турбулентность";
+
+/* Class = "UILabel"; text = "Cloud"; ObjectID = "kYI-ZG-0nT"; */
+"FWB-1M-wSC.text" = "Облачность";
+
+/* Class = "UILabel"; text = "Transparency"; ObjectID = "lcY-2r-6B7"; */
+"Tol-xn-cv5.text" = "Прозрачность";
+
+/* Class = "UILabel"; text = "Seeing"; ObjectID = "moI-bT-lFD"; */
+"PMe-vS-ypS.text" = "Видимость";
+
+/* Class = "UILabel"; text = "Wind Speed"; ObjectID = "qif-in-KiA"; */
+"bUZ-uJ-axh.text" = "Скорость ветра";
+
+/* Class = "UILabel"; text = "Report Time"; ObjectID = "M8v-Lv-mJV"; */
+"M8v-Lv-mJV.text" = "Публикация прогноза";
+
+/* Class = "UIButton"; normalTitle = "Astro"; ObjectID = "fKG-aO-C3i"; */
+"fKG-aO-C3i.normalTitle" = "Астрономический прогноз";
+
+/* Class = "UIButton"; normalTitle = "Civil"; ObjectID = "7D5-hh-9I5"; */
+"7D5-hh-9I5.normalTitle" = "Гражданский прогноз";
+
+/* Class = "UILabel"; text = "Temp"; ObjectID = "cvS-jx-ly8"; */
+"cvS-jx-ly8.text" = "Температура";
+
+/* Class = "UILabel"; text = "Humidity"; ObjectID = "IAe-j2-XUo"; */
+"IAe-j2-XUo.text" = "Влажность";
+
+/* Class = "UILabel"; text = "Weather"; ObjectID = "tUm-H4-5gy"; */
+"tUm-H4-5gy.text" = "Погода";
+
+/* Class = "UILabel"; text = "Wind Direction"; ObjectID = "9jT-Wh-kAI"; */
+"9jT-Wh-kAI.text" = "Направление ветра";
+
+/* Class = "UILabel"; text = "Wind Speed"; ObjectID = "8gt-V1-JMS"; */
+"8gt-V1-JMS.text" = "Скорость ветра";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "wU9-nU-wPR"; */
+"wU9-nU-wPR.text" = "Время";
+
+/* Class = "UINavigationItem"; title = "Change Location"; ObjectID = "rFP-2L-llB"; */
+"2bl-OE-6Hx.title" = "Изменить местоположение";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "e3G-Ie-CDe"; */
+"nZf-tD-OPP.title" = "Закрыть";
+
+/* Class = "UILabel"; text = "Next full moon:"; ObjectID = "WHB-t2-jir"; */
+"WHB-t2-jir.text" = "Следующее полнолуние:";
+
+/* Class = "UILabel"; text = "Next new moon:"; ObjectID = "sPF-ez-62x"; */
+"sPF-ez-62x.text" = "Следующее новолуние:";
+
+/* Class = "UITabBarItem"; title = "Astroweather"; ObjectID = "k0U-yj-PGW"; */
+"k0U-yj-PGW.title" = "Астропогода";
