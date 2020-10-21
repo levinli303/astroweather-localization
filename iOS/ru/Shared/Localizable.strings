@@ -1159,3 +1159,6 @@
 
 /* No comment provided by engineer. */
 "View current lunar phase." = "Получить текущую фазу Луны.";
+
+/* No comment provided by engineer. */
+"Please use home screen widget instead" = "Вместо этого используйте виджет на главном экране";

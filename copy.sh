@@ -30,9 +30,9 @@ copy_ios()
 {
   echo "Copying iOS localization resources for $1"
 
-  DIR=$IOS_APP_DIR/Shared/$1.lproj
+  DIR=$IOS_APP_DIR/Shared/Resources/$1.lproj
   make_dir_if_not_exists $DIR
-  cp $2/Shared/Intents.strings $DIR/Intents.strings
+  cp $2/Shared/Localizable.strings $DIR/Localizable.strings
 
   echo "Copying shared done"
 
@@ -61,12 +61,6 @@ copy_ios()
   cp $2/AstroweatherToday/MainInterface.strings $DIR/MainInterface.strings
 
   echo "Copying astroweather today done"
-
-  DIR=$IOS_APP_DIR/AstroweatherIntentsUI/$1.lproj
-  make_dir_if_not_exists $DIR
-  cp $2/AstroweatherIntentsUI/MainInterface.strings $DIR/MainInterface.strings
-
-  echo "Copying astroweather intents ui done"
 
   DIR=$IOS_APP_DIR/AstroweatherWidget/$1.lproj
   make_dir_if_not_exists $DIR
