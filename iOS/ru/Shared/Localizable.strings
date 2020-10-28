@@ -68,10 +68,10 @@
 "Wind direction indicator, an up arrow indicates south wind(wind coming from south)." = "Индикатор направления ветра, стрелка вверх указывает на южный ветер (ветер с юга).";
 
 /* No comment provided by engineer. */
-"Suggestions and advice for Astroweather" = "Предложения для Астропогоды";
+"Suggestions and advice for Astroweather" = "Предложения для Astroweather";
 
 /* No comment provided by engineer. */
-"Rate Astroweather" = "Оценить Астропогоду";
+"Rate Astroweather" = "Оценить Astroweather";
 
 /* No comment provided by engineer. */
 "Help" = "Помощь";
@@ -185,16 +185,16 @@
 "Satellite Passes" = "Пролёты спутников";
 
 /* No comment provided by engineer. */
-"Satellite passes evaluates orbits of satellites and calculates the positions of satellites.\n\nSatellites travel at fast speeds and can  pass a local sky multiple times in a day but when can they be seen?\n\nHere we assume the satellites can be seen when the sun is below the horizon by 6° to 30°.\n\nOn the right is the peak position and angle." = "此页面计算并展示人造卫星的过境情况。\n\n人造卫星围绕地球运转速度较快，一天内可能多次穿过某地天空，但是什么时候能够看到人造卫星？\n\n这里我们简单的假设只有当太阳位于地平线以下6°~30°时才有观测人造卫星的条件。\n\n列表右侧为中天时人造卫星的方向角和仰角。";
+"Satellite passes evaluates orbits of satellites and calculates the positions of satellites.\n\nSatellites travel at fast speeds and can  pass a local sky multiple times in a day but when can they be seen?\n\nHere we assume the satellites can be seen when the sun is below the horizon by 6° to 30°.\n\nOn the right is the peak position and angle." = "Пролёты спутников и их траектории вычисляются из параметров орбит. \n\nСпутники движутся с большой скоростью и могут пролетать на небе несколько раз за день, но когда их можно увидеть? \n\nЗдесь мы предполагаем, что спутники видны, если солнце находится ниже горизонта на 6–30°. \n\nПоложение и угол максимальной яркости указаны справа.";
 
 /* No comment provided by engineer. */
-"About Astroweather" = "Об Астропогоде";
+"About Astroweather" = "Об Astroweather";
 
 /* No comment provided by engineer. */
-"Astroweather" = "Астропогода";
+"Astroweather" = "Astroweather";
 
 /* No comment provided by engineer. */
-"Astroweather PRO" = "Астропогода PRO";
+"Astroweather PRO" = "Astroweather PRO";
 
 /* No comment provided by engineer. */
 "Available" = "Доступно";
@@ -212,7 +212,7 @@
 "You received a message, tap to view" = "Вам пришло сообщение, нажмите для прочтения";
 
 /* No comment provided by engineer. */
-"About Astroweather PRO" = "Об Астропогоде PRO";
+"About Astroweather PRO" = "Об Astroweather PRO";
 
 /* No comment provided by engineer. */
 "Unknown User" = "Неизвестный пользователь";
@@ -446,7 +446,7 @@
 "Report Failed: %@" = "Не удалось сообщить о нарушении: %@";
 
 /* No comment provided by engineer. */
-"Wrong data format" = "Невыерный формат данных";
+"Wrong data format" = "Неверный формат данных";
 
 /* No comment provided by engineer. */
 "No such record" = "Нет такой записи";
@@ -464,7 +464,7 @@
 "Welcome to Quanzi" = "Добро пожаловать в Quanzi";
 
 /* No comment provided by engineer. */
-"Quanzi is a place to share, you can share text or photos via the camera button and they can be seen by everyone using Astroweather.\nIf any content here disturbed you or you wanted to delete/modify your posted contents, you can report it in its detail page." = "Quanzi — это место для обмена текстами и фотографиями, которые будут видны всем, кто использует Астропогоду.\nЕсли вы хотите сообщить о нарушении у какой-либо публикации или вы хотели удалить/изменить свою, вы можете это сделать на странице с подробностями.";
+"Quanzi is a place to share, you can share text or photos via the camera button and they can be seen by everyone using Astroweather.\nIf any content here disturbed you or you wanted to delete/modify your posted contents, you can report it in its detail page." = "Quanzi — это место для обмена текстами и фотографиями, которые будут видны всем, кто использует Astroweather.\nЕсли вы хотите сообщить о нарушении у какой-либо публикации или вы хотели удалить/изменить свою, вы можете это сделать на странице с подробностями.";
 
 /* No comment provided by engineer. */
 "Copy" = "Копировать";
@@ -956,19 +956,19 @@
 "Quanzi not found" = "Quanzi не найден";
 
 /* No comment provided by engineer. */
-"Browse Quanzi with Astroweather" = "Открыть Quanzi через Астропогоду";
+"Browse Quanzi with Astroweather" = "Открыть Quanzi через Astroweather";
 
 /* No comment provided by engineer. */
-"Recommend Astroweather to Friends" = "Порекомендовать Астропогоду друзьям";
+"Recommend Astroweather to Friends" = "Порекомендовать Astroweather друзьям";
 
 /* No comment provided by engineer. */
-"Welcome to Astroweather" = "Добро пожаловать в Астропогоду";
+"Welcome to Astroweather" = "Добро пожаловать в Astroweather";
 
 /* No comment provided by engineer. */
 "Explore your astronomy world here" = "Исследуйте мир астрономии";
 
 /* No comment provided by engineer. */
-"Unable to determine your current location, please make sure location service is enabled on your iPhone and permission is granted to Astroweather." = "Не удалось определить ваше текущее местоположение. Убедитесь, что на вашем iPhone включена геопозиция и что Астропогода имеет к ней доступ.";
+"Unable to determine your current location, please make sure location service is enabled on your iPhone and permission is granted to Astroweather." = "Не удалось определить ваше текущее местоположение. Убедитесь, что на вашем iPhone включена геопозиция и что Astroweather имеет к ней доступ.";
 
 /* No comment provided by engineer. */
 "Check astroweather report now" = "Проверьте прогноз астропогоды";
@@ -1116,7 +1116,7 @@
 "Solar System" = "Солнечная система";
 
 /* No comment provided by engineer. */
-"View Astroweather on your home screen." = "Добавить Астропогоду на домашний экран.";
+"View Astroweather on your home screen." = "Добавить Astroweather на домашний экран.";
 
 /* No comment provided by engineer. */
 "No Name" = "Нет названия";

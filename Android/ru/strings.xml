@@ -42,8 +42,8 @@
     <string name="help_section_instruction6">Предупреждение о влажной погоде. Слева направо: относительная влажность от 80%% до 90%%, от 90%% до 95%% и более 95%%.</string>
     <string name="help_section_instruction7">Предупреждение о ветренной погоде. Слева направо: постоянная скорость ветра от 8,0 до 10,8 м/с (свежий), от 10,8 до 17,2 м/с (сильный) и более 17,2 м/с (штормовой или сильнее).</string>
     <string name="help_section_instruction8">Индикатор направления ветра, стрелка вверх указывает на южный ветер (ветер с юга).</string>
-    <string name="help_section_recommend">Порекомендовать Астропогоду друзьям</string>
-    <string name="recommend_astrowether_title">Добро пожаловать в Астропогоду</string>
+    <string name="help_section_recommend">Порекомендовать Astroweather друзьям</string>
+    <string name="recommend_astrowether_title">Добро пожаловать в Astroweather</string>
     <string name="recommend_astrowether_detail">Исследуйте мир астрономии</string>
     <string name="navigation_drawer_open">Открыть панель</string>
     <string name="navigation_drawer_close">Закрыть панель</string>
@@ -144,7 +144,7 @@
 
     <string name="setting_instructions">Помощь</string>
     <string name="setting_submit_feedback">Написать разработчику</string>
-    <string name="setting_recommend_to_friend">Порекомендовать Астропогоду друзьям</string>
+    <string name="setting_recommend_to_friend">Порекомендовать Astroweather друзьям</string>
 
     <string name="setting_version">Версия</string>
     <string name="setting_about">О программе</string>
@@ -158,7 +158,7 @@
     <string name="setting_theme_dark">Тёмная</string>
 
     <string name="setting_about_7timer_header">Астропогода (7Timer!)</string>
-    <string name="setting_about_7timer_info">7Timer! это ряд продуктов онлайн-прогноза, основанная на цифровой модели погоды NOAA/NCEP (Global Forecast System, GFS). 7Timer! был впервые основан в июле 2005 года как исследовательский проект при поддержке Национальной астрономической обсерватории Китая и был в значительной степени модернизирован в 2008 и 2011 годах. В настоящее время он поддерживается Шанхайской астрономической обсерваторией Китайской академии наук. Первоначально был разработан как инструмент прогноза погоды для астрономических целей, поскольку самого автора всегда раздражали переменчивые погодные условия, мешающие наблюдениям.</string>
+    <string name="setting_about_7timer_info">7Timer! это ряд продуктов онлайн-прогноза, основанная на цифровой модели погоды NOAA/NCEP (Global Forecast System, GFS). 7Timer! был впервые представлен в июле 2005 года как исследовательский проект при поддержке Национальной астрономической обсерватории Китая и был в значительной степени модернизирован в 2008 и 2011 годах. В настоящее время он поддерживается Шанхайской астрономической обсерваторией Китайской академии наук. Первоначально разработан как инструмент прогноза погоды для астрономических целей, поскольку самого автора всегда раздражали переменчивые погодные условия, мешающие наблюдениям.</string>
 
     <string name="setting_about_light_pollution_header">Карта засветки</string>
     <string name="setting_about_light_pollution_info">Источник для карты засветки взят из World Atlas 2015.\n\nCredits: Falchi, Fabio; Cinzano, Pierantonio; Duriscoe, Dan; Kyba, Christopher C. M.; Elvidge, Christopher D.; Baugh, Kimberly; Portnov, Boris; Rybnikova, Nataliya A.; Furgoni, Riccardo (2016): Supplement to: The New World Atlas of Artificial Night Sky Brightness. GFZ Data Services. http://doi.org/10.5880/GFZ.1.4.2016.001 Falchi F, Cinzano P, Duriscoe D, Kyba CC, Elvidge CD, Baugh K, Portnov BA, Rybnikova NA, Furgoni R. The new world atlas of artificial night sky brightness. Science Advances. 2016 Jun 1;2(6):e1600377.</string>
@@ -175,5 +175,5 @@
     <string name="sun_riset_detail_button_title">Подробности восхода/захода Солнца</string>
 
     <string name="sun_riset_detail_format">Астрономический рассвет: %s\nНавигационный рассвет: %s\nГражданский рассвет: %s\nНачало восхода: %s\nОкончание восхода: %s\nОкончание «золотого часа»: %s\nВерхняя кульминация: %s\nНачало «золотого часа»: %s\nНачало захода: %s\nОкончание захода: %s\nОкончание гражданских сумерек: %s\nОкончание навигационных сумерек: %s\nОкончание астрономических сумерек: %s\nНижняя кульминация: %s\n</string>
-    <string name="app_name">Астропогода</string>
+    <string name="app_name">Astroweather</string>
 </resources>

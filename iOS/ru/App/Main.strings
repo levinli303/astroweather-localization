@@ -41,7 +41,7 @@
 "Oco-vm-RDa.title" = "О программе";
 
 /* Class = "UILabel"; text = "If you like Astroweather, you can make our day by purchasing Astro PRO."; ObjectID = "zMP-5H-CwO"; */
-"zMP-5H-CwO.text" = "Если вам понравилась Астропогода, вы можете порадовать разработчика покупкой Astro PRO.";
+"zMP-5H-CwO.text" = "Если вам понравилась Astroweather, вы можете порадовать разработчика покупкой Astro PRO.";
 
 /* Class = "TableViewSection"; headerTitle = "Support Developer"; ObjectID = "hV7-98-W5v"; */
 "hV7-98-W5v.headerTitle" = "Поддержать разработчиков";
@@ -62,7 +62,7 @@
 "JZO-Fb-5vE.headerTitle" = "Астропогода (7Timer!)";
 
 /* Class = "UILabel"; text = "7Timer! is a series of web-based meteorological forecast products, mainly derived from the NOAA/NCEP-based numeric weather model, the Global Forecast System (GFS). 7Timer! was firstly established in July 2005 as an exploration product under supported of the National Astronomical Observatories of China and had been largely renovated in 2008 and 2011. Currently it is supported by the Shanghai Astronomical Observatory of Chinese Academy of Sciences. It was firstly designed as a weather forecast tool for astronomical purpose, as the author himself is a long-term star gazer and was always annoyed by fluky weather conditions."; */
-"qSt-35-8bu.text" = "7Timer! это ряд продуктов онлайн-прогноза, основанная на цифровой модели погоды NOAA/NCEP (Global Forecast System, GFS). 7Timer! был впервые основан в июле 2005 года как исследовательский проект при поддержке Национальной астрономической обсерватории Китая и был в значительной степени модернизирован в 2008 и 2011 годах. В настоящее время он поддерживается Шанхайской астрономической обсерваторией Китайской академии наук. Первоначально был разработан как инструмент прогноза погоды для астрономических целей, поскольку самого автора всегда раздражали переменчивые погодные условия, мешающие наблюдениям.";
+"qSt-35-8bu.text" = "7Timer! это ряд продуктов онлайн-прогноза, основанная на цифровой модели погоды NOAA/NCEP (Global Forecast System, GFS). 7Timer! был впервые представлен в июле 2005 года как исследовательский проект при поддержке Национальной астрономической обсерватории Китая и был в значительной степени модернизирован в 2008 и 2011 годах. В настоящее время он поддерживается Шанхайской астрономической обсерваторией Китайской академии наук. Первоначально разработан как инструмент прогноза погоды для астрономических целей, поскольку самого автора всегда раздражали переменчивые погодные условия, мешающие наблюдениям.";
 
 /* Class = "UILabel"; text = "Please note that we (developers of Astroweather) are not the service provider."; ObjectID = "rPH-iB-NF4"; */
 "rPH-iB-NF4.text" = "Обратите внимание, что разработчики приложения не являются поставщиками служб прогноза.";

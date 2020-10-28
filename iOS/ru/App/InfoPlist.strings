@@ -8,7 +8,7 @@
 
 
 // English: Astroweather
-"CFBundleDisplayName" = "Астропогода";
+"CFBundleDisplayName" = "Astroweather";
 
 // English: Location service is needed for showing the weather of your location and display your location on the map
 "NSLocationAlwaysAndWhenInUseUsageDescription" = "Доступ к геопозиции необходим для отображения погоды в вашем регионе и отображения вашего местоположения на карте";
