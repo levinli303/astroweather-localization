@@ -176,4 +176,6 @@
 
     <string name="sun_riset_detail_format">Night End: %s\nNautical Dawn: %s\nDawn: %s\nSunrise: %s\nSunrise End: %s\nGolden Hour End: %s\nSolar Noon: %s\nGolden Hour: %s\nSunset Start: %s\nSunset: %s\nDusk: %s\nNautical Dusk: %s\nNight: %s\nNadir: %s\n</string>
     <string name="app_name">Astroweather</string>
+    <string name="event_add_event_to_calendar_alert_title">Do you want to add this event to calendar?</string>
+    <string name="event_astroweather_event_common_title">Astroweather Event</string>
 </resources>

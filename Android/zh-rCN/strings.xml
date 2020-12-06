@@ -176,4 +176,6 @@
     <string name="satellite_area_europe">欧洲</string>
     <string name="satellite_type_visual_sat24">可见光（Sat24）</string>
     <string name="satellite_type_infrared_sat24">红外（Sat24）</string>
+    <string name="event_astroweather_event_common_title">晴天钟事件</string>
+    <string name="event_add_event_to_calendar_alert_title">您是否希望将此事件添加到日历中？</string>
 </resources>
