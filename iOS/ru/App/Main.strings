@@ -52,6 +52,12 @@
 /* Class = "UILabel"; text = "Rise and set times for astro objects are calculated on your device without the need of Internet connection."; ObjectID = "cv9-Zx-vgh"; */
 "cv9-Zx-vgh.text" = "Время восхода и захода небесных тел рассчитывается на вашем устройстве без необходимости подключения к Интернету.";
 
+/* Class = "TableViewSection"; headerTitle = "Translators"; ObjectID = "Btw-SX-z3b"; */
+"Btw-SX-z3b.headerTitle" = "Переводчики";
+
+/* Class = "UILabel"; text = "Russian: Askaniy Anpilogov"; ObjectID = "WlO-03-SUo"; */
+"WlO-03-SUo.text" = "Русский: Askaniy Anpilogov";
+
 /* Class = "TableViewSection"; headerTitle = "Light Pollution Map"; ObjectID = "qc9-XW-4iH"; */
 "qc9-XW-4iH.headerTitle" = "Карта засветки";
 

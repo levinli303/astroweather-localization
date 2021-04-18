@@ -273,4 +273,18 @@
     <string name="riset_star_aljanah">Aljanah</string>
     <string name="riset_star_acrab">Acrab</string>
     <string name="riset_star_galactic_center">Galactic Center</string>
+    <string name="event_add_event_to_calendar_alert_title">Вы хотите добавить данное событие в календарь?</string>
+    <string name="event_astroweather_event_common_title">Событие Astroweather</string>
+    <string name="settings_privacy_policy_entry">Политика конфиденциальности и условия пользования</string>
+    <string name="main_privacy_prompt_title">Политика конфиденциальности и условия пользования</string>
+    <string name="main_privacy_prompt_detail">Просим внимательно ознакомиться с политикой конфиденциальности и условиями пользования.</string>
+    <string name="main_privacy_prompt_agree">Принимаю</string>
+    <string name="main_privacy_prompt_disagree">"Напомнить позже "</string>
+    <string name="main_privacy_prompt_view_policy">"Ознакомиться с политикой конфиденциальности "</string>
+    <string name="event_cannot_add_event_system_error">"Не удаётся добавить событие в календарь. "</string>
+    <string name="ad_action_skip">Пропустить</string>
+    <string name="ad_action_skip_seconds">%d с</string>
+    <string name="ad_close_ad">Закрыть</string>
+    <string name="setting_about_translators">Переводчики</string>
+    <string name="setting_about_translator_list">Русский: Askaniy Anpilogov</string>
 </resources>

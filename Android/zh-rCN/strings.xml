@@ -185,6 +185,7 @@
     <string name="main_privacy_prompt_disagree">暂不同意</string>
     <string name="main_privacy_prompt_agree">同意</string>
     <string name="event_cannot_add_event_system_error">无法添加事件到系统日历中。</string>
+
     <string name="ad_action_skip">跳过</string>
     <string name="ad_action_skip_seconds">%d s</string>
     <string name="ad_close_ad">关闭</string>
@@ -285,4 +286,6 @@
     <string name="riset_star_aljanah">天津九</string>
     <string name="riset_star_acrab">房宿四</string>
     <string name="riset_star_galactic_center">银心</string>
+    <string name="setting_about_translators">译者</string>
+    <string name="setting_about_translator_list">俄语：Askaniy Anpilogov</string>
 </resources>

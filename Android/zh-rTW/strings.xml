@@ -259,4 +259,6 @@
     <string name="riset_star_aljanah">天津九</string>
     <string name="riset_star_acrab">房宿四</string>
     <string name="riset_star_galactic_center">銀心</string>
+    <string name="setting_about_translators">譯者</string>
+    <string name="setting_about_translator_list">俄語：Askaniy Anpilogov</string>
 </resources>

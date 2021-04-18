@@ -52,6 +52,12 @@
 /* Class = "UILabel"; text = "Rise and set times for astro objects are calculated on your device without the need of Internet connection."; ObjectID = "cv9-Zx-vgh"; */
 "cv9-Zx-vgh.text" = "天体升落时间是在手机上计算的，不需要网络连接也可以正常使用。";
 
+/* Class = "TableViewSection"; headerTitle = "Translators"; ObjectID = "Btw-SX-z3b"; */
+"Btw-SX-z3b.headerTitle" = "译者";
+
+/* Class = "UILabel"; text = "Russian: Askaniy Anpilogov"; ObjectID = "WlO-03-SUo"; */
+"WlO-03-SUo.text" = "俄语：Askaniy Anpilogov";
+
 /* Class = "TableViewSection"; headerTitle = "Light Pollution Map"; ObjectID = "qc9-XW-4iH"; */
 "qc9-XW-4iH.headerTitle" = "光害地图";
 
