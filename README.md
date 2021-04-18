@@ -1,5 +1,5 @@
 # Astroweather
-Toolkits for astronomical observation
+Toolkit for astronomical observation
 
 ## Description
 Astroweather is weather forecast dedicated to weather for astronomy observation.
