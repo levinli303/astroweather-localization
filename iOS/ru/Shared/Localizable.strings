@@ -1,4 +1,7 @@
 /* No comment provided by engineer. */
+"Add" = "Добавить";
+
+/* No comment provided by engineer. */
 "Adding a location" = "Добавление местоположения";
 
 /* No comment provided by engineer. */
@@ -36,9 +39,6 @@
 
 /* No comment provided by engineer. */
 "OK" = "Ок";
-
-/* No comment provided by engineer. */
-"Pick a location by long press..." = "Выберите местоположение долгим нажатием...";
 
 /* No comment provided by engineer. */
 "Unable to get data" = "Не удалось получить данные";
@@ -1067,7 +1067,7 @@
 "Remove Ads" = "Убрать рекламу";
 
 /* No comment provided by engineer. */
-"Ads will be disabled for 4 days, restart Astroweather to take effect. Alternatively, you can also purchase Astro PRO to disable ads entirely." = "Реклама будет отключена на 4 дня, для вступления в силу перезапустите приложение. Также вы также можете приобрести Astro PRO, чтобы полностью отключить рекламу.";
+"Ads will be disabled for 1 day, restart Astroweather to take effect. Alternatively, you can also purchase Astro PRO to disable ads entirely." = "Реклама будет отключена на 1 день, для вступления в силу перезапустите приложение. Также вы также можете приобрести Astro PRO, чтобы полностью отключить рекламу.";
 "Sun Rise/Set Detail" = "Подробности восхода/захода Солнца";
 
 /* No comment provided by engineer. */
@@ -1162,3 +1162,6 @@
 
 /* No comment provided by engineer. */
 "Please use home screen widget instead" = "Вместо этого используйте виджет на главном экране";
+
+/* No comment provided by engineer. */
+"Close" = "Close";
