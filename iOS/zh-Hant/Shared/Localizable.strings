@@ -11,9 +11,6 @@
 "Change Name" = "修改名稱";
 
 /* No comment provided by engineer. */
-"Modifying the location" = "修改位置";
-
-/* No comment provided by engineer. */
 "Changing name" = "修改名稱";
 
 /* No comment provided by engineer. */
@@ -23,13 +20,10 @@
 "Delete" = "刪除";
 
 /* No comment provided by engineer. */
-"Do you wish to delete this Quanzi?" = "您是否希望刪除本條圈子？";
+"Do you want to delete this Quanzi?" = "您是否希望刪除本條圈子？";
 
 /* No comment provided by engineer. */
-"Do you wish to delete this comment?" = "您是否希望刪除本條評論？";
-
-/* No comment provided by engineer. */
-"Finish" = "完成";
+"Do you want to delete this comment?" = "您是否希望刪除本條評論？";
 
 /* No comment provided by engineer. */
 "Name" = "名稱";
@@ -47,13 +41,13 @@
 "Octet-gram of cloud cover, blue is for clear while white is for cloud. e.g. the \"cake\" on the left is 0% cloud while the one on the right is 100% cloud." = "雲量八分圖，藍色代表晴天所佔的比例，白色代表雲所佔的比例，從左到右的雲量從0%遞增到100%。";
 
 /* No comment provided by engineer. */
-"Astronomical seeing. From left to right: <0.5\", 0.5\"-0.75\", 0.75\"-1\", 1\"-1.25\", 1.25\"-1.5\", 1.5\"-2\", 2\"-2.5\", >2.5\". In short, the smaller/bluer, the better the seeing condition is." = "視寧度，從左到右：<0.5\", 0.5\"-0.75\", 0.75\"-1\", 1\"-1.25\", 1.25\"-1.5\", 1.5\"-2\", 2\"-2.5\", >2.5\"。簡單地說，圖示越小/越藍，視寧度越好。";
+"Astronomical seeing. From left to right: <0.5″, 0.5″-0.75″, 0.75″-1″, 1″-1.25″, 1.25″-1.5″, 1.5″-2″, 2″-2.5″, >2.5″. In short, the smaller/bluer, the better the seeing condition is." = "視寧度，從左到右：<0.5″, 0.5″-0.75″, 0.75″-1″, 1″-1.25″, 1.25″-1.5″, 1.5″-2″, 2″-2.5″, >2.5″。簡單地說，圖示越小/越藍，視寧度越好。";
 
 /* No comment provided by engineer. */
 "Atmospheric transparency. From left to right: <0.3, 0.3-0.4, 0.4-0.5, 0.5-0.6, 0.6-0.7, 0.7-0.85, 0.85-1, >1 (unit: mag per air mass). In short, the fewer bars/bluer, the better the transparency is." = "透明度，從左到右：<0.3, 0.3-0.4, 0.4-0.5, 0.5-0.6, 0.6-0.7, 0.7-0.85, 0.85-1, >1（單位為星等每大氣質量）。簡單地說，橫槓越少/越藍，透明度越好。";
 
 /* No comment provided by engineer. */
-"Chances of rain/snow." = "可能有雨/有雪";
+"Chances of rain/snow." = "可能有雨/有雪。";
 
 /* No comment provided by engineer. */
 "Atmospheric instability. From left to right: lifted index between 0 to -3, -3 to -5, and below -5." = "大氣不穩定度，從左到右分別代表抬升指數介於0至-3，-3至-5，以及小於-5。";
@@ -74,7 +68,7 @@
 "Rate Astroweather" = "給晴天鍾評分";
 
 /* No comment provided by engineer. */
-"Help" = "使用說明";
+"Help" = "輔助說明";
 
 /* No comment provided by engineer. */
 "Seeing" = "視寧度";
@@ -104,7 +98,7 @@
 "Cloud Cover %@" = "雲量 %@";
 
 /* No comment provided by engineer. */
-"Precipation" = "降水";
+"Precipitation" = "降水";
 
 /* No comment provided by engineer. */
 "Time" = "時間";
@@ -170,25 +164,7 @@
 "NNW" = "西北偏北";
 
 /* No comment provided by engineer. */
-"ISS (ZARYA)" = "國際空間站";
-
-/* No comment provided by engineer. */
-"ISS" = "國際空間站";
-
-/* No comment provided by engineer. */
-"TIANGONG-2" = "天宮二號";
-
-/* No comment provided by engineer. */
-"BANXING-2" = "伴星二號";
-
-/* No comment provided by engineer. */
-"Satellite Passes" = "衛星過境";
-
-/* No comment provided by engineer. */
-"Satellite passes evaluates orbits of satellites and calculates the positions of satellites.\n\nSatellites travel at fast speeds and can  pass a local sky multiple times in a day but when can they be seen?\n\nHere we assume the satellites can be seen when the sun is below the horizon by 6° to 30°.\n\nOn the right is the peak position and angle." = "此頁面計算並展示人造衛星的過境情況。\n\n人造衛星圍繞地球運轉速度較快，一天內可能多次穿過某地天空，但是什麼時候能夠看到人造衛星？\n\n這裡我們簡單的假設只有當太陽位於地平線以下6°~30°時才有觀測人造衛星的條件。\n\n列表右側為中天時人造衛星的方向角和仰角。";
-
-/* No comment provided by engineer. */
-"About Astroweather" = "關於晴天鍾";
+"About" = "關於";
 
 /* No comment provided by engineer. */
 "Astroweather" = "晴天鍾";
@@ -210,9 +186,6 @@
 
 /* No comment provided by engineer. */
 "You received a message, tap to view" = "您收到了一條訊息，點選檢視";
-
-/* No comment provided by engineer. */
-"About Astroweather PRO" = "關於晴天鍾PRO";
 
 /* No comment provided by engineer. */
 "Unknown User" = "未知使用者";
@@ -413,7 +386,7 @@
 "%d years ago" = "%d年前";
 
 /* No comment provided by engineer. */
-"Loading..." = "載入中...";
+"Loading..." = "載入中";
 
 /* No comment provided by engineer. */
 "Post Success" = "釋出成功";
@@ -422,16 +395,16 @@
 "Edit Success" = "編輯成功";
 
 /* No comment provided by engineer. */
-"Post Failed: %@" = "釋出失敗: %@";
+"Post Failed" = "釋出失敗";
 
 /* No comment provided by engineer. */
-"Edit Failed: %@" = "編輯失敗: %@";
+"Edit Failed" = "編輯失敗";
 
 /* No comment provided by engineer. */
 "Comment Success" = "評論成功";
 
 /* No comment provided by engineer. */
-"Comment Failed: %@" = "評論失敗: %@";
+"Comment Failed" = "評論失敗";
 
 /* No comment provided by engineer. */
 "Failed to load more contents: %@" = "無法載入更多內容: %@";
@@ -443,7 +416,7 @@
 "Report Success" = "舉報成功";
 
 /* No comment provided by engineer. */
-"Report Failed: %@" = "舉報失敗: %@";
+"Report Failed" = "舉報失敗";
 
 /* No comment provided by engineer. */
 "Wrong data format" = "資料格式錯誤";
@@ -461,22 +434,13 @@
 "Caches cleared" = "清除成功";
 
 /* No comment provided by engineer. */
-"Welcome to Quanzi" = "歡迎使用圈子";
-
-/* No comment provided by engineer. */
-"Quanzi is a place to share, you can share text or photos via the camera button and they can be seen by everyone using Astroweather.\nIf any content here disturbed you or you wanted to delete/modify your posted contents, you can report it in its detail page." = "在這裡，您可以透過右上角的照相機按鈕分享文字或圖片，所有的晴天鍾使用者都可以看到您分享的內容。\n如果這裡存在違規的內容或者您希望修改、刪除您釋出的圈子，請在詳情頁進行舉報。";
-
-/* No comment provided by engineer. */
 "Copy" = "複製";
 
 /* No comment provided by engineer. */
 "Reply" = "回覆";
 
 /* No comment provided by engineer. */
-"PM" = "私信";
-
-/* No comment provided by engineer. */
-"Send" = "傳送";
+"DM" = "私信";
 
 /* No comment provided by engineer. */
 "Messages sent" = "傳送成功";
@@ -506,37 +470,10 @@
 "Up" = "已升起";
 
 /* No comment provided by engineer. */
-"Not up" = "未升起";
+"Not Up" = "未升起";
 
 /* No comment provided by engineer. */
 "@%@:" = "@%@：";
-
-/* No comment provided by engineer. */
-"Purchase or Restore" = "購買或恢復購買";
-
-/* No comment provided by engineer. */
-"Purchase/Restore" = "購買或恢復購買";
-
-/* No comment provided by engineer. */
-"Restore Purchase" = "恢復購買";
-
-/* No comment provided by engineer. */
-"Purchase" = "購買";
-
-/* No comment provided by engineer. */
-"This feature is available by purchase." = "此功能需要購買。";
-
-/* No comment provided by engineer. */
-"Rise/Set Time for Stars" = "恆星升落時間";
-
-/* No comment provided by engineer. */
-"Rise/Set Time for Stars is now available, click right up to try out!" = "恆星升落時間功能上線，點選右上角嘗試！";
-
-/* No comment provided by engineer. */
-"Satellite Passes is now available, click left up to try out!" = "人造衛星過境功能上線，點選左上角嘗試！";
-
-/* No comment provided by engineer. */
-"Take Me There!" = "現在嘗試";
 
 /* No comment provided by engineer. */
 "Sirius" = "天狼星";
@@ -563,7 +500,7 @@
 "Procyon" = "南河三";
 
 /* No comment provided by engineer. */
-"Archernar" = "水委一";
+"Achernar" = "水委一";
 
 /* No comment provided by engineer. */
 "Betelgeuse" = "參宿四";
@@ -572,7 +509,7 @@
 "Hadar" = "馬腹一";
 
 /* No comment provided by engineer. */
-"Altair" = "河鼓二";
+"Atair" = "河鼓二";
 
 /* No comment provided by engineer. */
 "Acrux" = "十字架二";
@@ -602,7 +539,7 @@
 "Regulus" = "軒轅十四";
 
 /* No comment provided by engineer. */
-"Adhara" = "弧矢七";
+"Adharaz" = "弧矢七";
 
 /* No comment provided by engineer. */
 "Shaula" = "尾宿八";
@@ -818,40 +755,28 @@
 "Galactic Center" = "銀心";
 
 /* No comment provided by engineer. */
-"Saved to Favorites" = "已新增到收藏";
-
-/* No comment provided by engineer. */
-"Removed from Favorites" = "已從收藏移除";
-
-/* No comment provided by engineer. */
-"Let's Collect the Stars" = "讓我們收集星星吧";
-
-/* No comment provided by engineer. */
-"By clicking the button, you get to pin your favorite stars to the top of the list!" = "透過點選按鈕，將你關注的星星固定在列表頂部！";
-
-/* No comment provided by engineer. */
 "No Event" = "無天文事件";
 
 /* No comment provided by engineer. */
-"Failed in retrieving satellite images..." = "獲取衛星雲圖失敗...";
+"Failed in retrieving weather chart or image..." = "獲取氣象圖失敗...";
 
 /* No comment provided by engineer. */
 "East Asia" = "東亞";
 
 /* No comment provided by engineer. */
-"East Hemisphere" = "東半球";
+"Full Disk" = "半球";
 
 /* No comment provided by engineer. */
-"RGB Infrared (Himawari)" = "紅外全綵（日本）";
+"RGB Infrared (Himawari)" = "紅外全綵（向日葵）";
 
 /* No comment provided by engineer. */
-"RGB Infrared Enhanced (Himawari)" = "紅外色調強化（日本）";
+"RGB Infrared Enhanced (Himawari)" = "紅外色調強化（向日葵）";
 
 /* No comment provided by engineer. */
-"Black/White Infrared (Himawari)" = "紅外黑白（日本）";
+"Black/White Infrared (Himawari)" = "紅外黑白（向日葵）";
 
 /* No comment provided by engineer. */
-"Visible Spectrum (Himawari)" = "可見光（日本）";
+"Visible Spectrum (Himawari)" = "可見光（向日葵）";
 
 /* No comment provided by engineer. */
 "True Color (FY4A)" = "真彩色（風雲四號）";
@@ -882,6 +807,21 @@
 
 /* No comment provided by engineer. */
 "GeoColor" = "地質色彩";
+
+/* No comment provided by engineer. */
+"GeoColor (Himawari)" = "地質色彩（向日葵）";
+
+/* No comment provided by engineer. */
+"GeoColor (GOES-16)" = "地質色彩（GOES-16）";
+
+/* No comment provided by engineer. */
+"GeoColor (GOES-17)" = "地質色彩（GOES-17）";
+
+/* No comment provided by engineer. */
+"GeoColor (Meteosat-8)" = "地質色彩（Meteosat-8）";
+
+/* No comment provided by engineer. */
+"GeoColor (Meteosat-11)" = "地質色彩（Meteosat-11）";
 
 /* No comment provided by engineer. */
 "China" = "中國";
@@ -926,13 +866,13 @@
 "Full Moon" = "滿月";
 
 /* No comment provided by engineer. */
-"Waning Crescent" = "虧凸月";
+"Waning Crescent" = "殘月";
 
 /* No comment provided by engineer. */
 "Last Quarter" = "下弦月";
 
 /* No comment provided by engineer. */
-"Waning Gibbous" = "殘月";
+"Waning Gibbous" = "虧凸月";
 
 /* No comment provided by engineer. */
 "Quanzi Service Unavailable" = "無法使用圈子";
@@ -959,7 +899,7 @@
 "Browse Quanzi with Astroweather" = "使用晴天鍾瀏覽圈子";
 
 /* No comment provided by engineer. */
-"Recommend Astroweather to Friends" = "推薦晴天鍾給朋友";
+"Tell Friends about Astroweather" = "推薦晴天鍾給朋友";
 
 /* No comment provided by engineer. */
 "Welcome to Astroweather" = "歡迎使用晴天鍾";
@@ -974,7 +914,7 @@
 "Check astroweather report now" = "檢視晴天鍾天氣預報";
 
 /* No comment provided by engineer. */
-"Unable to get data" = "獲取資料失敗";
+"Unable to get data" = "無法獲取資料";
 
 /* No comment provided by engineer. */
 "Location service is disabled" = "定位服務已關閉";
@@ -983,7 +923,7 @@
 "Unable to get current location" = "無法獲取當前位置";
 
 /* No comment provided by engineer. */
-"Loading..." = "載入中...";
+"Loading..." = "載入中";
 
 /* No comment provided by engineer. */
 "Language" = "語言";
@@ -1007,10 +947,10 @@
 "Temperature Unit" = "溫度單位";
 
 /* No comment provided by engineer. */
-"℃" = "攝氏度";
+"℃" = "℃";
 
 /* No comment provided by engineer. */
-"℉" = "華氏度";
+"℉" = "℉";
 
 /* No comment provided by engineer. */
 "Unrecognized format" = "未識別的檔案格式";
@@ -1040,7 +980,7 @@
 "Exit" = "退出";
 
 /* No comment provided by engineer. */
-"Quanzi Service Unavailable" = "圈子服務不可用";
+"Quanzi Service Unavailable" = "無法使用圈子";
 
 /* No comment provided by engineer. */
 "Rename" = "重新命名";
@@ -1055,20 +995,18 @@
 "Red Light Helper" = "紅燈助手";
 
 /* No comment provided by engineer. */
-"Dismiss" = "關閉";
-
-/* No comment provided by engineer. */
 "Sky Chart" = "星圖";
 
 /* No comment provided by engineer. */
-"Submit Feedback" = "傳送反饋";
+"Send Feedback" = "提交反饋";
 
 /* No comment provided by engineer. */
 "Remove Ads" = "隱藏廣告";
 
 /* No comment provided by engineer. */
-"Ads will be disabled for 1 day, restart Astroweather to take effect. Alternatively, you can also purchase Astro PRO to disable ads entirely." = "接下來的1天內將不再顯示廣告，重啟晴天鍾後生效。您也可以購買Astro PRO完全移除廣告。";
+"Ads will be disabled for 1 day, restart Astroweather to take effect. Alternatively, you can also purchase Astro PRO to disable ads entirely." = "接下來的1天內將不再顯示廣告，重啟晴天鍾後生效。您也可以購買晴天鍾PRO完全移除廣告。";
 
+/* No comment provided by engineer. */
 "Sun Rise/Set Detail" = "日出/落詳情";
 
 /* No comment provided by engineer. */
@@ -1087,10 +1025,16 @@
 "Sunrise End: %@" = "日出結束：%@";
 
 /* No comment provided by engineer. */
+"Blue Hour End: %@" = "日出藍色時間結束：%@";
+
+/* No comment provided by engineer. */
 "Golden Hour End: %@" = "日出黃金時間結束：%@";
 
 /* No comment provided by engineer. */
 "Solar Noon: %@" = "上中天：%@";
+
+/* No comment provided by engineer. */
+"Blue Hour: %@" = "日落藍色時間開始：%@";
 
 /* No comment provided by engineer. */
 "Golden Hour: %@" = "日落黃金時間開始：%@";
@@ -1117,22 +1061,22 @@
 "Solar System" = "太陽系";
 
 /* No comment provided by engineer. */
-"View Astroweather on your home screen." = "在主螢幕展示晴天鍾天氣。";
+"View Astroweather on your home screen" = "在主螢幕展示晴天鍾天氣";
 
 /* No comment provided by engineer. */
 "No Name" = "未命名";
 
 /* No comment provided by engineer. */
-"Location service is disabled." = "定位服務已關閉。";
+"Location service is disabled" = "定位服務已關閉";
 
 /* No comment provided by engineer. */
-"Location permission is not granted." = "未獲得定位許可權。";
+"Location permission is not granted" = "未獲得定位許可權";
 
 /* No comment provided by engineer. */
-"Unable to get current location." = "無法獲取當前位置。";
+"Unable to get current location" = "無法獲取當前位置";
 
 /* No comment provided by engineer. */
-"Network error." = "網路錯誤。";
+"Network error" = "網路錯誤";
 
 /* No comment provided by engineer. */
 "Europe" = "歐洲";
@@ -1147,7 +1091,7 @@
 "Rise & Set" = "升落";
 
 /* No comment provided by engineer. */
-"View rise and set time for sun, moon and planets." = "檢視太陽、月球和行星的升落時間。";
+"View rise and set time for sun, moon and planets" = "檢視太陽、月球和行星的升落時間";
 
 /* No comment provided by engineer. */
 "Up, will set at %@" = "已升起，會在%@落下";
@@ -1159,7 +1103,7 @@
 "Lunar Phase" = "月相";
 
 /* No comment provided by engineer. */
-"View current lunar phase." = "檢視當前的月相。";
+"View current lunar phase" = "檢視當前的月相";
 
 /* No comment provided by engineer. */
 "Please use home screen widget instead" = "請使用桌面小元件";
@@ -1167,3 +1111,1079 @@
 /* No comment provided by engineer. */
 "Close" = "關閉";
 
+/* No comment provided by engineer. */
+"Update Time: %@" = "更新時間：%@";
+
+/* No comment provided by engineer. */
+"Choose Polarscope" = "選擇極軸鏡";
+
+/* No comment provided by engineer. */
+"Polar Alignment" = "極軸校準";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_POLARSCOPE_TITLE" = "請選擇正確的極軸鏡，然後將北極星的位置和圖片中的黃點對齊。";
+
+/* No comment provided by engineer. */
+"iOptron" = "艾頓";
+
+/* No comment provided by engineer. */
+"Celestron" = "星特朗";
+
+/* No comment provided by engineer. */
+"SkyWatcher" = "信達";
+
+/* No comment provided by engineer. */
+"Rise Direction: %@\n\nTransit Direction: %@\nTransit Altitude: %@\n\nSet Direction: %@" = "升起位置：%@\n\n中天位置：%@\n中天高度：%@\n\n落下位置：%@";
+
+/* No comment provided by engineer. */
+"Current Direction: %@\nCurrent Altitude: %@" = "當前位置：%@\n當前高度：%@";
+
+/* No comment provided by engineer. */
+"Astroweather Event" = "晴天鍾事件";
+
+/* No comment provided by engineer. */
+"App mag: %@" = "視星等：%@";
+
+/* No comment provided by engineer. */
+"Object type: %@" = "型別：%@";
+
+/* No comment provided by engineer. */
+"Proper name: %@" = "通稱：%@";
+
+/* No comment provided by engineer. */
+"Sort Rules" = "排序規則";
+
+/* No comment provided by engineer. */
+"Filter Rules" = "篩選規則";
+
+/* No comment provided by engineer. */
+"App Mag" = "視星等";
+
+/* No comment provided by engineer. */
+"None" = "無";
+
+/* No comment provided by engineer. */
+"Show Stars" = "顯示恆星";
+
+/* No comment provided by engineer. */
+"Show Messier Objects" = "顯示梅西耶天體";
+
+/* No comment provided by engineer. */
+"Show Galactic Center" = "顯示銀心";
+
+/* No comment provided by engineer. */
+"Show Invisible Objects" = "顯示不可見天體";
+
+/* No comment provided by engineer. */
+"Crab Nebula" = "蟹狀星雲";
+
+/* No comment provided by engineer. */
+"Butterfly Cluster" = "蝴蝶星團";
+
+/* No comment provided by engineer. */
+"Ptolemy Cluster" = "托勒密星團";
+
+/* No comment provided by engineer. */
+"Lagoon Nebula" = "礁湖星雲";
+
+/* No comment provided by engineer. */
+"Wild Duck Cluster" = "野鴨星團";
+
+/* No comment provided by engineer. */
+"Great Globular Cluster in Hercules" = "武仙座球狀星團、仙座星團";
+
+/* No comment provided by engineer. */
+"Eagle Nebula" = "鷹星雲";
+
+/* No comment provided by engineer. */
+"Omega, Swan, Horseshoe, or Lobster Nebula" = "天鵝星雲、奧米加星雲、馬蹄星雲、龍蝦星雲";
+
+/* No comment provided by engineer. */
+"Trifid Nebula" = "三裂星雲";
+
+/* No comment provided by engineer. */
+"Sagittarius Cluster" = "人馬座星團";
+
+/* No comment provided by engineer. */
+"Small Sagittarius Star Cloud" = "人馬座恆星雲";
+
+/* No comment provided by engineer. */
+"Dumbbell Nebula" = "啞鈴星雲";
+
+/* No comment provided by engineer. */
+"Cooling Tower" = "Cooling Tower";
+
+/* No comment provided by engineer. */
+"Andromeda Galaxy" = "仙女座星系";
+
+/* No comment provided by engineer. */
+"Triangulum Galaxy" = "三角座星系";
+
+/* No comment provided by engineer. */
+"Starfish Cluster" = "Starfish Cluster";
+
+/* No comment provided by engineer. */
+"Winnecke 4" = "Winnecke 4";
+
+/* No comment provided by engineer. */
+"Orion Nebula" = "獵戶座星雲";
+
+/* No comment provided by engineer. */
+"De Mairan's Nebula" = "迪馬倫的星雲";
+
+/* No comment provided by engineer. */
+"Beehive Cluster or Praesepe" = "蜂巢星團、鬼宿星團";
+
+/* No comment provided by engineer. */
+"Pleiades" = "昴宿星團、七姊妹星團";
+
+/* No comment provided by engineer. */
+"Whirlpool Galaxy" = "渦狀星系";
+
+/* No comment provided by engineer. */
+"Ring Nebula" = "環狀星雲";
+
+/* No comment provided by engineer. */
+"Sunflower Galaxy" = "向日葵星系";
+
+/* No comment provided by engineer. */
+"Black Eye Galaxy" = "黑眼星系";
+
+/* No comment provided by engineer. */
+"Leo Triplet" = "獅子座三胞胎";
+
+/* No comment provided by engineer. */
+"Phantom Galaxy" = "Phantom Galaxy";
+
+/* No comment provided by engineer. */
+"Little Dumbbell Nebula" = "小啞鈴星雲";
+
+/* No comment provided by engineer. */
+"Cetus A" = "鯨魚A星系";
+
+/* No comment provided by engineer. */
+"Bode's Galaxy" = "波得星系";
+
+/* No comment provided by engineer. */
+"Cigar Galaxy" = "雪茄星系";
+
+/* No comment provided by engineer. */
+"Southern Pinwheel Galaxy" = "南風車星系";
+
+/* No comment provided by engineer. */
+"Virgo A" = "室女A星系";
+
+/* No comment provided by engineer. */
+"Croc's Eye or Cat's Eye" = "Croc's Eye or Cat's Eye";
+
+/* No comment provided by engineer. */
+"Owl Nebula" = "貓頭鷹星雲";
+
+/* No comment provided by engineer. */
+"Pinwheel Galaxy" = "風車星系";
+
+/* No comment provided by engineer. */
+"Spindle Galaxy" = "紡錘星系";
+
+/* No comment provided by engineer. */
+"Sombrero Galaxy" = "墨西哥帽星系";
+
+/* No comment provided by engineer. */
+"Events" = "天象";
+
+/* No comment provided by engineer. */
+"History" = "歷史";
+
+/* No comment provided by engineer. */
+"Please select start time" = "請選擇開始時間";
+
+/* No comment provided by engineer. */
+"Please select end time" = "請選擇結束時間";
+
+/* No comment provided by engineer. */
+"LASCO C2" = "LASCO C2";
+
+/* No comment provided by engineer. */
+"LASCO C3" = "LASCO C3";
+
+/* No comment provided by engineer. */
+"EIT 171" = "171Å 波段";
+
+/* No comment provided by engineer. */
+"EIT 195" = "195Å 波段";
+
+/* No comment provided by engineer. */
+"EIT 284" = "284Å 波段";
+
+/* No comment provided by engineer. */
+"EIT 304" = "304Å 波段";
+
+/* No comment provided by engineer. */
+"SDO/HMI Continuum" = "SDO/HMI 連續譜";
+
+/* No comment provided by engineer. */
+"SDO/HMI Magnetogram" = "SDO/HMI 磁場圖";
+
+/* No comment provided by engineer. */
+"Sunspots" = "太陽黑子";
+
+/* No comment provided by engineer. */
+"Weather Chart/Image" = "氣象圖";
+
+/* No comment provided by engineer. */
+"View real-time weather charts or images" = "檢視實時氣象圖";
+
+/* No comment provided by engineer. */
+"Date" = "日期";
+
+/* No comment provided by engineer. */
+"Time" = "時間";
+
+/* No comment provided by engineer. */
+"Unable to send message" = "無法傳送訊息";
+
+/* No comment provided by engineer. */
+"Connection lost" = "連線丟失";
+
+/* No comment provided by engineer. */
+"Reconnect" = "重連";
+
+/* No comment provided by engineer. */
+"Unable to decode message" = "無法解析資訊";
+
+/* No comment provided by engineer. */
+"Unable to report the message" = "舉報訊息失敗";
+
+/* No comment provided by engineer. */
+"Successfully reported the message" = "舉報訊息成功";
+
+/* No comment provided by engineer. */
+"Spacecraft Passes" = "太空飛行器過境";
+
+/* No comment provided by engineer. */
+"Failed to get spacecraft status." = "無法獲取太空飛行器當前狀態。";
+
+/* No comment provided by engineer. */
+"Start Time" = "開始時間";
+
+/* No comment provided by engineer. */
+"End Time" = "結束時間";
+
+/* No comment provided by engineer. */
+"Rise Time" = "升起時間";
+
+/* No comment provided by engineer. */
+"Set Time" = "下落時間";
+
+/* No comment provided by engineer. */
+"Peak Time" = "最高點時間";
+
+/* No comment provided by engineer. */
+"Azimuth" = "方位";
+
+/* No comment provided by engineer. */
+"Azi / Alt" = "方位 /高度";
+
+/* No comment provided by engineer. */
+"%@ / %@" = "%@ / %@";
+
+/* No comment provided by engineer. */
+"Observable Passes" = "可見的";
+
+/* No comment provided by engineer. */
+"%@ passes" = "%@ 過境";
+
+/* No comment provided by engineer. */
+"%1$@, %2$@ ~ %3$@ above the horizon, %4$@ ~ %5$@ observable." = "%1$@，%2$@ ~ %3$@ 位於地平線以上，%4$@ ~ %5$@ 可見。";
+
+/* No comment provided by engineer. */
+"%1$@, %2$@ ~ %3$@ above the horizon." = "%1$@，%2$@ ~ %3$@ 位於地平線以上。";
+
+/* No comment provided by engineer. */
+"Not observable" = "不可見";
+
+/* No comment provided by engineer. */
+"Observable" = "可見";
+
+/* No comment provided by engineer. */
+"Andromeda" = "仙女座";
+
+/* No comment provided by engineer. */
+"Antlia" = "唧筒座";
+
+/* No comment provided by engineer. */
+"Apus" = "天燕座";
+
+/* No comment provided by engineer. */
+"Aquila" = "寶瓶座";
+
+/* No comment provided by engineer. */
+"Aquarius" = "天鷹座";
+
+/* No comment provided by engineer. */
+"Ara" = "天壇座";
+
+/* No comment provided by engineer. */
+"Aries" = "白羊座";
+
+/* No comment provided by engineer. */
+"Auriga" = "御夫座";
+
+/* No comment provided by engineer. */
+"Bootes" = "牧夫座";
+
+/* No comment provided by engineer. */
+"Canis Major" = "大犬座";
+
+/* No comment provided by engineer. */
+"Canis Minor" = "小犬座";
+
+/* No comment provided by engineer. */
+"Canes Venatici" = "獵犬座";
+
+/* No comment provided by engineer. */
+"Caelum" = "鵰具座";
+
+/* No comment provided by engineer. */
+"Camelopardalis" = "鹿豹座";
+
+/* No comment provided by engineer. */
+"Capricornus" = "摩羯座";
+
+/* No comment provided by engineer. */
+"Carina" = "船底座";
+
+/* No comment provided by engineer. */
+"Cassiopeia" = "仙后座";
+
+/* No comment provided by engineer. */
+"Centaurus" = "半人馬座";
+
+/* No comment provided by engineer. */
+"Cepheus" = "仙王座";
+
+/* No comment provided by engineer. */
+"Cetus" = "鯨魚座";
+
+/* No comment provided by engineer. */
+"Circinus" = "圓規座";
+
+/* No comment provided by engineer. */
+"Cancer" = "巨蟹座";
+
+/* No comment provided by engineer. */
+"Columba" = "天鴿座";
+
+/* No comment provided by engineer. */
+"Coma Berenices" = "后髮座";
+
+/* No comment provided by engineer. */
+"Corona Australis" = "南冕座";
+
+/* No comment provided by engineer. */
+"Corona Borealis" = "北冕座";
+
+/* No comment provided by engineer. */
+"Crater" = "巨爵座";
+
+/* No comment provided by engineer. */
+"Crux" = "南十字座";
+
+/* No comment provided by engineer. */
+"Corvus" = "烏鴉座";
+
+/* No comment provided by engineer. */
+"Cygnus" = "天鵝座";
+
+/* No comment provided by engineer. */
+"Delphinus" = "海豚座";
+
+/* No comment provided by engineer. */
+"Dorado" = "劍魚座";
+
+/* No comment provided by engineer. */
+"Draco" = "天龍座";
+
+/* No comment provided by engineer. */
+"Equuleus" = "小馬座";
+
+/* No comment provided by engineer. */
+"Eridanus" = "波江座";
+
+/* No comment provided by engineer. */
+"Fornax" = "天爐座";
+
+/* No comment provided by engineer. */
+"Gemini" = "雙子座";
+
+/* No comment provided by engineer. */
+"Grus" = "天鶴座";
+
+/* No comment provided by engineer. */
+"Hercules" = "武仙座";
+
+/* No comment provided by engineer. */
+"Horologium" = "時鐘座";
+
+/* No comment provided by engineer. */
+"Hydra" = "長蛇座";
+
+/* No comment provided by engineer. */
+"Hydrus" = "水蛇座";
+
+/* No comment provided by engineer. */
+"Indus" = "印第安座";
+
+/* No comment provided by engineer. */
+"Leo Minor" = "小獅座";
+
+/* No comment provided by engineer. */
+"Lacerta" = "蠍虎座";
+
+/* No comment provided by engineer. */
+"Leo" = "獅子座";
+
+/* No comment provided by engineer. */
+"Lepus" = "天兔座";
+
+/* No comment provided by engineer. */
+"Libra" = "天秤座";
+
+/* No comment provided by engineer. */
+"Lupus" = "豺狼座";
+
+/* No comment provided by engineer. */
+"Lynx" = "天貓座";
+
+/* No comment provided by engineer. */
+"Lyra" = "天琴座";
+
+/* No comment provided by engineer. */
+"Mensa" = "山案座";
+
+/* No comment provided by engineer. */
+"Microscopium" = "顯微鏡座";
+
+/* No comment provided by engineer. */
+"Monoceros" = "麒麟座";
+
+/* No comment provided by engineer. */
+"Musca" = "蒼蠅座";
+
+/* No comment provided by engineer. */
+"Norma" = "矩尺座";
+
+/* No comment provided by engineer. */
+"Octans" = "南極座";
+
+/* No comment provided by engineer. */
+"Ophiuchus" = "蛇夫座";
+
+/* No comment provided by engineer. */
+"Orion" = "獵戶座";
+
+/* No comment provided by engineer. */
+"Pavo" = "孔雀座";
+
+/* No comment provided by engineer. */
+"Pegasus" = "飛馬座";
+
+/* No comment provided by engineer. */
+"Perseus" = "英仙座";
+
+/* No comment provided by engineer. */
+"Phoenix" = "鳳凰座";
+
+/* No comment provided by engineer. */
+"Pictor" = "繪架座";
+
+/* No comment provided by engineer. */
+"Piscis Austrinus" = "南魚座";
+
+/* No comment provided by engineer. */
+"Pisces" = "雙魚座";
+
+/* No comment provided by engineer. */
+"Puppis" = "船尾座";
+
+/* No comment provided by engineer. */
+"Pyxis" = "羅盤座";
+
+/* No comment provided by engineer. */
+"Reticulum" = "網罟座";
+
+/* No comment provided by engineer. */
+"Sculptor" = "玉夫座";
+
+/* No comment provided by engineer. */
+"Scorpius" = "天蠍座";
+
+/* No comment provided by engineer. */
+"Scutum" = "盾牌座";
+
+/* No comment provided by engineer. */
+"Serpens Caput" = "巨蛇座";
+
+/* No comment provided by engineer. */
+"Sextans" = "六分儀座";
+
+/* No comment provided by engineer. */
+"Sagitta" = "天箭座";
+
+/* No comment provided by engineer. */
+"Sagittarius" = "人馬座";
+
+/* No comment provided by engineer. */
+"Taurus" = "金牛座";
+
+/* No comment provided by engineer. */
+"Telescopium" = "望遠鏡座";
+
+/* No comment provided by engineer. */
+"Triangulum Australe" = "南三角座";
+
+/* No comment provided by engineer. */
+"Triangulum" = "三角座";
+
+/* No comment provided by engineer. */
+"Tucana" = "杜鵑座";
+
+/* No comment provided by engineer. */
+"Ursa Major" = "大熊座";
+
+/* No comment provided by engineer. */
+"Ursa Minor" = "小熊座";
+
+/* No comment provided by engineer. */
+"Vela" = "船帆座";
+
+/* No comment provided by engineer. */
+"Virgo" = "室女座";
+
+/* No comment provided by engineer. */
+"Volans" = "飛魚座";
+
+/* No comment provided by engineer. */
+"Vulpecula" = "狐狸座";
+
+/* No comment provided by engineer. */
+"Show Constellations" = "顯示星座";
+
+/* No comment provided by engineer. */
+"Show Constellation Names" = "顯示星座名稱";
+
+/* No comment provided by engineer. */
+"Show Constellation Lines" = "顯示星座線";
+
+/* No comment provided by engineer. */
+"Show Bright Stars" = "顯示亮恆星";
+
+/* No comment provided by engineer. */
+"Show Bright Star Names" = "顯示亮恆星名稱";
+
+/* No comment provided by engineer. */
+"Show Solar System Objects" = "顯示太陽系天體";
+
+/* No comment provided by engineer. */
+"Show Solar System Object Names" = "顯示太陽系天體名稱";
+
+/* No comment provided by engineer. */
+"Show Messier Objects" = "顯示梅西耶天體";
+
+/* No comment provided by engineer. */
+"Show Messier Object Names" = "顯示梅西耶天體名稱";
+
+/* No comment provided by engineer. */
+"Flat Field Helper" = "平場助手";
+
+/* No comment provided by engineer. */
+"Observer Location" = "觀測位置";
+
+/* No comment provided by engineer. */
+"Light Pollution" = "光污染";
+
+/* No comment provided by engineer. */
+"Moon Phases" = "月相";
+
+/* No comment provided by engineer. */
+"Rise & Set" = "升落";
+
+/* No comment provided by engineer. */
+"Stars/DSOs" = "恆星/深空天體";
+
+/* No comment provided by engineer. */
+"Alps (Visible Spectrum (Sat24))" = "阿爾卑斯（可見光（Sat24））";
+
+/* No comment provided by engineer. */
+"Benelux (Visible Spectrum (Sat24))" = "比荷盧（可見光（Sat24））";
+
+/* No comment provided by engineer. */
+"France (Visible Spectrum (Sat24))" = "法國（可見光（Sat24））";
+
+/* No comment provided by engineer. */
+"Germany (Visible Spectrum (Sat24))" = "德國（可見光（Sat24））";
+
+/* No comment provided by engineer. */
+"Greece (Visible Spectrum (Sat24))" = "希臘（可見光（Sat24））";
+
+/* No comment provided by engineer. */
+"Italy (Visible Spectrum (Sat24))" = "義大利（可見光（Sat24））";
+
+/* No comment provided by engineer. */
+"Poland (Visible Spectrum (Sat24))" = "波蘭（可見光（Sat24））";
+
+/* No comment provided by engineer. */
+"Turkey (Visible Spectrum (Sat24))" = "土耳其（可見光（Sat24））";
+
+/* No comment provided by engineer. */
+"Baltic (Visible Spectrum (Sat24))" = "波羅的海（可見光（Sat24））";
+
+/* No comment provided by engineer. */
+"Balkan (Visible Spectrum (Sat24))" = "巴爾幹（可見光（Sat24））";
+
+/* No comment provided by engineer. */
+"Hungary (Visible Spectrum (Sat24))" = "匈牙利（可見光（Sat24））";
+
+/* No comment provided by engineer. */
+"Israel (Visible Spectrum (Sat24))" = "以色列（可見光（Sat24））";
+
+/* No comment provided by engineer. */
+"Romania & Bulgaria (Visible Spectrum (Sat24))" = "羅馬尼亞和保加利亞（可見光（Sat24））";
+
+/* No comment provided by engineer. */
+"Russia (Visible Spectrum (Sat24))" = "俄羅斯（可見光（Sat24））";
+
+/* No comment provided by engineer. */
+"Spain & Portugal (Visible Spectrum (Sat24))" = "西班牙和葡萄牙（可見光（Sat24））";
+
+/* No comment provided by engineer. */
+"Scandinavia (Visible Spectrum (Sat24))" = "斯堪的納維亞（可見光（Sat24））";
+
+/* No comment provided by engineer. */
+"UK & Ireland (Visible Spectrum (Sat24))" = "英國和愛爾蘭（可見光（Sat24））";
+
+/* No comment provided by engineer. */
+"Alps (Infrared (Sat24))" = "阿爾卑斯（紅外（Sat24））";
+
+/* No comment provided by engineer. */
+"Benelux (Infrared (Sat24))" = "比荷盧（紅外（Sat24））";
+
+/* No comment provided by engineer. */
+"France (Infrared (Sat24))" = "法國（紅外（Sat24））";
+
+/* No comment provided by engineer. */
+"Germany (Infrared (Sat24))" = "德國（紅外（Sat24））";
+
+/* No comment provided by engineer. */
+"Greece (Infrared (Sat24))" = "希臘（紅外（Sat24））";
+
+/* No comment provided by engineer. */
+"Italy (Infrared (Sat24))" = "義大利（紅外（Sat24））";
+
+/* No comment provided by engineer. */
+"Poland (Infrared (Sat24))" = "波蘭（紅外（Sat24））";
+
+/* No comment provided by engineer. */
+"Turkey (Infrared (Sat24))" = "土耳其（紅外（Sat24））";
+
+/* No comment provided by engineer. */
+"Baltic (Infrared (Sat24))" = "波羅的海（紅外（Sat24））";
+
+/* No comment provided by engineer. */
+"Balkan (Infrared (Sat24))" = "巴爾幹（紅外（Sat24））";
+
+/* No comment provided by engineer. */
+"Hungary (Infrared (Sat24))" = "匈牙利（紅外（Sat24））";
+
+/* No comment provided by engineer. */
+"Israel (Infrared (Sat24))" = "以色列（紅外（Sat24））";
+
+/* No comment provided by engineer. */
+"Romania & Bulgaria (Infrared (Sat24))" = "羅馬尼亞和保加利亞（紅外（Sat24））";
+
+/* No comment provided by engineer. */
+"Russia (Infrared (Sat24))" = "俄羅斯（紅外（Sat24））";
+
+/* No comment provided by engineer. */
+"Spain & Portugal (Infrared (Sat24))" = "西班牙和葡萄牙（紅外（Sat24））";
+
+/* No comment provided by engineer. */
+"Scandinavia (Infrared (Sat24))" = "斯堪的納維亞（紅外（Sat24））";
+
+/* No comment provided by engineer. */
+"UK & Ireland (Infrared (Sat24))" = "英國和愛爾蘭（紅外（Sat24））";
+
+/* No comment provided by engineer. */
+"Wind" = "風";
+
+/* No comment provided by engineer. */
+"Temperature" = "氣溫";
+
+/* No comment provided by engineer. */
+"Visibility" = "能見度";
+
+/* No comment provided by engineer. */
+"Lighting" = "雷電（地閃）";
+
+/* No comment provided by engineer. */
+"Heavy Rain" = "強降水";
+
+/* No comment provided by engineer. */
+"Gale" = "雷暴大風";
+
+/* No comment provided by engineer. */
+"Hail" = "冰雹";
+
+/* No comment provided by engineer. */
+"Precipitation Forecast (24 hours)" = "降水量預報（24小時）";
+
+/* No comment provided by engineer. */
+"Precipitation Forecast (6 hours)" = "降水量預報（6小時）";
+
+/* No comment provided by engineer. */
+"Temperature Forecast (High)" = "最高氣溫預報";
+
+/* No comment provided by engineer. */
+"Temperature Forecast (Low)" = "最低氣溫預報";
+
+/* No comment provided by engineer. */
+"Aurora" = "極光";
+
+/* No comment provided by engineer. */
+"Northern Hemisphere" = "北半球";
+
+/* No comment provided by engineer. */
+"Southern Hemisphere" = "南半球";
+
+/* No comment provided by engineer. */
+"Sun Position" = "太陽位置";
+
+/* No comment provided by engineer. */
+"Select Date" = "選擇日期";
+
+/* No comment provided by engineer. */
+"%@ ~ %@" = "%@ ~ %@";
+
+/* No comment provided by engineer. */
+"Blue Hour (Civil Dusk)" = "藍色時間（民用暮光）";
+
+/* No comment provided by engineer. */
+"Blue Hour (Civil Twilight)" = "藍色時間（民用晨光）";
+
+/* No comment provided by engineer. */
+"Blue Hour" = "藍色時間";
+
+/* No comment provided by engineer. */
+"Golden Hour" = "金色時間";
+
+/* No comment provided by engineer. */
+"Golden Hour (Civil Dusk)" = "金色時間（民用暮光）";
+
+/* No comment provided by engineer. */
+"Golden Hour (Civil Twilight)" = "金色時間（民用晨光）";
+
+/* No comment provided by engineer. */
+"Nautical Dusk" = "航海暮光";
+
+/* No comment provided by engineer. */
+"Nautical Twilight" = "航海晨光";
+
+/* No comment provided by engineer. */
+"Nautical Twilight/Dusk" = "航海晨光/暮光";
+
+/* No comment provided by engineer. */
+"Astro Dusk" = "天文暮光";
+
+/* No comment provided by engineer. */
+"Astro Twilight" = "天文晨光";
+
+/* No comment provided by engineer. */
+"Astro Twilight/Dusk" = "天文晨光/暮光";
+
+/* No comment provided by engineer. */
+"Day" = "白天";
+
+/* No comment provided by engineer. */
+"Night" = "夜晚";
+
+/* No comment provided by engineer. */
+"Report released at: %@" = "預報時間：%@";
+
+/* No comment provided by engineer. */
+"WeChat" = "WeChat";
+
+/* No comment provided by engineer. */
+"COMMON_REQUEST_LANG" = "zh_TW";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_TITLE_0" = "晴天鍾（7Timer!）";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_0_ROW_CONTENT_0" = "晴天鍾是一系列天氣預測產品的總稱，它們主要提取於美國國家大氣海洋局/氣候環境預測局(NOAA/NCEP)的“全球預測系統”(Global Forecast System, GFS)數值模式。晴天鍾在2005年7月作為國家天文臺宇宙驛站伺服器的實驗產品開始運作，並在2008年及2011年進行了大規模的翻新。目前它由中國科學院上海天文臺中國天文科普網提供硬體及網路支援。";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_0_ROW_CONTENT_1" = "請留意，我們（晴天鍾App開發者）並非晴天鍾服務提供者。";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_TITLE_1" = "光污染地圖";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_1_ROW_CONTENT_0" = "光污染地圖資料來自於World Atlas 2015\n\nCredits: Falchi, Fabio; Cinzano, Pierantonio; Duriscoe, Dan; Kyba, Christopher C. M.; Elvidge, Christopher D.; Baugh, Kimberly; Portnov, Boris; Rybnikova, Nataliya A.; Furgoni, Riccardo (2016): Supplement to: The New World Atlas of Artificial Night Sky Brightness. GFZ Data Services. http://doi.org/10.5880/GFZ.1.4.2016.001 Falchi F, Cinzano P, Duriscoe D, Kyba CC, Elvidge CD, Baugh K, Portnov BA, Rybnikova NA, Furgoni R. The new world atlas of artificial night sky brightness. Science Advances. 2016 Jun 1;2(6):e1600377.";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_TITLE_2" = "天體升落";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_2_ROW_CONTENT_0" = "天體升落時間是在手機上計算的，不需要網路連線也可以正常使用。";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_TITLE_3" = "譯者";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_3_ROW_CONTENT_0" = "俄語：Askaniy Anpilogov";
+
+/* No comment provided by engineer. */
+"NEXT_NEW_MOON_TEMPLATE" = "下次新月：%@";
+
+/* No comment provided by engineer. */
+"NEXT_FULL_MOON_TEMPLATE" = "下次滿月：%@";
+
+/* No comment provided by engineer. */
+"PRIVACY_AGREEMENT_ALERT_TITLE" = "隱私政策與服務協議";
+
+/* No comment provided by engineer. */
+"PRIVACY_AGREEMENT_ALERT_CONTENT" = "請您務必仔細閱讀，充分理解服務協議和隱私政策各條款。如果您同意，請點選下方的「同意」按鈕。";
+
+/* No comment provided by engineer. */
+"PRIVACY_AGREEMENT_ALERT_ACTION_AGREE" = "同意";
+
+/* No comment provided by engineer. */
+"PRIVACY_AGREEMENT_ALERT_ACTION_DISAGREE" = "暫不同意";
+
+/* No comment provided by engineer. */
+"PRIVACY_AGREEMENT_ALERT_ACTION_VIEW" = "檢視協議";
+
+/* No comment provided by engineer. */
+"ERROR_FAILED_TO_GET_DATA" = "獲取資料失敗";
+
+/* No comment provided by engineer. */
+"ACTION_VIEW_MESSAGE" = "檢視";
+
+/* No comment provided by engineer. */
+"ACTION_REFRESH" = "重新整理";
+
+/* No comment provided by engineer. */
+"ACTION_SHOW_MOON_PHASE" = "顯示月相";
+
+/* No comment provided by engineer. */
+"ACTION_SHOW_SKY_CHART" = "顯示星圖";
+
+/* No comment provided by engineer. */
+"ACTION_ADD_TO_CALENDAR" = "新增到日曆";
+
+/* No comment provided by engineer. */
+"NAVIGATION_TITLE_MESSAGES" = "訊息";
+
+/* No comment provided by engineer. */
+"NEXT_SPACECRAFT_PASS_WIDGET_DISPLAY_NAME" = "太空飛行器下次过境";
+
+/* No comment provided by engineer. */
+"NEXT_SPACECRAFT_PASS_WIDGET_DESCRIPTION" = "檢視太空飛行器下次過境的時間";
+
+/* No comment provided by engineer. */
+"NEXT_SPACECRAFT_PASS_WIDGET_NO_PASS_WITHIN_24_HOURS" = "24小時內無過境";
+
+/* No comment provided by engineer. */
+"UNSUPPORTED_SYSTEM_HINT" = "不支援的系統";
+
+/* No comment provided by engineer. */
+"UNSUPPORTED_CONFIGURATION_HINT" = "不支援的配置";
+
+/* No comment provided by engineer. */
+"SATELLITE_MAP_RETRY_BUTTON_TITLE" = "重試";
+
+/* No comment provided by engineer. */
+"SATELLITE_MAP_ANIMATION_IMAGE_CREATE_FAILED" = "無法建立動圖";
+
+/* No comment provided by engineer. */
+"SATELLITE_MAP_ANIMATION_IMAGE_TITLE" = "動圖";
+
+/* No comment provided by engineer. */
+"TAB_TITLE_ASTROWEATHER" = "晴天鍾";
+
+/* No comment provided by engineer. */
+"TAB_TITLE_EVENTS" = "天象";
+
+/* No comment provided by engineer. */
+"TAB_TITLE_CHARTS_AND_IMAGES" = "氣象圖";
+
+/* No comment provided by engineer. */
+"TAB_TITLE_FORUM" = "社群";
+
+/* No comment provided by engineer. */
+"TAB_TITLE_SETTINGS" = "設定";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_ASTROWEATHER_TITLE" = "點選此處檢視每個值的含義。\n你也可以透過點選某些控制元件快速檢視它們所代表的值。";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_SUN_RISET_TITLE" = "關於日出/落詳情";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_SUN_RISET_DETAIL" = "此頁面展示了你選中的觀測點太陽的升起/落下位置和當前位置。\n兩條紅線為太陽昇/落方向，另一條線為太陽當前方向。";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_SPACECRAFT_PASSES_TITLE" = "關於航天器過境";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_SPACECRAFT_PASSES_DETAIL" = "頁面展示了某個航天器在你選中的位置10天以內的過境情況。\n受到條件影響，如太陽高度角，過境並不一定可見。透過切換\"可見的\"選項，你可以檢視所有的過境或者是可見的過境。";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_SKY_CHART_TITLE" = "關於星圖";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_SKY_CHART_DETAIL" = "此頁面展示了你選中的位置某一時間的星圖。\n左 -> 東，上 -> 北，右 -> 西，下 -> 南。\n你可以透過修改一些設定來控制星圖展示的內容。";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_DEFAULT_TITLE" = "圖例。點選顏色方塊檢視含義。";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_BLACK" = "相對於自然光亮度比例：< 0.01\n人造燈光亮度（μcd/m2）：< 1.74\n預估總亮度（mcd/m2）：< 0.176";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_DARK_GRAY" = "相對於自然光亮度比例：0.01 – 0.02\n人造燈光亮度（μcd/m2）：1.74 – 3.48\n預估總亮度（mcd/m2）：0.176 – 0.177";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_GRAY" = "相對於自然光亮度比例：0.02 – 0.04\n人造燈光亮度（μcd/m2）：3.48 – 6.96\n預估總亮度（mcd/m2）：0.177 – 0.181";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_DARK_BLUE" = "相對於自然光亮度比例：0.04 – 0.08\n人造燈光亮度（μcd/m2）：6.96 – 13.9\n預估總亮度（mcd/m2）：0.181 – 0.188";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_BLUE" = "相對於自然光亮度比例：0.08 – 0.16\n人造燈光亮度（μcd/m2）：13.9 – 27.8\n預估總亮度（mcd/m2）：0.188 – 0.202";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_LIGHT_BLUE" = "相對於自然光亮度比例：0.16 – 0.32\n人造燈光亮度（μcd/m2）：27.8 – 55.7\n預估總亮度（mcd/m2）：0.202 – 0.230";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_DARK_GREEN" = "相對於自然光亮度比例：0.32 – 0.64\n人造燈光亮度（μcd/m2）：55.7 – 111\n預估總亮度（mcd/m2）：0.230 – 0.285";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_GREEN" = "相對於自然光亮度比例：0.64 – 1.28\n人造燈光亮度（μcd/m2）：111 – 223\n預估總亮度（mcd/m2）：0.285 – 0.397";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_YELLOW" = "相對於自然光亮度比例：1.28 – 2.56\n人造燈光亮度（μcd/m2）：223 – 445\n預估總亮度（mcd/m2）：0.397 – 0.619";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_ORANGE" = "相對於自然光亮度比例：2.56 – 5.12\n人造燈光亮度（μcd/m2）：445 – 890\n預估總亮度（mcd/m2）：0.619 – 1.065";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_RED" = "相對於自然光亮度比例：5.12 – 10.2\n人造燈光亮度（μcd/m2）：890 – 1780\n預估總亮度（mcd/m2）：1.065 – 1.96";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_MAGENTA" = "相對於自然光亮度比例：10.2 – 20.5\n人造燈光亮度（μcd/m2）：1780 – 3560\n預估總亮度（mcd/m2）：1.96 – 3.74";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_PINK" = "相對於自然光亮度比例：20.5 – 41\n人造燈光亮度（μcd/m2）：3560 – 7130\n預估總亮度（mcd/m2）：3.74 – 7.30";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_WHITE" = "相對於自然光亮度比例：> 41\n人造燈光亮度（μcd/m2）：> 7130\n預估總亮度（mcd/m2）：> 7.30";
+
+/* No comment provided by engineer. */
+"FRONT_PAGE_SECTION_VISIBLE_TITLE" = "今夜可見";
+
+/* No comment provided by engineer. */
+"COMMON_NOT_AVAILABLE" = "N/A";
+
+/* No comment provided by engineer. */
+"SPACECRAFT_PASSES_SKY_CHART_NOT_VISIBLE_INFO_TEXT" = "藍色曲線為航天器的軌跡。";
+
+/* No comment provided by engineer. */
+"SPACECRAFT_PASSES_SKY_CHART_VISIBLE_INFO_TEXT" = "藍色曲線為航天器的軌跡。白色部分為可見的部分。";
+
+/* No comment provided by engineer. */
+"ADD_LOCATION_TITLE" = "選擇位置";
+
+/* No comment provided by engineer. */
+"SETTINGS_TITLE" = "設定";
+
+/* No comment provided by engineer. */
+"ABOUT_TITLE" = "關於";
+
+/* No comment provided by engineer. */
+"HELP_TITLE" = "輔助說明";
+
+/* No comment provided by engineer. */
+"QUANZI_TITLE" = "圈子";
+
+/* No comment provided by engineer. */
+"ASTROWEATHER_TAB_ASTRO" = "天文";
+
+/* No comment provided by engineer. */
+"ASTROWEATHER_TAB_CIVIL" = "氣象";
+
+/* No comment provided by engineer. */
+"ASTROWEATHER_FIELD_TEMP" = "溫度";
+
+/* No comment provided by engineer. */
+"ASTROWEATHER_FIELD_CLOUD" = "雲量";
+
+/* No comment provided by engineer. */
+"ASTROWEATHER_FIELD_SEEING" = "視寧度";
+
+/* No comment provided by engineer. */
+"ASTROWEATHER_FIELD_TRANSPARENCY" = "透明度";
+
+/* No comment provided by engineer. */
+"ASTROWEATHER_FIELD_HUMIDITY" = "溼度";
+
+/* No comment provided by engineer. */
+"ASTROWEATHER_FIELD_PRECIPITATION" = "降水";
+
+/* No comment provided by engineer. */
+"ASTROWEATHER_FIELD_INSTABILITY" = "不穩定度";
+
+/* No comment provided by engineer. */
+"ASTROWEATHER_FIELD_WIND_DIRECTION" = "風向";
+
+/* No comment provided by engineer. */
+"ASTROWEATHER_FIELD_WIND_SPEED" = "風速";
+
+/* No comment provided by engineer. */
+"ASTROWEATHER_FIELD_TIME" = "時間";
+
+/* No comment provided by engineer. */
+"ASTROWEATHER_FIELD_WEATHER" = "天氣";
+
+/* No comment provided by engineer. */
+"TEXT_INPUT_SUBMIT_BUTTON_DEFAULT_TITLE" = "傳送";
+
+/* No comment provided by engineer. */
+"SETTINGS_SECTION_PREFERENCES" = "偏好設定";
+
+/* No comment provided by engineer. */
+"SETTINGS_SECTION_INFO" = "資訊";
+
+/* No comment provided by engineer. */
+"SETTINGS_SECTION_TOOLS" = "工具";
+
+/* No comment provided by engineer. */
+"SETTINGS_SECTION_SYNC" = "同步";
+
+/* No comment provided by engineer. */
+"SKY_CHART_SELECT_TIME_HINT" = "選擇時間";
+
+/* No comment provided by engineer. */
+"SKY_CHART_TIME_HINT" = "時間";
+
+/* No comment provided by engineer. */
+"SETTING_PURCHASE_ASTRO_PRO_TITLE" = "購買/恢復購買晴天钟PRO";
+
+/* No comment provided by engineer. */
+"SETTING_PURCHASE_ASTRO_PRO_ACTION_RESTORE" = "恢復購買";
+
+/* No comment provided by engineer. */
+"SETTING_PURCHASE_ASTRO_PRO_ACTION_PURCHASE" = "購買";
+
+/* No comment provided by engineer. */
+"ACTION_SHOW_EVENT_DETAILS" = "顯示詳情（英語）";

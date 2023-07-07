@@ -3,6 +3,7 @@
     <string name="title_setting">Настройки</string>
     <string name="title_event">События</string>
     <string name="title_quanzi">Форум</string>
+    <string name="title_navigation_quanzi">Форум</string>
     <string name="title_satellite">Спутниковые снимки</string>
     <string name="title_pick_location">Выбрать местоположение</string>
     <string name="title_set_name">Добавить название</string>
@@ -35,7 +36,7 @@
     <string name="help_section_about">О программе</string>
     <string name="help_section_instruction">Помощь</string>
     <string name="help_section_instruction1">Круговая диаграмма облачного слоя, где отношение синего к белому показывает пропорцию между чистым небом и облаками, т.е. диаграмма слева соответствует 0%% облачности, а справа — 100%% облачности.</string>
-    <string name="help_section_instruction2">Астрономическая видимость. Слева направо: &lt;0,5\", 0,5\"-0,75\", 0,75\"-1\", 1\"-1,25\", 1,25\"-1,5\", 1,5\"-2\", 2\"-2,5\", &gt;2,5\". Если кратко, чем меньше и насыщеннее круг, тем лучшего углового разрешения можно ожидать.</string>
+    <string name="help_section_instruction2">Астрономическая видимость. Слева направо: &lt;0,5″, 0,5″-0,75″, 0,75″-1″, 1″-1,25″, 1,25″-1,5″, 1,5″-2″, 2″-2,5″, &gt;2,5″. Если кратко, чем меньше и насыщеннее круг, тем лучшего углового разрешения можно ожидать.</string>
     <string name="help_section_instruction3">Прозрачность атмосферы. Слева направо: &lt;0,3, 0,3–0,4, 0,4–0,5, 0,5–0,6, 0,6–0,7, 0,7–0,85, 0,85–1, &gt;1 (ед. измерения: зв. вел. на массу воздуха). Если кратко, чем меньше полос и больше их насыщенность, тем меньшего атмосферного поглощения тусклых объектов можно ожидать.</string>
     <string name="help_section_instruction4">Вероятность дождя или снега.</string>
     <string name="help_section_instruction5">Турбулентность атмосферы. Слева направо: смещённый индекс от 0 до -3, от -3 до -5 и ниже -5.</string>
@@ -64,19 +65,19 @@
     <string name="astro_param_seeing">Видимость</string>
     <string name="astro_param_transparency">Прозрачность</string>
     <string name="astro_param_humidity">Влажность</string>
-    <string name="astro_param_precipation">Осадки</string>
+    <string name="astro_param_precipitation">Осадки</string>
     <string name="astro_param_instability">Турбулентность</string>
     <string name="astro_param_wind_direction">Направление ветра</string>
     <string name="astro_param_wind_speed">Скорость ветра</string>
-    <string name="astro_param_time">Время</string>
+    <string name="common_time">Время</string>
     <string name="astro_param_today">Сегодня</string>
     <string name="astro_param_tomorrow">Завтра</string>
 
     <string name="astro_not_up">Солнце под горизонтом</string>
 
     <string name="astro_not_available">Н/Д</string>
-    <string name="astro_next_new_moon">Следующее новолуние: </string>
-    <string name="astro_next_full_moon">Следующее полнолуние: </string>
+    <string name="astro_next_new_moon_template">Следующее новолуние: %s</string>
+    <string name="astro_next_full_moon_template">Следующее полнолуние: %s</string>
 
 
     <string name="astro_new_moon">Новолуние</string>
@@ -96,7 +97,6 @@
     <string name="astro_utility_sun_riset_detail">Подробности восхода/захода Солнца</string>
 
     <string name="satellite_area_east_asia">Восточная Азия</string>
-    <string name="satellite_area_east_hemisphere">Восточное полушарие</string>
     <string name="satellite_area_united_states">США</string>
     <string name="satellite_area_europe">Европа</string>
     <string name="satellite_area_china">Китай</string>
@@ -114,6 +114,11 @@
     <string name="satellite_type_bw_infrared">Black/White Infrared</string>
     <string name="satellite_type_visible_spectrum">Visible Spectrum</string>
     <string name="satellite_type_geo_color">GeoColor</string>
+    <string name="satellite_type_geo_color_himawari">GeoColor (Himawari)</string>
+    <string name="satellite_type_geo_color_goes16">GeoColor (GOES-16)</string>
+    <string name="satellite_type_geo_color_goes17">GeoColor (GOES-17)</string>
+    <string name="satellite_type_geo_color_meteosat8">GeoColor (Meteosat-8)</string>
+    <string name="satellite_type_geo_color_meteosat11">GeoColor (Meteosat-11)</string>
     <string name="satellite_type_visual_sat24">Visible Spectrum (Sat24)</string>
     <string name="satellite_type_infrared_sat24">Infrared (Sat24)</string>
     <string name="satellite_type_radar">Radar</string>
@@ -167,14 +172,14 @@
     <string name="setting_about_riset_info">Время восхода и захода небесных тел рассчитывается на вашем устройстве без необходимости подключения к Интернету.</string>
 
     <string name="setting_hide_ads_title">Убрать рекламу</string>
-    <string name="setting_hide_ads_detail">Реклама будет отключена на 1 день, для вступления в силу перезапустите приложение.</string>
+    <string name="setting_hide_ads_detail">Реклама будет отключена на 1 день, для вступления в силу перезапустите приложение. Также вы также можете приобрести Astro PRO, чтобы полностью отключить рекламу.</string>
 
     <string name="feedback_email_subject">Feedback about Astroweather (Android))</string>
     <string name="feedback_email_title">Feedback</string>
 
     <string name="sun_riset_detail_button_title">Подробности восхода/захода Солнца</string>
 
-    <string name="sun_riset_detail_format">Астрономический рассвет: %s\nНавигационный рассвет: %s\nГражданский рассвет: %s\nНачало восхода: %s\nОкончание восхода: %s\nОкончание «золотого часа»: %s\nВерхняя кульминация: %s\nНачало «золотого часа»: %s\nНачало захода: %s\nОкончание захода: %s\nОкончание гражданских сумерек: %s\nОкончание навигационных сумерек: %s\nОкончание астрономических сумерек: %s\nНижняя кульминация: %s\n</string>
+    <string name="sun_riset_detail_format">Астрономический рассвет: %1$s\nНавигационный рассвет: %2$s\nГражданский рассвет: %3$s\nBlue Hour End: %4$s\nНачало восхода: %5$s\nОкончание восхода: %6$s\nОкончание «золотого часа»: %7$s\nНачало «золотого часа»: %8$s\nНачало захода: %9$s\nОкончание захода: %10$s\nBlue Hour: %11$s\nОкончание гражданских сумерек: %12$s\nОкончание навигационных сумерек: %13$s\nОкончание астрономических сумерек: %14$s</string>
     <string name="app_name">Astroweather</string>
     <string name="riset_calculating">Вычисление…</string>
     <string name="riset_never_rises">Объект невосходящий</string>
@@ -188,10 +193,10 @@
     <string name="riset_star_capella">Capella</string>
     <string name="riset_star_rigel">Rigel</string>
     <string name="riset_star_procyon">Procyon</string>
-    <string name="riset_star_archernar">Archernar</string>
+    <string name="riset_star_achernar">Achernar</string>
     <string name="riset_star_betelgeuse">Betelgeuse</string>
     <string name="riset_star_hadar">Hadar</string>
-    <string name="riset_star_altair">Altair</string>
+    <string name="riset_star_atair">Atair</string>
     <string name="riset_star_acrux">Acrux</string>
     <string name="riset_star_aldebaran">Aldebaran</string>
     <string name="riset_star_antares">Antares</string>
@@ -201,7 +206,7 @@
     <string name="riset_star_deneb">Deneb</string>
     <string name="riset_star_mimosa">Mimosa</string>
     <string name="riset_star_regulus">Regulus</string>
-    <string name="riset_star_adhara">Adhara</string>
+    <string name="riset_star_adharaz">Adharaz</string>
     <string name="riset_star_shaula">Shaula</string>
     <string name="riset_star_castor">Castor</string>
     <string name="riset_star_gacrux">Gacrux</string>
@@ -273,7 +278,6 @@
     <string name="riset_star_aljanah">Aljanah</string>
     <string name="riset_star_acrab">Acrab</string>
     <string name="riset_star_galactic_center">Galactic Center</string>
-    <string name="event_add_event_to_calendar_alert_title">Вы хотите добавить данное событие в календарь?</string>
     <string name="event_astroweather_event_common_title">Событие Astroweather</string>
     <string name="settings_privacy_policy_entry">Политика конфиденциальности и условия пользования</string>
     <string name="main_privacy_prompt_title">Политика конфиденциальности и условия пользования</string>
@@ -287,4 +291,36 @@
     <string name="ad_close_ad">Закрыть</string>
     <string name="setting_about_translators">Переводчики</string>
     <string name="setting_about_translator_list">Русский: Askaniy Anpilogov</string>
+    <string name="satellite_animated_images_title">Анимированные изображения</string>
+    <string name="common_direction_n">Север</string>
+    <string name="common_direction_nne">ССВ</string>
+    <string name="common_direction_ne">СВ</string>
+    <string name="common_direction_ene">ВСВ</string>
+    <string name="common_direction_e">Восток</string>
+    <string name="common_direction_ese">ВЮВ</string>
+    <string name="common_direction_sse">ЮЮВ</string>
+    <string name="common_direction_s">Юг</string>
+    <string name="common_direction_ssw">ЮЮЗ</string>
+    <string name="common_direction_wsw">ЗЮЗ</string>
+    <string name="common_direction_w">Запад</string>
+    <string name="common_direction_wnw">ЗСЗ</string>
+    <string name="common_direction_nnw">ССЗ</string>
+    <string name="common_direction_nw">СЗ</string>
+    <string name="common_direction_sw">ЮЗ</string>
+    <string name="common_direction_se">ЮВ</string>
+    <string name="astro_wind_speed_hint">Скорость ветра %s</string>
+    <string name="astro_wind_direction_hint">Направление ветра %s</string>
+    <string name="astro_cloud_cover_hint">Облачность %s</string>
+    <string name="astro_seeing_hint">Видимость %s</string>
+    <string name="astro_transparency_hint">Прозрачность %s</string>
+    <string name="astro_humidity_hint">Влажность %s</string>
+    <string name="settings_temperature_unit">Единица измерения температуры</string>
+    <string name="common_request_lang">ru</string>
+    <string name="riset_widget_never_rises">Объект невосходящий</string>
+    <string name="riset_widget_never_sets">Объект незаходящий</string>
+    <string name="riset_widget_up">Над горизонтом, сядет в %s</string>
+    <string name="riset_widget_not_up">Под горизонтом, взойдёт в %s</string>
+    <string name="widget_riset_label">Получить время восхода и захода Солнца, Луны и планет</string>
+    <string name="widget_astroweather_label">Добавить Astroweather на домашний экран</string>
+    <string name="event_no_event_hint">Нет событий</string>
 </resources>

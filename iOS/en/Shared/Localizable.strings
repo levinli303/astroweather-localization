@@ -1,170 +1,170 @@
 /* No comment provided by engineer. */
-"Add" = "Добавить";
+"Add" = "Add";
 
 /* No comment provided by engineer. */
-"Adding a location" = "Добавление местоположения";
+"Adding a location" = "Adding a location";
 
 /* No comment provided by engineer. */
-"Cancel" = "Закрыть";
+"Cancel" = "Cancel";
 
 /* No comment provided by engineer. */
-"Change Name" = "Изменить название";
+"Change Name" = "Change Name";
 
 /* No comment provided by engineer. */
-"Changing name" = "Изменение названия";
+"Changing name" = "Changing name";
 
 /* No comment provided by engineer. */
-"Edit" = "Редактировать";
+"Edit" = "Edit";
 
 /* No comment provided by engineer. */
-"Delete" = "Удалить";
+"Delete" = "Delete";
 
 /* No comment provided by engineer. */
-"Do you want to delete this Quanzi?" = "Вы хотите удалить этот Quanzi?";
+"Do you want to delete this Quanzi?" = "Do you want to delete this Quanzi?";
 
 /* No comment provided by engineer. */
-"Do you want to delete this comment?" = "Вы хотите удалить этот комментарий?";
+"Do you want to delete this comment?" = "Do you want to delete this comment?";
 
 /* No comment provided by engineer. */
-"Name" = "Название";
+"Name" = "Name";
 
 /* No comment provided by engineer. */
-"New name" = "Новое название";
+"New name" = "New name";
 
 /* No comment provided by engineer. */
-"OK" = "Ок";
+"OK" = "OK";
 
 /* No comment provided by engineer. */
-"Unable to get data" = "Не удалось получить данные";
+"Unable to get data" = "Unable to get data";
 
 /* No comment provided by engineer. */
-"Octet-gram of cloud cover, blue is for clear while white is for cloud. e.g. the \"cake\" on the left is 0% cloud while the one on the right is 100% cloud." = "Круговая диаграмма облачного слоя, где отношение синего к белому показывает пропорцию между чистым небом и облаками, т.е. диаграмма слева соответствует 0% облачности, а справа — 100% облачности.";
+"Octet-gram of cloud cover, blue is for clear while white is for cloud. e.g. the \"cake\" on the left is 0% cloud while the one on the right is 100% cloud." = "Octet-gram of cloud cover, blue is for clear while white is for cloud. e.g. the \"cake\" on the left is 0% cloud while the one on the right is 100% cloud.";
 
 /* No comment provided by engineer. */
-"Astronomical seeing. From left to right: <0.5″, 0.5″-0.75″, 0.75″-1″, 1″-1.25″, 1.25″-1.5″, 1.5″-2″, 2″-2.5″, >2.5″. In short, the smaller/bluer, the better the seeing condition is." = "Астрономическая видимость. Слева направо: &lt;0,5″, 0,5″-0,75″, 0,75″-1″, 1″-1,25″, 1,25″-1,5″, 1,5″-2″, 2″-2,5″, &gt;2,5″. Если кратко, чем меньше и насыщеннее круг, тем лучшего углового разрешения можно ожидать.";
+"Astronomical seeing. From left to right: <0.5″, 0.5″-0.75″, 0.75″-1″, 1″-1.25″, 1.25″-1.5″, 1.5″-2″, 2″-2.5″, >2.5″. In short, the smaller/bluer, the better the seeing condition is." = "Astronomical seeing. From left to right: <0.5″, 0.5″-0.75″, 0.75″-1″, 1″-1.25″, 1.25″-1.5″, 1.5″-2″, 2″-2.5″, >2.5″. In short, the smaller/bluer, the better the seeing condition is.";
 
 /* No comment provided by engineer. */
-"Atmospheric transparency. From left to right: <0.3, 0.3-0.4, 0.4-0.5, 0.5-0.6, 0.6-0.7, 0.7-0.85, 0.85-1, >1 (unit: mag per air mass). In short, the fewer bars/bluer, the better the transparency is." = "Прозрачность атмосферы. Слева направо: <0,3, 0,3–0,4, 0,4–0,5, 0,5–0,6, 0,6–0,7, 0,7–0,85, 0,85–1, >1 (ед. измерения: зв. вел. на массу воздуха). Если кратко, чем меньше полос и больше их насыщенность, тем меньшего атмосферного поглощения тусклых объектов можно ожидать.";
+"Atmospheric transparency. From left to right: <0.3, 0.3-0.4, 0.4-0.5, 0.5-0.6, 0.6-0.7, 0.7-0.85, 0.85-1, >1 (unit: mag per air mass). In short, the fewer bars/bluer, the better the transparency is." = "Atmospheric transparency. From left to right: <0.3, 0.3-0.4, 0.4-0.5, 0.5-0.6, 0.6-0.7, 0.7-0.85, 0.85-1, >1 (unit: mag per air mass). In short, the fewer bars/bluer, the better the transparency is.";
 
 /* No comment provided by engineer. */
-"Chances of rain/snow." = "Вероятность дождя или снега.";
+"Chances of rain/snow." = "Chances of rain/snow.";
 
 /* No comment provided by engineer. */
-"Atmospheric instability. From left to right: lifted index between 0 to -3, -3 to -5, and below -5." = "Турбулентность атмосферы. Слева направо: смещённый индекс от 0 до -3, от -3 до -5 и ниже -5.";
+"Atmospheric instability. From left to right: lifted index between 0 to -3, -3 to -5, and below -5." = "Atmospheric instability. From left to right: lifted index between 0 to -3, -3 to -5, and below -5.";
 
 /* No comment provided by engineer. */
-"Humid weather warning. From left to right: relative humidity between 80%-90%, 90%-95%, and over 95%." = "Предупреждение о влажной погоде. Слева направо: относительная влажность от 80% до 90%, от 90 до 95% и более 95%.";
+"Humid weather warning. From left to right: relative humidity between 80%-90%, 90%-95%, and over 95%." = "Humid weather warning. From left to right: relative humidity between 80%-90%, 90%-95%, and over 95%.";
 
 /* No comment provided by engineer. */
-"Windy weather warning. From left to right: sustained wind speed between 8.0-10.8m/s (fresh), 10.8-17.2m/s (strong), and over 17.2m/s (gale or above)." = "Предупреждение о ветренной погоде. Слева направо: постоянная скорость ветра от 8,0 до 10,8 м/с (свежий), от 10,8 до 17,2 м/с (сильный) и более 17,2 м/с (штормовой или сильнее).";
+"Windy weather warning. From left to right: sustained wind speed between 8.0-10.8m/s (fresh), 10.8-17.2m/s (strong), and over 17.2m/s (gale or above)." = "Windy weather warning. From left to right: sustained wind speed between 8.0-10.8m/s (fresh), 10.8-17.2m/s (strong), and over 17.2m/s (gale or above).";
 
 /* No comment provided by engineer. */
-"Wind direction indicator, an up arrow indicates south wind(wind coming from south)." = "Индикатор направления ветра, стрелка вверх указывает на южный ветер (ветер с юга).";
+"Wind direction indicator, an up arrow indicates south wind(wind coming from south)." = "Wind direction indicator, an up arrow indicates south wind(wind coming from south).";
 
 /* No comment provided by engineer. */
-"Suggestions and advice for Astroweather" = "Предложения для Astroweather";
+"Suggestions and advice for Astroweather" = "Suggestions and advice for Astroweather";
 
 /* No comment provided by engineer. */
-"Rate Astroweather" = "Оценить Astroweather";
+"Rate Astroweather" = "Rate Astroweather";
 
 /* No comment provided by engineer. */
-"Help" = "Помощь";
+"Help" = "Help";
 
 /* No comment provided by engineer. */
-"Seeing" = "Видимость";
+"Seeing" = "Seeing";
 
 /* No comment provided by engineer. */
-"Seeing %@" = "Видимость %@";
+"Seeing %@" = "Seeing %@";
 
 /* No comment provided by engineer. */
-"Transparency" = "Прозрачность";
+"Transparency" = "Transparency";
 
 /* No comment provided by engineer. */
-"Transparency %@" = "Прозрачность %@";
+"Transparency %@" = "Transparency %@";
 
 /* No comment provided by engineer. */
-"Wind Speed %@" = "Скорость ветра %@";
+"Wind Speed %@" = "Wind Speed %@";
 
 /* No comment provided by engineer. */
-"Wind Direction %@" = "Направление ветра %@";
+"Wind Direction %@" = "Wind Direction %@";
 
 /* No comment provided by engineer. */
-"Humidity %@" = "Влажность %@";
+"Humidity %@" = "Humidity %@";
 
 /* No comment provided by engineer. */
-"Cloud Cover" = "Облачность";
+"Cloud Cover" = "Cloud Cover";
 
 /* No comment provided by engineer. */
-"Cloud Cover %@" = "Облачность %@";
+"Cloud Cover %@" = "Cloud Cover %@";
 
 /* No comment provided by engineer. */
-"Precipitation" = "Осадки";
+"Precipitation" = "Precipitation";
 
 /* No comment provided by engineer. */
-"Time" = "Время";
+"Time" = "Time";
 
 /* No comment provided by engineer. */
-"N" = "С";
+"N" = "N";
 
 /* No comment provided by engineer. */
-"NE" = "СВ";
+"NE" = "NE";
 
 /* No comment provided by engineer. */
-"E" = "В";
+"E" = "E";
 
 /* No comment provided by engineer. */
-"SE" = "ЮВ";
+"SE" = "SE";
 
 /* No comment provided by engineer. */
-"S" = "Ю";
+"S" = "S";
 
 /* No comment provided by engineer. */
-"SW" = "ЮЗ";
+"SW" = "SW";
 
 /* No comment provided by engineer. */
-"W" = "З";
+"W" = "W";
 
 /* No comment provided by engineer. */
-"NW" = "СЗ";
+"NW" = "NW";
 
 /* No comment provided by engineer. */
-"North" = "Север";
+"North" = "North";
 
 /* No comment provided by engineer. */
-"NNE" = "ССВ";
+"NNE" = "NNE";
 
 /* No comment provided by engineer. */
-"ENE" = "ВСВ";
+"ENE" = "ENE";
 
 /* No comment provided by engineer. */
-"East" = "Восток";
+"East" = "East";
 
 /* No comment provided by engineer. */
-"ESE" = "ВЮВ";
+"ESE" = "ESE";
 
 /* No comment provided by engineer. */
-"SSE" = "ЮЮВ";
+"SSE" = "SSE";
 
 /* No comment provided by engineer. */
-"South" = "Юг";
+"South" = "South";
 
 /* No comment provided by engineer. */
-"SSW" = "ЮЮЗ";
+"SSW" = "SSW";
 
 /* No comment provided by engineer. */
-"WSW" = "ЗЮЗ";
+"WSW" = "WSW";
 
 /* No comment provided by engineer. */
-"West" = "Запад";
+"West" = "West";
 
 /* No comment provided by engineer. */
-"WNW" = "ЗСЗ";
+"WNW" = "WNW";
 
 /* No comment provided by engineer. */
-"NNW" = "ССЗ";
+"NNW" = "NNW";
 
 /* No comment provided by engineer. */
-"About" = "Об";
+"About" = "About";
 
 /* No comment provided by engineer. */
 "Astroweather" = "Astroweather";
@@ -173,304 +173,304 @@
 "Astroweather PRO" = "Astroweather PRO";
 
 /* No comment provided by engineer. */
-"Available" = "Доступно";
+"Available" = "Available";
 
 /* No comment provided by engineer. */
-"Not Available" = "Недоступно";
+"Not Available" = "Not Available";
 
 /* No comment provided by engineer. */
 "Quanzi ID" = "Quanzi ID";
 
 /* No comment provided by engineer. */
-"You received a message" = "Вам пришло сообщение";
+"You received a message" = "You received a message";
 
 /* No comment provided by engineer. */
-"You received a message, tap to view" = "Вам пришло сообщение, нажмите для прочтения";
+"You received a message, tap to view" = "You received a message, tap to view";
 
 /* No comment provided by engineer. */
-"Unknown User" = "Неизвестный пользователь";
+"Unknown User" = "Unknown User";
 
 /* No comment provided by engineer. */
-"Me" = "Я";
+"Me" = "Me";
 
 /* No comment provided by engineer. */
-"Version" = "Версия";
+"Version" = "Version";
 
 /* No comment provided by engineer. */
-"Wrong format" = "Неверный формат";
+"Wrong format" = "Wrong format";
 
 /* No comment provided by engineer. */
-"Wrong data" = "Неверные данные";
+"Wrong data" = "Wrong data";
 
 /* No comment provided by engineer. */
-"No data" = "Нет данных";
+"No data" = "No data";
 
 /* No comment provided by engineer. */
-"Successfully added notification" = "Уведомление успешно добавлено";
+"Successfully added notification" = "Successfully added notification";
 
 /* No comment provided by engineer. */
-"You will receive notification 15 minutes before the event" = "Вы получите уведомление за 15 минут до события.";
+"You will receive notification 15 minutes before the event" = "You will receive notification 15 minutes before the event";
 
 /* No comment provided by engineer. */
-"15 minutes" = "15 минут";
+"15 minutes" = "15 minutes";
 
 /* No comment provided by engineer. */
-"An hour" = "1 час";
+"An hour" = "An hour";
 
 /* No comment provided by engineer. */
-"A day" = "1 сутки";
+"A day" = "A day";
 
 /* No comment provided by engineer. */
-"Add Notification" = "Добавить уведомление";
+"Add Notification" = "Add Notification";
 
 /* No comment provided by engineer. */
-"How long before the event do you expect to receive notification?" = "Насколько заранее вы хотите получить уведомление?";
+"How long before the event do you expect to receive notification?" = "How long before the event do you expect to receive notification?";
 
 /* No comment provided by engineer. */
-"Review on the App Store" = "Оцените App Store";
+"Review on the App Store" = "Review on the App Store";
 
 /* No comment provided by engineer. */
-"Clear Notifications" = "Очистить уведомления";
+"Clear Notifications" = "Clear Notifications";
 
 /* No comment provided by engineer. */
-"Success" = "Успешно";
+"Success" = "Success";
 
 /* No comment provided by engineer. */
-"Notifications cleared" = "Уведомления очищены";
+"Notifications cleared" = "Notifications cleared";
 
 /* No comment provided by engineer. */
-"Thanks for your support!" = "Спасибо вам за поддержку!";
+"Thanks for your support!" = "Thanks for your support!";
 
 /* No comment provided by engineer. */
-"Restore Locations From iCloud" = "Восстановить местоположения из iCloud";
+"Restore Locations From iCloud" = "Restore Locations From iCloud";
 
 /* No comment provided by engineer. */
-"Save Locations To iCloud" = "Сохранить местоположения в iCloud";
+"Save Locations To iCloud" = "Save Locations To iCloud";
 
 /* No comment provided by engineer. */
-"iCloud Error" = "Ошибка iCloud";
+"iCloud Error" = "iCloud Error";
 
 /* No comment provided by engineer. */
-"iCloud operation failed..." = "Сбой действия с iCloud...";
+"iCloud operation failed..." = "iCloud operation failed...";
 
 /* No comment provided by engineer. */
-"Save Success" = "Сохранить успех";
+"Save Success" = "Save Success";
 
 /* No comment provided by engineer. */
-"Restore Success" = "Восстановить успех";
+"Restore Success" = "Restore Success";
 
 /* No comment provided by engineer. */
-"Save Bookmarks" = "Сохранить закладки";
+"Save Bookmarks" = "Save Bookmarks";
 
 /* No comment provided by engineer. */
-"By clicking OK, local bookmarks (list of locations) will be saved to your iCloud account." = "После нажатия «Ок» закладки на устройстве будут сохранены на аккаунте iCloud";
+"By clicking OK, local bookmarks (list of locations) will be saved to your iCloud account." = "By clicking OK, local bookmarks (list of locations) will be saved to your iCloud account.";
 
 /* No comment provided by engineer. */
-"Restore Bookmarks" = "Восстановить закладки";
+"Restore Bookmarks" = "Restore Bookmarks";
 
 /* No comment provided by engineer. */
-"%d bookmarks (locations) found in your iCloud account, click OK to replace local bookmarks with the bookmarks from iCloud." = "%d — количество найденных закладок в вашем аккаунте iCloud, нажмите «Ок» для их загрузки взамен закладок на устройстве";
+"%d bookmarks (locations) found in your iCloud account, click OK to replace local bookmarks with the bookmarks from iCloud." = "%d bookmarks (locations) found in your iCloud account, click OK to replace local bookmarks with the bookmarks from iCloud.";
 
 /* No comment provided by engineer. */
-"Calculating..." = "Вычисление...";
+"Calculating..." = "Calculating...";
 
 /* No comment provided by engineer. */
-"No Data" = "Нет данных";
+"No Data" = "No Data";
 
 /* No comment provided by engineer. */
-"No Response" = "Нет ответа";
+"No Response" = "No Response";
 
 /* No comment provided by engineer. */
-"Share" = "Поделиться";
+"Share" = "Share";
 
 /* No comment provided by engineer. */
-"Loading..." = "Загрузка...";
+"Loading..." = "Loading...";
 
 /* No comment provided by engineer. */
-"Sun" = "Солнце";
+"Sun" = "Sun";
 
 /* No comment provided by engineer. */
-"Moon" = "Луна";
+"Moon" = "Moon";
 
 /* No comment provided by engineer. */
-"Mercury" = "Меркурий";
+"Mercury" = "Mercury";
 
 /* No comment provided by engineer. */
-"Venus" = "Венера";
+"Venus" = "Venus";
 
 /* No comment provided by engineer. */
-"Mars" = "Марс";
+"Mars" = "Mars";
 
 /* No comment provided by engineer. */
-"Jupiter" = "Юпитер";
+"Jupiter" = "Jupiter";
 
 /* No comment provided by engineer. */
-"Saturn" = "Сатурн";
+"Saturn" = "Saturn";
 
 /* No comment provided by engineer. */
-"Uranus" = "Уран";
+"Uranus" = "Uranus";
 
 /* No comment provided by engineer. */
-"Neptune" = "Нептун";
+"Neptune" = "Neptune";
 
 /* No comment provided by engineer. */
-"Pluto" = "Плутон";
+"Pluto" = "Pluto";
 
 /* No comment provided by engineer. */
-"Failure" = "Не удалось";
+"Failure" = "Failure";
 
 /* No comment provided by engineer. */
-"Your account cannot make payments." = "Ваш аккаунт не может совершать платежи.";
+"Your account cannot make payments." = "Your account cannot make payments.";
 
 /* No comment provided by engineer. */
-"Transaction failed..." = "Транзакция не удалась...";
+"Transaction failed..." = "Transaction failed...";
 
 /* No comment provided by engineer. */
-"Report Abusive" = "Сообщить о нарушении";
+"Report Abusive" = "Report Abusive";
 
 /* No comment provided by engineer. */
-"Enter reason for this report..." = "Введите причину обращения";
+"Enter reason for this report..." = "Enter reason for this report...";
 
 /* No comment provided by engineer. */
-"Report" = "Сообщить о нарушении";
+"Report" = "Report";
 
 /* No comment provided by engineer. */
-"Report!" = "Сообщить о нарушении!";
+"Report!" = "Report!";
 
 /* No comment provided by engineer. */
-"Comment here..." = "Прокомментируйте...";
+"Comment here..." = "Comment here...";
 
 /* No comment provided by engineer. */
-"Edit Quanzi" = "Редактировать Quanzi";
+"Edit Quanzi" = "Edit Quanzi";
 
 /* No comment provided by engineer. */
-"What do you want to share?" = "Чем вы хотите поделиться?";
+"What do you want to share?" = "What do you want to share?";
 
 /* No comment provided by engineer. */
-"What do you want to say?" = "Что вы хотите сказать?";
+"What do you want to say?" = "What do you want to say?";
 
 /* No comment provided by engineer. */
-"Text" = "Текст";
+"Text" = "Text";
 
 /* No comment provided by engineer. */
-"Post" = "Отправить";
+"Post" = "Post";
 
 /* No comment provided by engineer. */
-"Photo" = "Фото";
+"Photo" = "Photo";
 
 /* No comment provided by engineer. */
-"Future" = "Будущее";
+"Future" = "Future";
 
 /* No comment provided by engineer. */
-"Just now" = "Только что";
+"Just now" = "Just now";
 
 /* No comment provided by engineer. */
-"%d seconds ago" = "%d сек. назад";
+"%d seconds ago" = "%d seconds ago";
 
 /* No comment provided by engineer. */
-"%d minutes ago" = "%d мин. назад";
+"%d minutes ago" = "%d minutes ago";
 
 /* No comment provided by engineer. */
-"%d hours ago" = "%d ч. назад";
+"%d hours ago" = "%d hours ago";
 
 /* No comment provided by engineer. */
-"%d days ago" = "%d дн. назад";
+"%d days ago" = "%d days ago";
 
 /* No comment provided by engineer. */
-"%d weeks ago" = "%d нед. назад";
+"%d weeks ago" = "%d weeks ago";
 
 /* No comment provided by engineer. */
-"%d months ago" = "%d мес. назад";
+"%d months ago" = "%d months ago";
 
 /* No comment provided by engineer. */
-"%d years ago" = "%d л. назад";
+"%d years ago" = "%d years ago";
 
 /* No comment provided by engineer. */
-"Loading..." = "Загрузка...";
+"Loading..." = "Loading...";
 
 /* No comment provided by engineer. */
-"Post Success" = "Успешно отправлено";
+"Post Success" = "Post Success";
 
 /* No comment provided by engineer. */
-"Edit Success" = "Успешно отредактировано";
+"Edit Success" = "Edit Success";
 
 /* No comment provided by engineer. */
-"Post Failed" = "Отправка не удалась";
+"Post Failed" = "Post Failed";
 
 /* No comment provided by engineer. */
-"Edit Failed" = "Редактирование не удалось";
+"Edit Failed" = "Edit Failed";
 
 /* No comment provided by engineer. */
-"Comment Success" = "Комментарий успешно оставлен";
+"Comment Success" = "Comment Success";
 
 /* No comment provided by engineer. */
-"Comment Failed" = "Не удалось оставить комментарий";
+"Comment Failed" = "Comment Failed";
 
 /* No comment provided by engineer. */
-"Failed to load more contents: %@" = "Не удалось загрузить больше содержимого: %@";
+"Failed to load more contents: %@" = "Failed to load more contents: %@";
 
 /* No comment provided by engineer. */
-"Failed to load comments: %@" = "Не удалось загрузить комментарии: %@";
+"Failed to load comments: %@" = "Failed to load comments: %@";
 
 /* No comment provided by engineer. */
-"Report Success" = "Успешно сообщено о нарушении";
+"Report Success" = "Report Success";
 
 /* No comment provided by engineer. */
-"Report Failed" = "Не удалось сообщить о нарушении";
+"Report Failed" = "Report Failed";
 
 /* No comment provided by engineer. */
-"Wrong data format" = "Неверный формат данных";
+"Wrong data format" = "Wrong data format";
 
 /* No comment provided by engineer. */
-"No such record" = "Нет такой записи";
+"No such record" = "No such record";
 
 /* No comment provided by engineer. */
-"No image" = "Нет изображения";
+"No image" = "No image";
 
 /* No comment provided by engineer. */
-"Clear Caches" = "Очистить кэш";
+"Clear Caches" = "Clear Caches";
 
 /* No comment provided by engineer. */
-"Caches cleared" = "Кэш очищен";
+"Caches cleared" = "Caches cleared";
 
 /* No comment provided by engineer. */
-"Copy" = "Копировать";
+"Copy" = "Copy";
 
 /* No comment provided by engineer. */
-"Reply" = "Ответить";
+"Reply" = "Reply";
 
 /* No comment provided by engineer. */
-"DM" = "ЛС";
+"DM" = "DM";
 
 /* No comment provided by engineer. */
-"Messages sent" = "Сообщения отправлены";
+"Messages sent" = "Messages sent";
 
 /* No comment provided by engineer. */
-"Failed to send messages" = "Отправка сообщения не удалась";
+"Failed to send messages" = "Failed to send messages";
 
 /* No comment provided by engineer. */
-"Private Message" = "Личное сообщение";
+"Private Message" = "Private Message";
 
 /* No comment provided by engineer. */
-"Reply to PM" = "Ответить в ЛС";
+"Reply to PM" = "Reply to PM";
 
 /* No comment provided by engineer. */
-"Current Location" = "Текущее местоположение";
+"Current Location" = "Current Location";
 
 /* No comment provided by engineer. */
-"Save Picture" = "Сохранить изображение";
+"Save Picture" = "Save Picture";
 
 /* No comment provided by engineer. */
-"Never sets" = "Объект незаходящий";
+"Never sets" = "Never sets";
 
 /* No comment provided by engineer. */
-"Never rises" = "Объект невосходящий";
+"Never rises" = "Never rises";
 
 /* No comment provided by engineer. */
-"Up" = "Над горизонтом";
+"Up" = "Up";
 
 /* No comment provided by engineer. */
-"Not Up" = "Под горизонтом";
+"Not Up" = "Not Up";
 
 /* No comment provided by engineer. */
 "@%@:" = "@%@:";
@@ -755,13 +755,13 @@
 "Galactic Center" = "Galactic Center";
 
 /* No comment provided by engineer. */
-"No Event" = "Нет событий";
+"No Event" = "No Event";
 
 /* No comment provided by engineer. */
-"Failed in retrieving weather chart or image..." = "Не удалось получить спутниковые изображения...";
+"Failed in retrieving weather chart or image..." = "Failed in retrieving weather chart or image...";
 
 /* No comment provided by engineer. */
-"East Asia" = "Восточная Азия";
+"East Asia" = "East Asia";
 
 /* No comment provided by engineer. */
 "Full Disk" = "Full Disk";
@@ -803,7 +803,7 @@
 "Visible Spectrum" = "Visible Spectrum";
 
 /* No comment provided by engineer. */
-"United States" = "США";
+"United States" = "United States";
 
 /* No comment provided by engineer. */
 "GeoColor" = "GeoColor";
@@ -824,7 +824,7 @@
 "GeoColor (Meteosat-11)" = "GeoColor (Meteosat-11)";
 
 /* No comment provided by engineer. */
-"China" = "Китай";
+"China" = "China";
 
 /* No comment provided by engineer. */
 "Radar" = "Radar";
@@ -851,100 +851,100 @@
 "Radar (East)" = "Radar (East)";
 
 /* No comment provided by engineer. */
-"New Moon" = "Новолуние";
+"New Moon" = "New Moon";
 
 /* No comment provided by engineer. */
-"Waxing Crescent" = "Молодая луна";
+"Waxing Crescent" = "Waxing Crescent";
 
 /* No comment provided by engineer. */
-"First Quarter" = "Первая четверть";
+"First Quarter" = "First Quarter";
 
 /* No comment provided by engineer. */
-"Waxing Gibbous" = "Прибывающая луна";
+"Waxing Gibbous" = "Waxing Gibbous";
 
 /* No comment provided by engineer. */
-"Full Moon" = "Полнолуние";
+"Full Moon" = "Full Moon";
 
 /* No comment provided by engineer. */
-"Waning Crescent" = "Убывающая луна";
+"Waning Crescent" = "Waning Crescent";
 
 /* No comment provided by engineer. */
-"Last Quarter" = "Последняя четверть";
+"Last Quarter" = "Last Quarter";
 
 /* No comment provided by engineer. */
-"Waning Gibbous" = "Старая луна";
+"Waning Gibbous" = "Waning Gibbous";
 
 /* No comment provided by engineer. */
-"Quanzi Service Unavailable" = "Quanzi недоступен";
+"Quanzi Service Unavailable" = "Quanzi Service Unavailable";
 
 /* No comment provided by engineer. */
-"Please check if iCloud and iCloud Drive are enabled and correctly configured on your device" = "Пожалуйста, проверьте подключение и работу iCloud и iCloud Drive на вашем устройстве";
+"Please check if iCloud and iCloud Drive are enabled and correctly configured on your device" = "Please check if iCloud and iCloud Drive are enabled and correctly configured on your device";
 
 /* No comment provided by engineer. */
-"No Messages" = "Нет сообщений";
+"No Messages" = "No Messages";
 
 /* No comment provided by engineer. */
-"Failed to fetch messages" = "Не удалось загрузить сообщения";
+"Failed to fetch messages" = "Failed to fetch messages";
 
 /* No comment provided by engineer. */
-"%@ sent you a message" = "%@ вам отправил(а) сообщение";
+"%@ sent you a message" = "%@ sent you a message";
 
 /* No comment provided by engineer. */
-"%@ sent you a reply" = "%@ вам ответил(а)";
+"%@ sent you a reply" = "%@ sent you a reply";
 
 /* No comment provided by engineer. */
-"Quanzi not found" = "Quanzi не найден";
+"Quanzi not found" = "Quanzi not found";
 
 /* No comment provided by engineer. */
-"Browse Quanzi with Astroweather" = "Открыть Quanzi через Astroweather";
+"Browse Quanzi with Astroweather" = "Browse Quanzi with Astroweather";
 
 /* No comment provided by engineer. */
-"Tell Friends about Astroweather" = "Порекомендовать Astroweather друзьям";
+"Tell Friends about Astroweather" = "Tell Friends about Astroweather";
 
 /* No comment provided by engineer. */
-"Welcome to Astroweather" = "Добро пожаловать в Astroweather";
+"Welcome to Astroweather" = "Welcome to Astroweather";
 
 /* No comment provided by engineer. */
-"Explore your astronomy world here" = "Исследуйте мир астрономии";
+"Explore your astronomy world here" = "Explore your astronomy world here";
 
 /* No comment provided by engineer. */
-"Unable to determine your current location, please make sure location service is enabled on your iPhone and permission is granted to Astroweather." = "Не удалось определить ваше текущее местоположение. Убедитесь, что на вашем iPhone включена геопозиция и что Astroweather имеет к ней доступ.";
+"Unable to determine your current location, please make sure location service is enabled on your iPhone and permission is granted to Astroweather." = "Unable to determine your current location, please make sure location service is enabled on your iPhone and permission is granted to Astroweather.";
 
 /* No comment provided by engineer. */
-"Check astroweather report now" = "Проверьте прогноз астропогоды";
+"Check astroweather report now" = "Check astroweather report now";
 
 /* No comment provided by engineer. */
-"Unable to get data" = "Не удаётся получить данные";
+"Unable to get data" = "Unable to get data";
 
 /* No comment provided by engineer. */
-"Location service is disabled" = "Геопозиция отключена";
+"Location service is disabled" = "Location service is disabled";
 
 /* No comment provided by engineer. */
-"Unable to get current location" = "Не удаётся определить текущее местоположение";
+"Unable to get current location" = "Unable to get current location";
 
 /* No comment provided by engineer. */
-"Loading..." = "Загрузка...";
+"Loading..." = "Loading...";
 
 /* No comment provided by engineer. */
-"Language" = "Язык";
+"Language" = "Language";
 
 /* No comment provided by engineer. */
-"Theme" = "Тема";
+"Theme" = "Theme";
 
 /* No comment provided by engineer. */
-"Light" = "Светлая";
+"Light" = "Light";
 
 /* No comment provided by engineer. */
-"Dark" = "Тёмная";
+"Dark" = "Dark";
 
 /* No comment provided by engineer. */
-"System" = "Системная";
+"System" = "System";
 
 /* No comment provided by engineer. */
-"7Timer service is currently unavailable, show Clear Sky results instead?" = "Сервис 7Timer сейчас недоступен, отобразить результаты Clear Sky?";
+"7Timer service is currently unavailable, show Clear Sky results instead?" = "7Timer service is currently unavailable, show Clear Sky results instead?";
 
 /* No comment provided by engineer. */
-"Temperature Unit" = "Единица измерения температуры";
+"Temperature Unit" = "Temperature Unit";
 
 /* No comment provided by engineer. */
 "℃" = "℃";
@@ -953,131 +953,133 @@
 "℉" = "℉";
 
 /* No comment provided by engineer. */
-"Unrecognized format" = "Нераспознанный формат";
+"Unrecognized format" = "Unrecognized format";
 
 /* No comment provided by engineer. */
-"Done" = "Готово";
+"Done" = "Done";
 
 /* No comment provided by engineer. */
-"Draft" = "Черновик";
+"Draft" = "Draft";
 
 /* No comment provided by engineer. */
-"Submit" = "Отправить";
+"Submit" = "Submit";
 
 /* No comment provided by engineer. */
-"Compose a Quanzi" = "Поделиться в Quanzi";
+"Compose a Quanzi" = "Compose a Quanzi";
 
 /* No comment provided by engineer. */
-"Send PM" = "Отправить ЛС";
+"Send PM" = "Send PM";
 
 /* No comment provided by engineer. */
-"Exit Editing" = "Завершить редактирование";
+"Exit Editing" = "Exit Editing";
 
 /* No comment provided by engineer. */
-"You will lose all unsaved work if you choose to exit." = "При завершении редактирования изменения будут утеряны.";
+"You will lose all unsaved work if you choose to exit." = "You will lose all unsaved work if you choose to exit.";
 
 /* No comment provided by engineer. */
-"Exit" = "Выйти";
+"Exit" = "Exit";
 
 /* No comment provided by engineer. */
-"Quanzi Service Unavailable" = "Quanzi недоступен";
+"Quanzi Service Unavailable" = "Quanzi Service Unavailable";
 
 /* No comment provided by engineer. */
-"Rename" = "Переименовать";
+"Rename" = "Rename";
 
 /* No comment provided by engineer. */
-"View Quanzi" = "Посмотреть Quanzi";
+"View Quanzi" = "View Quanzi";
 
 /* No comment provided by engineer. */
-"Utilities" = "Функции";
+"Utilities" = "Utilities";
 
 /* No comment provided by engineer. */
-"Red Light Helper" = "Красный фонарик";
+"Red Light Helper" = "Red Light Helper";
 
 /* No comment provided by engineer. */
-"Sky Chart" = "Карта неба";
+"Sky Chart" = "Sky Chart";
 
 /* No comment provided by engineer. */
-"Send Feedback" = "Написать разработчику";
+"Send Feedback" = "Send Feedback";
 
 /* No comment provided by engineer. */
-"Remove Ads" = "Убрать рекламу";
+"Remove Ads" = "Remove Ads";
 
 /* No comment provided by engineer. */
-"Ads will be disabled for 1 day, restart Astroweather to take effect. Alternatively, you can also purchase Astro PRO to disable ads entirely." = "Реклама будет отключена на 1 день, для вступления в силу перезапустите приложение. Также вы также можете приобрести Astro PRO, чтобы полностью отключить рекламу.";
-"Sun Rise/Set Detail" = "Подробности восхода/захода Солнца";
+"Ads will be disabled for 1 day, restart Astroweather to take effect. Alternatively, you can also purchase Astro PRO to disable ads entirely." = "Ads will be disabled for 1 day, restart Astroweather to take effect. Alternatively, you can also purchase Astro PRO to disable ads entirely.";
 
 /* No comment provided by engineer. */
-"Night End: %@" = "Астрономический рассвет: %@";
+"Sun Rise/Set Detail" = "Sun Rise/Set Detail";
 
 /* No comment provided by engineer. */
-"Nautical Dawn: %@" = "Навигационный рассвет: %@";
+"Night End: %@" = "Night End: %@";
 
 /* No comment provided by engineer. */
-"Dawn: %@" = "Гражданский рассвет: %@";
+"Nautical Dawn: %@" = "Nautical Dawn: %@";
 
 /* No comment provided by engineer. */
-"Sunrise: %@" = "Начало восхода: %@";
+"Dawn: %@" = "Dawn: %@";
 
 /* No comment provided by engineer. */
-"Sunrise End: %@" = "Окончание восхода: %@";
+"Sunrise: %@" = "Sunrise: %@";
+
+/* No comment provided by engineer. */
+"Sunrise End: %@" = "Sunrise End: %@";
 
 /* No comment provided by engineer. */
 "Blue Hour End: %@" = "Blue Hour End: %@";
 
 /* No comment provided by engineer. */
-"Golden Hour End: %@" = "Окончание «золотого часа»: %@";
+"Golden Hour End: %@" = "Golden Hour End: %@";
 
 /* No comment provided by engineer. */
-"Solar Noon: %@" = "Верхняя кульминация: %@";
+"Solar Noon: %@" = "Solar Noon: %@";
 
 /* No comment provided by engineer. */
 "Blue Hour: %@" = "Blue Hour: %@";
 
 /* No comment provided by engineer. */
-"Golden Hour: %@" = "Начало «золотого часа»: %@";
+"Golden Hour: %@" = "Golden Hour: %@";
 
 /* No comment provided by engineer. */
-"Sunset Start: %@" = "Начало захода: %@";
+"Sunset Start: %@" = "Sunset Start: %@";
 
 /* No comment provided by engineer. */
-"Sunset: %@" = "Окончание захода: %@";
+"Sunset: %@" = "Sunset: %@";
 
 /* No comment provided by engineer. */
-"Dusk: %@" = "Окончание гражданских сумерек: %@";
+"Dusk: %@" = "Dusk: %@";
 
 /* No comment provided by engineer. */
-"Nautical Dusk: %@" = "Окончание навигационных сумерек: %@";
+"Nautical Dusk: %@" = "Nautical Dusk: %@";
 
 /* No comment provided by engineer. */
-"Night: %@" = "Окончание астрономических сумерек: %@";
+"Night: %@" = "Night: %@";
 
 /* No comment provided by engineer. */
-"Nadir: %@" = "Нижняя кульминация: %@";
+"Nadir: %@" = "Nadir: %@";
 
 /* No comment provided by engineer. */
-"Solar System" = "Солнечная система";
+"Solar System" = "Solar System";
 
 /* No comment provided by engineer. */
-"View Astroweather on your home screen" = "Добавить Astroweather на домашний экран";
+"View Astroweather on your home screen" = "View Astroweather on your home screen";
 
 /* No comment provided by engineer. */
-"No Name" = "Нет названия";
+"No Name" = "No Name";
 
 /* No comment provided by engineer. */
-"Location service is disabled" = "Геопозиция отключена";
+"Location service is disabled" = "Location service is disabled";
 
 /* No comment provided by engineer. */
-"Location permission is not granted" = "Не получено разрешение на доступ к геопозиции";
+"Location permission is not granted" = "Location permission is not granted";
 
 /* No comment provided by engineer. */
-"Unable to get current location" = "Не удаётся определить текущее местоположение";
+"Unable to get current location" = "Unable to get current location";
 
 /* No comment provided by engineer. */
-"Network error" = "Ошибка сети";
+"Network error" = "Network error";
 
 /* No comment provided by engineer. */
-"Europe" = "Европа";
+"Europe" = "Europe";
 
 /* No comment provided by engineer. */
 "Visible Spectrum (Sat24)" = "Visible Spectrum (Sat24)";
@@ -1086,28 +1088,28 @@
 "Infrared (Sat24)" = "Infrared (Sat24)";
 
 /* No comment provided by engineer. */
-"Rise & Set" = "Восход и заход";
+"Rise & Set" = "Rise & Set";
 
 /* No comment provided by engineer. */
-"View rise and set time for sun, moon and planets" = "Получить время восхода и захода Солнца, Луны и планет";
+"View rise and set time for sun, moon and planets" = "View rise and set time for sun, moon and planets";
 
 /* No comment provided by engineer. */
-"Up, will set at %@" = "Над горизонтом, сядет в %@";
+"Up, will set at %@" = "Up, will set at %@";
 
 /* No comment provided by engineer. */
-"Not up, will rise at %@" = "Под горизонтом, взойдёт в %@";
+"Not up, will rise at %@" = "Not up, will rise at %@";
 
 /* No comment provided by engineer. */
-"Lunar Phase" = "Фаза Луны";
+"Lunar Phase" = "Lunar Phase";
 
 /* No comment provided by engineer. */
-"View current lunar phase" = "Получить текущую фазу Луны";
+"View current lunar phase" = "View current lunar phase";
 
 /* No comment provided by engineer. */
-"Please use home screen widget instead" = "Вместо этого используйте виджет на главном экране";
+"Please use home screen widget instead" = "Please use home screen widget instead";
 
 /* No comment provided by engineer. */
-"Close" = "Закрыть";
+"Close" = "Close";
 
 /* No comment provided by engineer. */
 "Update Time: %@" = "Update Time: %@";
@@ -1137,7 +1139,7 @@
 "Current Direction: %@\nCurrent Altitude: %@" = "Current Direction: %@\nCurrent Altitude: %@";
 
 /* No comment provided by engineer. */
-"Astroweather Event" = "Событие Astroweather";
+"Astroweather Event" = "Astroweather Event";
 
 /* No comment provided by engineer. */
 "App mag: %@" = "App mag: %@";
@@ -1251,9 +1253,6 @@
 "Leo Triplet" = "Leo Triplet";
 
 /* No comment provided by engineer. */
-"Leo Triplet" = "Leo Triplet";
-
-/* No comment provided by engineer. */
 "Phantom Galaxy" = "Phantom Galaxy";
 
 /* No comment provided by engineer. */
@@ -1290,7 +1289,7 @@
 "Sombrero Galaxy" = "Sombrero Galaxy";
 
 /* No comment provided by engineer. */
-"Events" = "События";
+"Events" = "Events";
 
 /* No comment provided by engineer. */
 "History" = "History";
@@ -1300,6 +1299,39 @@
 
 /* No comment provided by engineer. */
 "Please select end time" = "Please select end time";
+
+/* No comment provided by engineer. */
+"LASCO C2" = "LASCO C2";
+
+/* No comment provided by engineer. */
+"LASCO C3" = "LASCO C3";
+
+/* No comment provided by engineer. */
+"EIT 171" = "EIT 171";
+
+/* No comment provided by engineer. */
+"EIT 195" = "EIT 195";
+
+/* No comment provided by engineer. */
+"EIT 284" = "EIT 284";
+
+/* No comment provided by engineer. */
+"EIT 304" = "EIT 304";
+
+/* No comment provided by engineer. */
+"SDO/HMI Continuum" = "SDO/HMI Continuum";
+
+/* No comment provided by engineer. */
+"SDO/HMI Magnetogram" = "SDO/HMI Magnetogram";
+
+/* No comment provided by engineer. */
+"Sunspots" = "Sunspots";
+
+/* No comment provided by engineer. */
+"Weather Chart/Image" = "Weather Chart/Image";
+
+/* No comment provided by engineer. */
+"View real-time weather charts or images" = "View real-time weather charts or images";
 
 /* No comment provided by engineer. */
 "Date" = "Date";
@@ -1326,43 +1358,595 @@
 "Successfully reported the message" = "Successfully reported the message";
 
 /* No comment provided by engineer. */
-"Report released at: %@" = "Публикация прогноза: %@";
+"Spacecraft Passes" = "Spacecraft Passes";
 
 /* No comment provided by engineer. */
-"COMMON_REQUEST_LANG" = "ru";
+"Failed to get spacecraft status." = "Failed to get spacecraft status.";
 
 /* No comment provided by engineer. */
-"ABOUT_SECTION_TITLE_0" = "Астропогода (7Timer!)";
+"Start Time" = "Start Time";
 
 /* No comment provided by engineer. */
-"ABOUT_SECTION_0_ROW_CONTENT_0" = "7Timer! это ряд продуктов онлайн-прогноза, основанная на цифровой модели погоды NOAA/NCEP (Global Forecast System, GFS). 7Timer! был впервые представлен в июле 2005 года как исследовательский проект при поддержке Национальной астрономической обсерватории Китая и был в значительной степени модернизирован в 2008 и 2011 годах. В настоящее время он поддерживается Шанхайской астрономической обсерваторией Китайской академии наук. Первоначально разработан как инструмент прогноза погоды для астрономических целей, поскольку самого автора всегда раздражали переменчивые погодные условия, мешающие наблюдениям.";
+"End Time" = "End Time";
 
 /* No comment provided by engineer. */
-"ABOUT_SECTION_0_ROW_CONTENT_1" = "Обратите внимание, что разработчики приложения не являются поставщиками служб прогноза.";
+"Rise Time" = "Rise Time";
 
 /* No comment provided by engineer. */
-"ABOUT_SECTION_TITLE_1" = "Карта засветки";
+"Set Time" = "Set Time";
 
 /* No comment provided by engineer. */
-"ABOUT_SECTION_1_ROW_CONTENT_0" = "Источник для карты засветки взят из World Atlas 2015.\n\nCredits: Falchi, Fabio; Cinzano, Pierantonio; Duriscoe, Dan; Kyba, Christopher C. M.; Elvidge, Christopher D.; Baugh, Kimberly; Portnov, Boris; Rybnikova, Nataliya A.; Furgoni, Riccardo (2016): Supplement to: The New World Atlas of Artificial Night Sky Brightness. GFZ Data Services. http://doi.org/10.5880/GFZ.1.4.2016.001 Falchi F, Cinzano P, Duriscoe D, Kyba CC, Elvidge CD, Baugh K, Portnov BA, Rybnikova NA, Furgoni R. The new world atlas of artificial night sky brightness. Science Advances. 2016 Jun 1;2(6):e1600377.";
+"Peak Time" = "Peak Time";
 
 /* No comment provided by engineer. */
-"ABOUT_SECTION_TITLE_2" = "Восход и заход";
+"Azimuth" = "Azimuth";
 
 /* No comment provided by engineer. */
-"ABOUT_SECTION_2_ROW_CONTENT_0" = "Время восхода и захода небесных тел рассчитывается на вашем устройстве без необходимости подключения к Интернету.";
+"Azi / Alt" = "Azi / Alt";
 
 /* No comment provided by engineer. */
-"ABOUT_SECTION_TITLE_3" = "Переводчики";
+"%@ / %@" = "%@ / %@";
 
 /* No comment provided by engineer. */
-"ABOUT_SECTION_3_ROW_CONTENT_0" = "Русский: Askaniy Anpilogov";
+"Observable Passes" = "Observable Passes";
 
 /* No comment provided by engineer. */
-"NEXT_NEW_MOON_TEMPLATE" = "Следующее новолуние: %@";
+"%@ passes" = "%@ passes";
 
 /* No comment provided by engineer. */
-"NEXT_FULL_MOON_TEMPLATE" = "Следующее полнолуние: %@";
+"%1$@, %2$@ ~ %3$@ above the horizon, %4$@ ~ %5$@ observable." = "%1$@, %2$@ ~ %3$@ above the horizon, %4$@ ~ %5$@ observable.";
+
+/* No comment provided by engineer. */
+"%1$@, %2$@ ~ %3$@ above the horizon." = "%1$@, %2$@ ~ %3$@ above the horizon.";
+
+/* No comment provided by engineer. */
+"Not observable" = "Not observable";
+
+/* No comment provided by engineer. */
+"Observable" = "Observable";
+
+/* No comment provided by engineer. */
+"Andromeda" = "Andromeda";
+
+/* No comment provided by engineer. */
+"Antlia" = "Antlia";
+
+/* No comment provided by engineer. */
+"Apus" = "Apus";
+
+/* No comment provided by engineer. */
+"Aquila" = "Aquila";
+
+/* No comment provided by engineer. */
+"Aquarius" = "Aquarius";
+
+/* No comment provided by engineer. */
+"Ara" = "Ara";
+
+/* No comment provided by engineer. */
+"Aries" = "Aries";
+
+/* No comment provided by engineer. */
+"Auriga" = "Auriga";
+
+/* No comment provided by engineer. */
+"Bootes" = "Bootes";
+
+/* No comment provided by engineer. */
+"Canis Major" = "Canis Major";
+
+/* No comment provided by engineer. */
+"Canis Minor" = "Canis Minor";
+
+/* No comment provided by engineer. */
+"Canes Venatici" = "Canes Venatici";
+
+/* No comment provided by engineer. */
+"Caelum" = "Caelum";
+
+/* No comment provided by engineer. */
+"Camelopardalis" = "Camelopardalis";
+
+/* No comment provided by engineer. */
+"Capricornus" = "Capricornus";
+
+/* No comment provided by engineer. */
+"Carina" = "Carina";
+
+/* No comment provided by engineer. */
+"Cassiopeia" = "Cassiopeia";
+
+/* No comment provided by engineer. */
+"Centaurus" = "Centaurus";
+
+/* No comment provided by engineer. */
+"Cepheus" = "Cepheus";
+
+/* No comment provided by engineer. */
+"Cetus" = "Cetus";
+
+/* No comment provided by engineer. */
+"Circinus" = "Circinus";
+
+/* No comment provided by engineer. */
+"Cancer" = "Cancer";
+
+/* No comment provided by engineer. */
+"Columba" = "Columba";
+
+/* No comment provided by engineer. */
+"Coma Berenices" = "Coma Berenices";
+
+/* No comment provided by engineer. */
+"Corona Australis" = "Corona Australis";
+
+/* No comment provided by engineer. */
+"Corona Borealis" = "Corona Borealis";
+
+/* No comment provided by engineer. */
+"Crater" = "Crater";
+
+/* No comment provided by engineer. */
+"Crux" = "Crux";
+
+/* No comment provided by engineer. */
+"Corvus" = "Corvus";
+
+/* No comment provided by engineer. */
+"Cygnus" = "Cygnus";
+
+/* No comment provided by engineer. */
+"Delphinus" = "Delphinus";
+
+/* No comment provided by engineer. */
+"Dorado" = "Dorado";
+
+/* No comment provided by engineer. */
+"Draco" = "Draco";
+
+/* No comment provided by engineer. */
+"Equuleus" = "Equuleus";
+
+/* No comment provided by engineer. */
+"Eridanus" = "Eridanus";
+
+/* No comment provided by engineer. */
+"Fornax" = "Fornax";
+
+/* No comment provided by engineer. */
+"Gemini" = "Gemini";
+
+/* No comment provided by engineer. */
+"Grus" = "Grus";
+
+/* No comment provided by engineer. */
+"Hercules" = "Hercules";
+
+/* No comment provided by engineer. */
+"Horologium" = "Horologium";
+
+/* No comment provided by engineer. */
+"Hydra" = "Hydra";
+
+/* No comment provided by engineer. */
+"Hydrus" = "Hydrus";
+
+/* No comment provided by engineer. */
+"Indus" = "Indus";
+
+/* No comment provided by engineer. */
+"Leo Minor" = "Leo Minor";
+
+/* No comment provided by engineer. */
+"Lacerta" = "Lacerta";
+
+/* No comment provided by engineer. */
+"Leo" = "Leo";
+
+/* No comment provided by engineer. */
+"Lepus" = "Lepus";
+
+/* No comment provided by engineer. */
+"Libra" = "Libra";
+
+/* No comment provided by engineer. */
+"Lupus" = "Lupus";
+
+/* No comment provided by engineer. */
+"Lynx" = "Lynx";
+
+/* No comment provided by engineer. */
+"Lyra" = "Lyra";
+
+/* No comment provided by engineer. */
+"Mensa" = "Mensa";
+
+/* No comment provided by engineer. */
+"Microscopium" = "Microscopium";
+
+/* No comment provided by engineer. */
+"Monoceros" = "Monoceros";
+
+/* No comment provided by engineer. */
+"Musca" = "Musca";
+
+/* No comment provided by engineer. */
+"Norma" = "Norma";
+
+/* No comment provided by engineer. */
+"Octans" = "Octans";
+
+/* No comment provided by engineer. */
+"Ophiuchus" = "Ophiuchus";
+
+/* No comment provided by engineer. */
+"Orion" = "Orion";
+
+/* No comment provided by engineer. */
+"Pavo" = "Pavo";
+
+/* No comment provided by engineer. */
+"Pegasus" = "Pegasus";
+
+/* No comment provided by engineer. */
+"Perseus" = "Perseus";
+
+/* No comment provided by engineer. */
+"Phoenix" = "Phoenix";
+
+/* No comment provided by engineer. */
+"Pictor" = "Pictor";
+
+/* No comment provided by engineer. */
+"Piscis Austrinus" = "Piscis Austrinus";
+
+/* No comment provided by engineer. */
+"Pisces" = "Pisces";
+
+/* No comment provided by engineer. */
+"Puppis" = "Puppis";
+
+/* No comment provided by engineer. */
+"Pyxis" = "Pyxis";
+
+/* No comment provided by engineer. */
+"Reticulum" = "Reticulum";
+
+/* No comment provided by engineer. */
+"Sculptor" = "Sculptor";
+
+/* No comment provided by engineer. */
+"Scorpius" = "Scorpius";
+
+/* No comment provided by engineer. */
+"Scutum" = "Scutum";
+
+/* No comment provided by engineer. */
+"Serpens Caput" = "Serpens Caput";
+
+/* No comment provided by engineer. */
+"Sextans" = "Sextans";
+
+/* No comment provided by engineer. */
+"Sagitta" = "Sagitta";
+
+/* No comment provided by engineer. */
+"Sagittarius" = "Sagittarius";
+
+/* No comment provided by engineer. */
+"Taurus" = "Taurus";
+
+/* No comment provided by engineer. */
+"Telescopium" = "Telescopium";
+
+/* No comment provided by engineer. */
+"Triangulum Australe" = "Triangulum Australe";
+
+/* No comment provided by engineer. */
+"Triangulum" = "Triangulum";
+
+/* No comment provided by engineer. */
+"Tucana" = "Tucana";
+
+/* No comment provided by engineer. */
+"Ursa Major" = "Ursa Major";
+
+/* No comment provided by engineer. */
+"Ursa Minor" = "Ursa Minor";
+
+/* No comment provided by engineer. */
+"Vela" = "Vela";
+
+/* No comment provided by engineer. */
+"Virgo" = "Virgo";
+
+/* No comment provided by engineer. */
+"Volans" = "Volans";
+
+/* No comment provided by engineer. */
+"Vulpecula" = "Vulpecula";
+
+/* No comment provided by engineer. */
+"Show Constellations" = "Show Constellations";
+
+/* No comment provided by engineer. */
+"Show Constellation Names" = "Show Constellation Names";
+
+/* No comment provided by engineer. */
+"Show Constellation Lines" = "Show Constellation Lines";
+
+/* No comment provided by engineer. */
+"Show Bright Stars" = "Show Bright Stars";
+
+/* No comment provided by engineer. */
+"Show Bright Star Names" = "Show Bright Star Names";
+
+/* No comment provided by engineer. */
+"Show Solar System Objects" = "Show Solar System Objects";
+
+/* No comment provided by engineer. */
+"Show Solar System Object Names" = "Show Solar System Object Names";
+
+/* No comment provided by engineer. */
+"Show Messier Objects" = "Show Messier Objects";
+
+/* No comment provided by engineer. */
+"Show Messier Object Names" = "Show Messier Object Names";
+
+/* No comment provided by engineer. */
+"Flat Field Helper" = "Flat Field Helper";
+
+/* No comment provided by engineer. */
+"Observer Location" = "Observer Location";
+
+/* No comment provided by engineer. */
+"Light Pollution" = "Light Pollution";
+
+/* No comment provided by engineer. */
+"Moon Phases" = "Moon Phases";
+
+/* No comment provided by engineer. */
+"Rise & Set" = "Rise & Set";
+
+/* No comment provided by engineer. */
+"Stars/DSOs" = "Stars/DSOs";
+
+/* No comment provided by engineer. */
+"Alps (Visible Spectrum (Sat24))" = "Alps (Visible Spectrum (Sat24))";
+
+/* No comment provided by engineer. */
+"Benelux (Visible Spectrum (Sat24))" = "Benelux (Visible Spectrum (Sat24))";
+
+/* No comment provided by engineer. */
+"France (Visible Spectrum (Sat24))" = "France (Visible Spectrum (Sat24))";
+
+/* No comment provided by engineer. */
+"Germany (Visible Spectrum (Sat24))" = "Germany (Visible Spectrum (Sat24))";
+
+/* No comment provided by engineer. */
+"Greece (Visible Spectrum (Sat24))" = "Greece (Visible Spectrum (Sat24))";
+
+/* No comment provided by engineer. */
+"Italy (Visible Spectrum (Sat24))" = "Italy (Visible Spectrum (Sat24))";
+
+/* No comment provided by engineer. */
+"Poland (Visible Spectrum (Sat24))" = "Poland (Visible Spectrum (Sat24))";
+
+/* No comment provided by engineer. */
+"Turkey (Visible Spectrum (Sat24))" = "Turkey (Visible Spectrum (Sat24))";
+
+/* No comment provided by engineer. */
+"Baltic (Visible Spectrum (Sat24))" = "Baltic (Visible Spectrum (Sat24))";
+
+/* No comment provided by engineer. */
+"Balkan (Visible Spectrum (Sat24))" = "Balkan (Visible Spectrum (Sat24))";
+
+/* No comment provided by engineer. */
+"Hungary (Visible Spectrum (Sat24))" = "Hungary (Visible Spectrum (Sat24))";
+
+/* No comment provided by engineer. */
+"Israel (Visible Spectrum (Sat24))" = "Israel (Visible Spectrum (Sat24))";
+
+/* No comment provided by engineer. */
+"Romania & Bulgaria (Visible Spectrum (Sat24))" = "Romania & Bulgaria (Visible Spectrum (Sat24))";
+
+/* No comment provided by engineer. */
+"Russia (Visible Spectrum (Sat24))" = "Russia (Visible Spectrum (Sat24))";
+
+/* No comment provided by engineer. */
+"Spain & Portugal (Visible Spectrum (Sat24))" = "Spain & Portugal (Visible Spectrum (Sat24))";
+
+/* No comment provided by engineer. */
+"Scandinavia (Visible Spectrum (Sat24))" = "Scandinavia (Visible Spectrum (Sat24))";
+
+/* No comment provided by engineer. */
+"UK & Ireland (Visible Spectrum (Sat24))" = "UK & Ireland (Visible Spectrum (Sat24))";
+
+/* No comment provided by engineer. */
+"Alps (Infrared (Sat24))" = "Alps (Infrared (Sat24))";
+
+/* No comment provided by engineer. */
+"Benelux (Infrared (Sat24))" = "Benelux (Infrared (Sat24))";
+
+/* No comment provided by engineer. */
+"France (Infrared (Sat24))" = "France (Infrared (Sat24))";
+
+/* No comment provided by engineer. */
+"Germany (Infrared (Sat24))" = "Germany (Infrared (Sat24))";
+
+/* No comment provided by engineer. */
+"Greece (Infrared (Sat24))" = "Greece (Infrared (Sat24))";
+
+/* No comment provided by engineer. */
+"Italy (Infrared (Sat24))" = "Italy (Infrared (Sat24))";
+
+/* No comment provided by engineer. */
+"Poland (Infrared (Sat24))" = "Poland (Infrared (Sat24))";
+
+/* No comment provided by engineer. */
+"Turkey (Infrared (Sat24))" = "Turkey (Infrared (Sat24))";
+
+/* No comment provided by engineer. */
+"Baltic (Infrared (Sat24))" = "Baltic (Infrared (Sat24))";
+
+/* No comment provided by engineer. */
+"Balkan (Infrared (Sat24))" = "Balkan (Infrared (Sat24))";
+
+/* No comment provided by engineer. */
+"Hungary (Infrared (Sat24))" = "Hungary (Infrared (Sat24))";
+
+/* No comment provided by engineer. */
+"Israel (Infrared (Sat24))" = "Israel (Infrared (Sat24))";
+
+/* No comment provided by engineer. */
+"Romania & Bulgaria (Infrared (Sat24))" = "Romania & Bulgaria (Infrared (Sat24))";
+
+/* No comment provided by engineer. */
+"Russia (Infrared (Sat24))" = "Russia (Infrared (Sat24))";
+
+/* No comment provided by engineer. */
+"Spain & Portugal (Infrared (Sat24))" = "Spain & Portugal (Infrared (Sat24))";
+
+/* No comment provided by engineer. */
+"Scandinavia (Infrared (Sat24))" = "Scandinavia (Infrared (Sat24))";
+
+/* No comment provided by engineer. */
+"UK & Ireland (Infrared (Sat24))" = "UK & Ireland (Infrared (Sat24))";
+
+/* No comment provided by engineer. */
+"Wind" = "Wind";
+
+/* No comment provided by engineer. */
+"Temperature" = "Temperature";
+
+/* No comment provided by engineer. */
+"Visibility" = "Visibility";
+
+/* No comment provided by engineer. */
+"Lighting" = "Lighting";
+
+/* No comment provided by engineer. */
+"Heavy Rain" = "Heavy Rain";
+
+/* No comment provided by engineer. */
+"Gale" = "Gale";
+
+/* No comment provided by engineer. */
+"Hail" = "Hail";
+
+/* No comment provided by engineer. */
+"Precipitation Forecast (24 hours)" = "Precipitation Forecast (24 hours)";
+
+/* No comment provided by engineer. */
+"Precipitation Forecast (6 hours)" = "Precipitation Forecast (6 hours)";
+
+/* No comment provided by engineer. */
+"Temperature Forecast (High)" = "Temperature Forecast (High)";
+
+/* No comment provided by engineer. */
+"Temperature Forecast (Low)" = "Temperature Forecast (Low)";
+
+/* No comment provided by engineer. */
+"Aurora" = "Aurora";
+
+/* No comment provided by engineer. */
+"Northern Hemisphere" = "Northern Hemisphere";
+
+/* No comment provided by engineer. */
+"Southern Hemisphere" = "Southern Hemisphere";
+
+/* No comment provided by engineer. */
+"Sun Position" = "Sun Position";
+
+/* No comment provided by engineer. */
+"Select Date" = "Select Date";
+
+/* No comment provided by engineer. */
+"%@ ~ %@" = "%@ ~ %@";
+
+/* No comment provided by engineer. */
+"Blue Hour (Civil Dusk)" = "Blue Hour (Civil Dusk)";
+
+/* No comment provided by engineer. */
+"Blue Hour (Civil Twilight)" = "Blue Hour (Civil Twilight)";
+
+/* No comment provided by engineer. */
+"Blue Hour" = "Blue Hour";
+
+/* No comment provided by engineer. */
+"Golden Hour" = "Golden Hour";
+
+/* No comment provided by engineer. */
+"Golden Hour (Civil Dusk)" = "Golden Hour (Civil Dusk)";
+
+/* No comment provided by engineer. */
+"Golden Hour (Civil Twilight)" = "Golden Hour (Civil Twilight)";
+
+/* No comment provided by engineer. */
+"Nautical Dusk" = "Nautical Dusk";
+
+/* No comment provided by engineer. */
+"Nautical Twilight" = "Nautical Twilight";
+
+/* No comment provided by engineer. */
+"Nautical Twilight/Dusk" = "Nautical Twilight/Dusk";
+
+/* No comment provided by engineer. */
+"Astro Dusk" = "Astro Dusk";
+
+/* No comment provided by engineer. */
+"Astro Twilight" = "Astro Twilight";
+
+/* No comment provided by engineer. */
+"Astro Twilight/Dusk" = "Astro Twilight/Dusk";
+
+/* No comment provided by engineer. */
+"Day" = "Day";
+
+/* No comment provided by engineer. */
+"Night" = "Night";
+
+/* No comment provided by engineer. */
+"Report released at: %@" = "Report released at: %@";
+
+/* No comment provided by engineer. */
+"WeChat" = "WeChat";
+
+/* No comment provided by engineer. */
+"COMMON_REQUEST_LANG" = "en";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_TITLE_0" = "Astroweather (7Timer!)";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_0_ROW_CONTENT_0" = "7Timer! is a series of web-based meteorological forecast products, mainly derived from the NOAA/NCEP-based numeric weather model, the Global Forecast System (GFS). 7Timer! was firstly established in July 2005 as an exploration product under supported of the National Astronomical Observatories of China and had been largely renovated in 2008 and 2011. Currently it is supported by the Shanghai Astronomical Observatory of Chinese Academy of Sciences. It was firstly designed as a weather forecast tool for astronomical purpose, as the author himself is a long-term star gazer and was always annoyed by fluky weather conditions.";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_0_ROW_CONTENT_1" = "Please note that we (developers of Astroweather) are not the service provider.";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_TITLE_1" = "Light Pollution Map";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_1_ROW_CONTENT_0" = "Resources for the light pollution map are from World Atlas 2015.\n\nCredits: Falchi, Fabio; Cinzano, Pierantonio; Duriscoe, Dan; Kyba, Christopher C. M.; Elvidge, Christopher D.; Baugh, Kimberly; Portnov, Boris; Rybnikova, Nataliya A.; Furgoni, Riccardo (2016): Supplement to: The New World Atlas of Artificial Night Sky Brightness. GFZ Data Services. http://doi.org/10.5880/GFZ.1.4.2016.001 Falchi F, Cinzano P, Duriscoe D, Kyba CC, Elvidge CD, Baugh K, Portnov BA, Rybnikova NA, Furgoni R. The new world atlas of artificial night sky brightness. Science Advances. 2016 Jun 1;2(6):e1600377.";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_TITLE_2" = "Rise & Set";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_2_ROW_CONTENT_0" = "Rise and set times for astro objects are calculated on your device without the need of Internet connection.";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_TITLE_3" = "Translators";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_3_ROW_CONTENT_0" = "Russian: Askaniy Anpilogov";
+
+/* No comment provided by engineer. */
+"NEXT_NEW_MOON_TEMPLATE" = "Next new moon: %@";
+
+/* No comment provided by engineer. */
+"NEXT_FULL_MOON_TEMPLATE" = "Next full moon: %@";
 
 /* No comment provided by engineer. */
 "PRIVACY_AGREEMENT_ALERT_TITLE" = "Privacy Policy and Service Agreement";
@@ -1398,7 +1982,7 @@
 "ACTION_ADD_TO_CALENDAR" = "Add to Calendar";
 
 /* No comment provided by engineer. */
-"NAVIGATION_TITLE_MESSAGES" = "Сообщения";
+"NAVIGATION_TITLE_MESSAGES" = "Messages";
 
 /* No comment provided by engineer. */
 "NEXT_SPACECRAFT_PASS_WIDGET_DISPLAY_NAME" = "Next Spacecraft Pass";
@@ -1416,28 +2000,28 @@
 "UNSUPPORTED_CONFIGURATION_HINT" = "Unsupported configuration";
 
 /* No comment provided by engineer. */
-"SATELLITE_MAP_RETRY_BUTTON_TITLE" = "Повторить попытку";
+"SATELLITE_MAP_RETRY_BUTTON_TITLE" = "Try Again";
 
 /* No comment provided by engineer. */
 "SATELLITE_MAP_ANIMATION_IMAGE_CREATE_FAILED" = "Failed to create animated image";
 
 /* No comment provided by engineer. */
-"SATELLITE_MAP_ANIMATION_IMAGE_TITLE" = "Анимированные изображения";
+"SATELLITE_MAP_ANIMATION_IMAGE_TITLE" = "Animated Images";
 
 /* No comment provided by engineer. */
-"TAB_TITLE_ASTROWEATHER" = "Астропогода";
+"TAB_TITLE_ASTROWEATHER" = "Astroweather";
 
 /* No comment provided by engineer. */
-"TAB_TITLE_EVENTS" = "События";
+"TAB_TITLE_EVENTS" = "Events";
 
 /* No comment provided by engineer. */
-"TAB_TITLE_CHARTS_AND_IMAGES" = "Изображения со спутников";
+"TAB_TITLE_CHARTS_AND_IMAGES" = "Charts & Images";
 
 /* No comment provided by engineer. */
-"TAB_TITLE_FORUM" = "Форум";
+"TAB_TITLE_FORUM" = "Forum";
 
 /* No comment provided by engineer. */
-"TAB_TITLE_SETTINGS" = "Настройки";
+"TAB_TITLE_SETTINGS" = "Settings";
 
 /* No comment provided by engineer. */
 "TEACHING_CARD_ASTROWEATHER_TITLE" = "Click here to get definitions of each value.\nYou can also try tapping on some of the elements to see the values they represent.";
@@ -1518,61 +2102,61 @@
 "SPACECRAFT_PASSES_SKY_CHART_VISIBLE_INFO_TEXT" = "The blue curve shows the trail of the spacecraft. The white part of the curve is the part that can be observed.";
 
 /* No comment provided by engineer. */
-"ADD_LOCATION_TITLE" = "Выбрать местоположение";
+"ADD_LOCATION_TITLE" = "Pick Location";
 
 /* No comment provided by engineer. */
-"SETTINGS_TITLE" = "Настройки";
+"SETTINGS_TITLE" = "Settings";
 
 /* No comment provided by engineer. */
-"ABOUT_TITLE" = "О программе";
+"ABOUT_TITLE" = "About";
 
 /* No comment provided by engineer. */
-"HELP_TITLE" = "Помощь";
+"HELP_TITLE" = "Help";
 
 /* No comment provided by engineer. */
 "QUANZI_TITLE" = "Quanzi";
 
 /* No comment provided by engineer. */
-"ASTROWEATHER_TAB_ASTRO" = "Астрономический прогноз";
+"ASTROWEATHER_TAB_ASTRO" = "Astro";
 
 /* No comment provided by engineer. */
-"ASTROWEATHER_TAB_CIVIL" = "Гражданский прогноз";
+"ASTROWEATHER_TAB_CIVIL" = "Civil";
 
 /* No comment provided by engineer. */
-"ASTROWEATHER_FIELD_TEMP" = "Температура";
+"ASTROWEATHER_FIELD_TEMP" = "Temperature";
 
 /* No comment provided by engineer. */
-"ASTROWEATHER_FIELD_CLOUD" = "Облачность";
+"ASTROWEATHER_FIELD_CLOUD" = "Cloud";
 
 /* No comment provided by engineer. */
-"ASTROWEATHER_FIELD_SEEING" = "Видимость";
+"ASTROWEATHER_FIELD_SEEING" = "Seeing";
 
 /* No comment provided by engineer. */
-"ASTROWEATHER_FIELD_TRANSPARENCY" = "Прозрачность";
+"ASTROWEATHER_FIELD_TRANSPARENCY" = "Transparency";
 
 /* No comment provided by engineer. */
-"ASTROWEATHER_FIELD_HUMIDITY" = "Влажность";
+"ASTROWEATHER_FIELD_HUMIDITY" = "Humidity";
 
 /* No comment provided by engineer. */
-"ASTROWEATHER_FIELD_PRECIPITATION" = "Осадки";
+"ASTROWEATHER_FIELD_PRECIPITATION" = "Precipitation";
 
 /* No comment provided by engineer. */
-"ASTROWEATHER_FIELD_INSTABILITY" = "Турбулентность";
+"ASTROWEATHER_FIELD_INSTABILITY" = "Instability";
 
 /* No comment provided by engineer. */
-"ASTROWEATHER_FIELD_WIND_DIRECTION" = "Направление ветра";
+"ASTROWEATHER_FIELD_WIND_DIRECTION" = "Wind Direction";
 
 /* No comment provided by engineer. */
-"ASTROWEATHER_FIELD_WIND_SPEED" = "Скорость ветра";
+"ASTROWEATHER_FIELD_WIND_SPEED" = "Wind Speed";
 
 /* No comment provided by engineer. */
-"ASTROWEATHER_FIELD_TIME" = "Время";
+"ASTROWEATHER_FIELD_TIME" = "Time";
 
 /* No comment provided by engineer. */
-"ASTROWEATHER_FIELD_WEATHER" = "Погода";
+"ASTROWEATHER_FIELD_WEATHER" = "Weather";
 
 /* No comment provided by engineer. */
-"TEXT_INPUT_SUBMIT_BUTTON_DEFAULT_TITLE" = "Отправить";
+"TEXT_INPUT_SUBMIT_BUTTON_DEFAULT_TITLE" = "Send";
 
 /* No comment provided by engineer. */
 "SETTINGS_SECTION_PREFERENCES" = "Preferences";
@@ -1593,13 +2177,13 @@
 "SKY_CHART_TIME_HINT" = "Time";
 
 /* No comment provided by engineer. */
-"SETTING_PURCHASE_ASTRO_PRO_TITLE" = "Покупка/восстановление Astroweather PRO";
+"SETTING_PURCHASE_ASTRO_PRO_TITLE" = "Purchase/Restore Astroweather PRO";
 
 /* No comment provided by engineer. */
-"SETTING_PURCHASE_ASTRO_PRO_ACTION_RESTORE" = "Восстановить покупку";
+"SETTING_PURCHASE_ASTRO_PRO_ACTION_RESTORE" = "Restore Purchase";
 
 /* No comment provided by engineer. */
-"SETTING_PURCHASE_ASTRO_PRO_ACTION_PURCHASE" = "Покупка";
+"SETTING_PURCHASE_ASTRO_PRO_ACTION_PURCHASE" = "Purchase";
 
 /* No comment provided by engineer. */
 "ACTION_SHOW_EVENT_DETAILS" = "Show Details";

@@ -11,9 +11,6 @@
 "Change Name" = "修改名称";
 
 /* No comment provided by engineer. */
-"Modifying the location" = "修改位置";
-
-/* No comment provided by engineer. */
 "Changing name" = "修改名称";
 
 /* No comment provided by engineer. */
@@ -23,13 +20,10 @@
 "Delete" = "删除";
 
 /* No comment provided by engineer. */
-"Do you wish to delete this Quanzi?" = "您是否希望删除本条圈子？";
+"Do you want to delete this Quanzi?" = "您是否希望删除本条圈子？";
 
 /* No comment provided by engineer. */
-"Do you wish to delete this comment?" = "您是否希望删除本条评论？";
-
-/* No comment provided by engineer. */
-"Finish" = "完成";
+"Do you want to delete this comment?" = "您是否希望删除本条评论？";
 
 /* No comment provided by engineer. */
 "Name" = "名称";
@@ -47,13 +41,13 @@
 "Octet-gram of cloud cover, blue is for clear while white is for cloud. e.g. the \"cake\" on the left is 0% cloud while the one on the right is 100% cloud." = "云量八分图，蓝色代表晴天所占的比例，白色代表云所占的比例，从左到右的云量从0%递增到100%。";
 
 /* No comment provided by engineer. */
-"Astronomical seeing. From left to right: <0.5\", 0.5\"-0.75\", 0.75\"-1\", 1\"-1.25\", 1.25\"-1.5\", 1.5\"-2\", 2\"-2.5\", >2.5\". In short, the smaller/bluer, the better the seeing condition is." = "视宁度，从左到右：<0.5\", 0.5\"-0.75\", 0.75\"-1\", 1\"-1.25\", 1.25\"-1.5\", 1.5\"-2\", 2\"-2.5\", >2.5\"。简单地说，图标越小/越蓝，视宁度越好。";
+"Astronomical seeing. From left to right: <0.5″, 0.5″-0.75″, 0.75″-1″, 1″-1.25″, 1.25″-1.5″, 1.5″-2″, 2″-2.5″, >2.5″. In short, the smaller/bluer, the better the seeing condition is." = "视宁度，从左到右：<0.5″, 0.5″-0.75″, 0.75″-1″, 1″-1.25″, 1.25″-1.5″, 1.5″-2″, 2″-2.5″, >2.5″。简单地说，图标越小/越蓝，视宁度越好。";
 
 /* No comment provided by engineer. */
 "Atmospheric transparency. From left to right: <0.3, 0.3-0.4, 0.4-0.5, 0.5-0.6, 0.6-0.7, 0.7-0.85, 0.85-1, >1 (unit: mag per air mass). In short, the fewer bars/bluer, the better the transparency is." = "透明度，从左到右：<0.3, 0.3-0.4, 0.4-0.5, 0.5-0.6, 0.6-0.7, 0.7-0.85, 0.85-1, >1（单位为星等每大气质量）。简单地说，横杠越少/越蓝，透明度越好。";
 
 /* No comment provided by engineer. */
-"Chances of rain/snow." = "可能有雨/有雪";
+"Chances of rain/snow." = "可能有雨/有雪。";
 
 /* No comment provided by engineer. */
 "Atmospheric instability. From left to right: lifted index between 0 to -3, -3 to -5, and below -5." = "大气不稳定度，从左到右分别代表抬升指数介于0至-3，-3至-5，以及小于-5。";
@@ -74,7 +68,7 @@
 "Rate Astroweather" = "给晴天钟评分";
 
 /* No comment provided by engineer. */
-"Help" = "使用说明";
+"Help" = "帮助";
 
 /* No comment provided by engineer. */
 "Seeing" = "视宁度";
@@ -104,7 +98,7 @@
 "Cloud Cover %@" = "云量 %@";
 
 /* No comment provided by engineer. */
-"Precipation" = "降水";
+"Precipitation" = "降水";
 
 /* No comment provided by engineer. */
 "Time" = "时间";
@@ -170,25 +164,7 @@
 "NNW" = "西北偏北";
 
 /* No comment provided by engineer. */
-"ISS (ZARYA)" = "国际空间站";
-
-/* No comment provided by engineer. */
-"ISS" = "国际空间站";
-
-/* No comment provided by engineer. */
-"TIANGONG-2" = "天宫二号";
-
-/* No comment provided by engineer. */
-"BANXING-2" = "伴星二号";
-
-/* No comment provided by engineer. */
-"Satellite Passes" = "卫星过境";
-
-/* No comment provided by engineer. */
-"Satellite passes evaluates orbits of satellites and calculates the positions of satellites.\n\nSatellites travel at fast speeds and can  pass a local sky multiple times in a day but when can they be seen?\n\nHere we assume the satellites can be seen when the sun is below the horizon by 6° to 30°.\n\nOn the right is the peak position and angle." = "此页面计算并展示人造卫星的过境情况。\n\n人造卫星围绕地球运转速度较快，一天内可能多次穿过某地天空，但是什么时候能够看到人造卫星？\n\n这里我们简单的假设只有当太阳位于地平线以下6°~30°时才有观测人造卫星的条件。\n\n列表右侧为中天时人造卫星的方向角和仰角。";
-
-/* No comment provided by engineer. */
-"About Astroweather" = "关于晴天钟";
+"About" = "关于";
 
 /* No comment provided by engineer. */
 "Astroweather" = "晴天钟";
@@ -210,9 +186,6 @@
 
 /* No comment provided by engineer. */
 "You received a message, tap to view" = "您收到了一条消息，点击查看";
-
-/* No comment provided by engineer. */
-"About Astroweather PRO" = "关于晴天钟PRO";
 
 /* No comment provided by engineer. */
 "Unknown User" = "未知用户";
@@ -422,16 +395,16 @@
 "Edit Success" = "编辑成功";
 
 /* No comment provided by engineer. */
-"Post Failed: %@" = "发布失败: %@";
+"Post Failed" = "发布失败";
 
 /* No comment provided by engineer. */
-"Edit Failed: %@" = "编辑失败: %@";
+"Edit Failed" = "编辑失败";
 
 /* No comment provided by engineer. */
 "Comment Success" = "评论成功";
 
 /* No comment provided by engineer. */
-"Comment Failed: %@" = "评论失败: %@";
+"Comment Failed" = "评论失败";
 
 /* No comment provided by engineer. */
 "Failed to load more contents: %@" = "无法加载更多内容: %@";
@@ -443,7 +416,7 @@
 "Report Success" = "举报成功";
 
 /* No comment provided by engineer. */
-"Report Failed: %@" = "举报失败: %@";
+"Report Failed" = "举报失败";
 
 /* No comment provided by engineer. */
 "Wrong data format" = "数据格式错误";
@@ -461,22 +434,13 @@
 "Caches cleared" = "清除成功";
 
 /* No comment provided by engineer. */
-"Welcome to Quanzi" = "欢迎使用圈子";
-
-/* No comment provided by engineer. */
-"Quanzi is a place to share, you can share text or photos via the camera button and they can be seen by everyone using Astroweather.\nIf any content here disturbed you or you wanted to delete/modify your posted contents, you can report it in its detail page." = "在这里，您可以通过右上角的照相机按钮分享文字或图片，所有的晴天钟用户都可以看到您分享的内容。\n如果这里存在违规的内容或者您希望修改、删除您发布的圈子，请在详情页进行举报。";
-
-/* No comment provided by engineer. */
 "Copy" = "复制";
 
 /* No comment provided by engineer. */
 "Reply" = "回复";
 
 /* No comment provided by engineer. */
-"PM" = "私信";
-
-/* No comment provided by engineer. */
-"Send" = "发送";
+"DM" = "私信";
 
 /* No comment provided by engineer. */
 "Messages sent" = "发送成功";
@@ -506,37 +470,10 @@
 "Up" = "已升起";
 
 /* No comment provided by engineer. */
-"Not up" = "未升起";
+"Not Up" = "未升起";
 
 /* No comment provided by engineer. */
 "@%@:" = "@%@：";
-
-/* No comment provided by engineer. */
-"Purchase or Restore" = "购买或恢复购买";
-
-/* No comment provided by engineer. */
-"Purchase/Restore" = "购买或恢复购买";
-
-/* No comment provided by engineer. */
-"Restore Purchase" = "恢复购买";
-
-/* No comment provided by engineer. */
-"Purchase" = "购买";
-
-/* No comment provided by engineer. */
-"This feature is available by purchase." = "此功能需要购买。";
-
-/* No comment provided by engineer. */
-"Rise/Set Time for Stars" = "恒星升落时间";
-
-/* No comment provided by engineer. */
-"Rise/Set Time for Stars is now available, click right up to try out!" = "恒星升落时间功能上线，点击右上角尝试！";
-
-/* No comment provided by engineer. */
-"Satellite Passes is now available, click left up to try out!" = "人造卫星过境功能上线，点击左上角尝试！";
-
-/* No comment provided by engineer. */
-"Take Me There!" = "现在尝试";
 
 /* No comment provided by engineer. */
 "Sirius" = "天狼星";
@@ -563,7 +500,7 @@
 "Procyon" = "南河三";
 
 /* No comment provided by engineer. */
-"Archernar" = "水委一";
+"Achernar" = "水委一";
 
 /* No comment provided by engineer. */
 "Betelgeuse" = "参宿四";
@@ -572,7 +509,7 @@
 "Hadar" = "马腹一";
 
 /* No comment provided by engineer. */
-"Altair" = "河鼓二";
+"Atair" = "河鼓二";
 
 /* No comment provided by engineer. */
 "Acrux" = "十字架二";
@@ -602,7 +539,7 @@
 "Regulus" = "轩辕十四";
 
 /* No comment provided by engineer. */
-"Adhara" = "弧矢七";
+"Adharaz" = "弧矢七";
 
 /* No comment provided by engineer. */
 "Shaula" = "尾宿八";
@@ -818,40 +755,28 @@
 "Galactic Center" = "银心";
 
 /* No comment provided by engineer. */
-"Saved to Favorites" = "已添加到收藏";
-
-/* No comment provided by engineer. */
-"Removed from Favorites" = "已从收藏移除";
-
-/* No comment provided by engineer. */
-"Let's Collect the Stars" = "让我们收集星星吧";
-
-/* No comment provided by engineer. */
-"By clicking the button, you get to pin your favorite stars to the top of the list!" = "通过点击按钮，将你关注的星星固定在列表顶部！";
-
-/* No comment provided by engineer. */
 "No Event" = "无天文事件";
 
 /* No comment provided by engineer. */
-"Failed in retrieving satellite images..." = "获取卫星云图失败...";
+"Failed in retrieving weather chart or image..." = "获取气象图失败...";
 
 /* No comment provided by engineer. */
 "East Asia" = "东亚";
 
 /* No comment provided by engineer. */
-"East Hemisphere" = "东半球";
+"Full Disk" = "半球";
 
 /* No comment provided by engineer. */
-"RGB Infrared (Himawari)" = "红外全彩（日本）";
+"RGB Infrared (Himawari)" = "红外全彩（向日葵）";
 
 /* No comment provided by engineer. */
-"RGB Infrared Enhanced (Himawari)" = "红外色调强化（日本）";
+"RGB Infrared Enhanced (Himawari)" = "红外色调强化（向日葵）";
 
 /* No comment provided by engineer. */
-"Black/White Infrared (Himawari)" = "红外黑白（日本）";
+"Black/White Infrared (Himawari)" = "红外黑白（向日葵）";
 
 /* No comment provided by engineer. */
-"Visible Spectrum (Himawari)" = "可见光（日本）";
+"Visible Spectrum (Himawari)" = "可见光（向日葵）";
 
 /* No comment provided by engineer. */
 "True Color (FY4A)" = "真彩色（风云四号）";
@@ -882,6 +807,21 @@
 
 /* No comment provided by engineer. */
 "GeoColor" = "地质色彩";
+
+/* No comment provided by engineer. */
+"GeoColor (Himawari)" = "地质色彩（向日葵）";
+
+/* No comment provided by engineer. */
+"GeoColor (GOES-16)" = "地质色彩（GOES-16）";
+
+/* No comment provided by engineer. */
+"GeoColor (GOES-17)" = "地质色彩（GOES-17）";
+
+/* No comment provided by engineer. */
+"GeoColor (Meteosat-8)" = "地质色彩（Meteosat-8）";
+
+/* No comment provided by engineer. */
+"GeoColor (Meteosat-11)" = "地质色彩（Meteosat-11）";
 
 /* No comment provided by engineer. */
 "China" = "中国";
@@ -926,13 +866,13 @@
 "Full Moon" = "满月";
 
 /* No comment provided by engineer. */
-"Waning Crescent" = "亏凸月";
+"Waning Crescent" = "残月";
 
 /* No comment provided by engineer. */
 "Last Quarter" = "下弦月";
 
 /* No comment provided by engineer. */
-"Waning Gibbous" = "残月";
+"Waning Gibbous" = "亏凸月";
 
 /* No comment provided by engineer. */
 "Quanzi Service Unavailable" = "无法使用圈子";
@@ -959,7 +899,7 @@
 "Browse Quanzi with Astroweather" = "使用晴天钟浏览圈子";
 
 /* No comment provided by engineer. */
-"Recommend Astroweather to Friends" = "推荐晴天钟给朋友";
+"Tell Friends about Astroweather" = "推荐晴天钟给朋友";
 
 /* No comment provided by engineer. */
 "Welcome to Astroweather" = "欢迎使用晴天钟";
@@ -1007,10 +947,10 @@
 "Temperature Unit" = "温度单位";
 
 /* No comment provided by engineer. */
-"℃" = "摄氏度";
+"℃" = "℃";
 
 /* No comment provided by engineer. */
-"℉" = "华氏度";
+"℉" = "℉";
 
 /* No comment provided by engineer. */
 "Unrecognized format" = "未识别的文件格式";
@@ -1055,19 +995,18 @@
 "Red Light Helper" = "红灯助手";
 
 /* No comment provided by engineer. */
-"Dismiss" = "关闭";
-
-/* No comment provided by engineer. */
 "Sky Chart" = "星图";
 
 /* No comment provided by engineer. */
-"Submit Feedback" = "发送反馈";
+"Send Feedback" = "提交反馈";
 
 /* No comment provided by engineer. */
 "Remove Ads" = "隐藏广告";
 
 /* No comment provided by engineer. */
-"Ads will be disabled for 1 day, restart Astroweather to take effect. Alternatively, you can also purchase Astro PRO to disable ads entirely." = "接下来的1天内将不再显示广告，重启晴天钟后生效。您也可以购买Astro PRO完全移除广告。";
+"Ads will be disabled for 1 day, restart Astroweather to take effect. Alternatively, you can also purchase Astro PRO to disable ads entirely." = "接下来的1天内将不再显示广告，重启晴天钟后生效。您也可以购买晴天钟PRO完全移除广告。";
+
+/* No comment provided by engineer. */
 "Sun Rise/Set Detail" = "日出/落详情";
 
 /* No comment provided by engineer. */
@@ -1086,10 +1025,16 @@
 "Sunrise End: %@" = "日出结束：%@";
 
 /* No comment provided by engineer. */
+"Blue Hour End: %@" = "日出蓝色时间结束：%@";
+
+/* No comment provided by engineer. */
 "Golden Hour End: %@" = "日出黄金时间结束：%@";
 
 /* No comment provided by engineer. */
 "Solar Noon: %@" = "上中天：%@";
+
+/* No comment provided by engineer. */
+"Blue Hour: %@" = "日落蓝色时间开始：%@";
 
 /* No comment provided by engineer. */
 "Golden Hour: %@" = "日落黄金时间开始：%@";
@@ -1116,22 +1061,22 @@
 "Solar System" = "太阳系";
 
 /* No comment provided by engineer. */
-"View Astroweather on your home screen." = "在主屏幕展示晴天钟天气。";
+"View Astroweather on your home screen" = "在主屏幕展示晴天钟天气";
 
 /* No comment provided by engineer. */
 "No Name" = "未命名";
 
 /* No comment provided by engineer. */
-"Location service is disabled." = "定位服务已关闭。";
+"Location service is disabled" = "定位服务已关闭";
 
 /* No comment provided by engineer. */
-"Location permission is not granted." = "未获得定位权限。";
+"Location permission is not granted" = "未获得定位权限";
 
 /* No comment provided by engineer. */
-"Unable to get current location." = "无法获取当前位置。";
+"Unable to get current location" = "无法获取当前位置";
 
 /* No comment provided by engineer. */
-"Network error." = "网络错误。";
+"Network error" = "网络错误";
 
 /* No comment provided by engineer. */
 "Europe" = "欧洲";
@@ -1146,7 +1091,7 @@
 "Rise & Set" = "升落";
 
 /* No comment provided by engineer. */
-"View rise and set time for sun, moon and planets." = "查看太阳、月球和行星的升落时间。";
+"View rise and set time for sun, moon and planets" = "查看太阳、月球和行星的升落时间";
 
 /* No comment provided by engineer. */
 "Up, will set at %@" = "已升起，会在%@落下";
@@ -1158,10 +1103,1087 @@
 "Lunar Phase" = "月相";
 
 /* No comment provided by engineer. */
-"View current lunar phase." = "查看当前的月相。";
+"View current lunar phase" = "查看当前的月相";
 
 /* No comment provided by engineer. */
 "Please use home screen widget instead" = "请使用桌面小组件";
 
 /* No comment provided by engineer. */
 "Close" = "关闭";
+
+/* No comment provided by engineer. */
+"Update Time: %@" = "更新时间：%@";
+
+/* No comment provided by engineer. */
+"Choose Polarscope" = "选择极轴镜";
+
+/* No comment provided by engineer. */
+"Polar Alignment" = "极轴校准";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_POLARSCOPE_TITLE" = "请选择正确的极轴镜，然后将北极星的位置和图片中的黄点对齐。";
+
+/* No comment provided by engineer. */
+"iOptron" = "艾顿";
+
+/* No comment provided by engineer. */
+"Celestron" = "星特朗";
+
+/* No comment provided by engineer. */
+"SkyWatcher" = "信达";
+
+/* No comment provided by engineer. */
+"Rise Direction: %@\n\nTransit Direction: %@\nTransit Altitude: %@\n\nSet Direction: %@" = "升起位置：%@\n\n中天位置：%@\n中天高度：%@\n\n落下位置：%@";
+
+/* No comment provided by engineer. */
+"Current Direction: %@\nCurrent Altitude: %@" = "当前位置：%@\n当前高度：%@";
+
+/* No comment provided by engineer. */
+"Astroweather Event" = "晴天钟事件";
+
+/* No comment provided by engineer. */
+"App mag: %@" = "视星等：%@";
+
+/* No comment provided by engineer. */
+"Object type: %@" = "类型：%@";
+
+/* No comment provided by engineer. */
+"Proper name: %@" = "通称：%@";
+
+/* No comment provided by engineer. */
+"Sort Rules" = "排序规则";
+
+/* No comment provided by engineer. */
+"Filter Rules" = "筛选规则";
+
+/* No comment provided by engineer. */
+"App Mag" = "视星等";
+
+/* No comment provided by engineer. */
+"None" = "无";
+
+/* No comment provided by engineer. */
+"Show Stars" = "显示恒星";
+
+/* No comment provided by engineer. */
+"Show Messier Objects" = "显示梅西耶天体";
+
+/* No comment provided by engineer. */
+"Show Galactic Center" = "显示银心";
+
+/* No comment provided by engineer. */
+"Show Invisible Objects" = "显示不可见天体";
+
+/* No comment provided by engineer. */
+"Crab Nebula" = "蟹状星云";
+
+/* No comment provided by engineer. */
+"Butterfly Cluster" = "蝴蝶星团";
+
+/* No comment provided by engineer. */
+"Ptolemy Cluster" = "托勒密星团";
+
+/* No comment provided by engineer. */
+"Lagoon Nebula" = "礁湖星云";
+
+/* No comment provided by engineer. */
+"Wild Duck Cluster" = "野鸭星团";
+
+/* No comment provided by engineer. */
+"Great Globular Cluster in Hercules" = "武仙座球状星团、仙座星团";
+
+/* No comment provided by engineer. */
+"Eagle Nebula" = "鹰星云";
+
+/* No comment provided by engineer. */
+"Omega, Swan, Horseshoe, or Lobster Nebula" = "天鹅星云、奥米加星云、马蹄星云、龙虾星云";
+
+/* No comment provided by engineer. */
+"Trifid Nebula" = "三裂星云";
+
+/* No comment provided by engineer. */
+"Sagittarius Cluster" = "人马座星团";
+
+/* No comment provided by engineer. */
+"Small Sagittarius Star Cloud" = "人马座恒星云";
+
+/* No comment provided by engineer. */
+"Dumbbell Nebula" = "哑铃星云";
+
+/* No comment provided by engineer. */
+"Cooling Tower" = "Cooling Tower";
+
+/* No comment provided by engineer. */
+"Andromeda Galaxy" = "仙女座星系";
+
+/* No comment provided by engineer. */
+"Triangulum Galaxy" = "三角座星系";
+
+/* No comment provided by engineer. */
+"Starfish Cluster" = "Starfish Cluster";
+
+/* No comment provided by engineer. */
+"Winnecke 4" = "Winnecke 4";
+
+/* No comment provided by engineer. */
+"Orion Nebula" = "猎户座星云";
+
+/* No comment provided by engineer. */
+"De Mairan's Nebula" = "迪马伦的星云";
+
+/* No comment provided by engineer. */
+"Beehive Cluster or Praesepe" = "蜂巢星团、鬼宿星团";
+
+/* No comment provided by engineer. */
+"Pleiades" = "昴宿星团、七姊妹星团";
+
+/* No comment provided by engineer. */
+"Whirlpool Galaxy" = "涡状星系";
+
+/* No comment provided by engineer. */
+"Ring Nebula" = "环状星云";
+
+/* No comment provided by engineer. */
+"Sunflower Galaxy" = "向日葵星系";
+
+/* No comment provided by engineer. */
+"Black Eye Galaxy" = "黑眼星系";
+
+/* No comment provided by engineer. */
+"Leo Triplet" = "狮子座三胞胎";
+
+/* No comment provided by engineer. */
+"Phantom Galaxy" = "Phantom Galaxy";
+
+/* No comment provided by engineer. */
+"Little Dumbbell Nebula" = "小哑铃星云";
+
+/* No comment provided by engineer. */
+"Cetus A" = "鲸鱼A星系";
+
+/* No comment provided by engineer. */
+"Bode's Galaxy" = "波得星系";
+
+/* No comment provided by engineer. */
+"Cigar Galaxy" = "雪茄星系";
+
+/* No comment provided by engineer. */
+"Southern Pinwheel Galaxy" = "南风车星系";
+
+/* No comment provided by engineer. */
+"Virgo A" = "室女A星系";
+
+/* No comment provided by engineer. */
+"Croc's Eye or Cat's Eye" = "Croc's Eye or Cat's Eye";
+
+/* No comment provided by engineer. */
+"Owl Nebula" = "猫头鹰星云";
+
+/* No comment provided by engineer. */
+"Pinwheel Galaxy" = "风车星系";
+
+/* No comment provided by engineer. */
+"Spindle Galaxy" = "纺锤星系";
+
+/* No comment provided by engineer. */
+"Sombrero Galaxy" = "墨西哥帽星系";
+
+/* No comment provided by engineer. */
+"Events" = "天象";
+
+/* No comment provided by engineer. */
+"History" = "历史";
+
+/* No comment provided by engineer. */
+"Please select start time" = "请选择开始时间";
+
+/* No comment provided by engineer. */
+"Please select end time" = "请选择结束时间";
+
+/* No comment provided by engineer. */
+"LASCO C2" = "LASCO C2";
+
+/* No comment provided by engineer. */
+"LASCO C3" = "LASCO C3";
+
+/* No comment provided by engineer. */
+"EIT 171" = "171Å 波段";
+
+/* No comment provided by engineer. */
+"EIT 195" = "195Å 波段";
+
+/* No comment provided by engineer. */
+"EIT 284" = "284Å 波段";
+
+/* No comment provided by engineer. */
+"EIT 304" = "304Å 波段";
+
+/* No comment provided by engineer. */
+"SDO/HMI Continuum" = "SDO/HMI 连续谱";
+
+/* No comment provided by engineer. */
+"SDO/HMI Magnetogram" = "SDO/HMI 磁场图";
+
+/* No comment provided by engineer. */
+"Sunspots" = "太阳黑子";
+
+/* No comment provided by engineer. */
+"Weather Chart/Image" = "气象图";
+
+/* No comment provided by engineer. */
+"View real-time weather charts or images" = "查看实时气象图";
+
+/* No comment provided by engineer. */
+"Date" = "日期";
+
+/* No comment provided by engineer. */
+"Time" = "时间";
+
+/* No comment provided by engineer. */
+"Unable to send message" = "无法发送消息";
+
+/* No comment provided by engineer. */
+"Connection lost" = "连接丢失";
+
+/* No comment provided by engineer. */
+"Reconnect" = "重连";
+
+/* No comment provided by engineer. */
+"Unable to decode message" = "无法解析信息";
+
+/* No comment provided by engineer. */
+"Unable to report the message" = "举报消息失败";
+
+/* No comment provided by engineer. */
+"Successfully reported the message" = "举报消息成功";
+
+/* No comment provided by engineer. */
+"Spacecraft Passes" = "航天器过境";
+
+/* No comment provided by engineer. */
+"Failed to get spacecraft status." = "无法获取航天器当前状态。";
+
+/* No comment provided by engineer. */
+"Start Time" = "开始时间";
+
+/* No comment provided by engineer. */
+"End Time" = "结束时间";
+
+/* No comment provided by engineer. */
+"Rise Time" = "升起时间";
+
+/* No comment provided by engineer. */
+"Set Time" = "下落时间";
+
+/* No comment provided by engineer. */
+"Peak Time" = "最高点时间";
+
+/* No comment provided by engineer. */
+"Azimuth" = "方位";
+
+/* No comment provided by engineer. */
+"Azi / Alt" = "方位 /高度";
+
+/* No comment provided by engineer. */
+"%@ / %@" = "%@ / %@";
+
+/* No comment provided by engineer. */
+"Observable Passes" = "可见的";
+
+/* No comment provided by engineer. */
+"%@ passes" = "%@ 过境";
+
+/* No comment provided by engineer. */
+"%1$@, %2$@ ~ %3$@ above the horizon, %4$@ ~ %5$@ observable." = "%1$@，%2$@ ~ %3$@ 位于地平线以上，%4$@ ~ %5$@ 可见。";
+
+/* No comment provided by engineer. */
+"%1$@, %2$@ ~ %3$@ above the horizon." = "%1$@，%2$@ ~ %3$@ 位于地平线以上。";
+
+/* No comment provided by engineer. */
+"Not observable" = "不可见";
+
+/* No comment provided by engineer. */
+"Observable" = "可见";
+
+/* No comment provided by engineer. */
+"Andromeda" = "仙女座";
+
+/* No comment provided by engineer. */
+"Antlia" = "唧筒座";
+
+/* No comment provided by engineer. */
+"Apus" = "天燕座";
+
+/* No comment provided by engineer. */
+"Aquila" = "宝瓶座";
+
+/* No comment provided by engineer. */
+"Aquarius" = "天鹰座";
+
+/* No comment provided by engineer. */
+"Ara" = "天坛座";
+
+/* No comment provided by engineer. */
+"Aries" = "白羊座";
+
+/* No comment provided by engineer. */
+"Auriga" = "御夫座";
+
+/* No comment provided by engineer. */
+"Bootes" = "牧夫座";
+
+/* No comment provided by engineer. */
+"Canis Major" = "大犬座";
+
+/* No comment provided by engineer. */
+"Canis Minor" = "小犬座";
+
+/* No comment provided by engineer. */
+"Canes Venatici" = "猎犬座";
+
+/* No comment provided by engineer. */
+"Caelum" = "雕具座";
+
+/* No comment provided by engineer. */
+"Camelopardalis" = "鹿豹座";
+
+/* No comment provided by engineer. */
+"Capricornus" = "摩羯座";
+
+/* No comment provided by engineer. */
+"Carina" = "船底座";
+
+/* No comment provided by engineer. */
+"Cassiopeia" = "仙后座";
+
+/* No comment provided by engineer. */
+"Centaurus" = "半人马座";
+
+/* No comment provided by engineer. */
+"Cepheus" = "仙王座";
+
+/* No comment provided by engineer. */
+"Cetus" = "鲸鱼座";
+
+/* No comment provided by engineer. */
+"Circinus" = "圆规座";
+
+/* No comment provided by engineer. */
+"Cancer" = "巨蟹座";
+
+/* No comment provided by engineer. */
+"Columba" = "天鸽座";
+
+/* No comment provided by engineer. */
+"Coma Berenices" = "后发座";
+
+/* No comment provided by engineer. */
+"Corona Australis" = "南冕座";
+
+/* No comment provided by engineer. */
+"Corona Borealis" = "北冕座";
+
+/* No comment provided by engineer. */
+"Crater" = "巨爵座";
+
+/* No comment provided by engineer. */
+"Crux" = "南十字座";
+
+/* No comment provided by engineer. */
+"Corvus" = "乌鸦座";
+
+/* No comment provided by engineer. */
+"Cygnus" = "天鹅座";
+
+/* No comment provided by engineer. */
+"Delphinus" = "海豚座";
+
+/* No comment provided by engineer. */
+"Dorado" = "剑鱼座";
+
+/* No comment provided by engineer. */
+"Draco" = "天龙座";
+
+/* No comment provided by engineer. */
+"Equuleus" = "小马座";
+
+/* No comment provided by engineer. */
+"Eridanus" = "波江座";
+
+/* No comment provided by engineer. */
+"Fornax" = "天炉座";
+
+/* No comment provided by engineer. */
+"Gemini" = "双子座";
+
+/* No comment provided by engineer. */
+"Grus" = "天鹤座";
+
+/* No comment provided by engineer. */
+"Hercules" = "武仙座";
+
+/* No comment provided by engineer. */
+"Horologium" = "时钟座";
+
+/* No comment provided by engineer. */
+"Hydra" = "长蛇座";
+
+/* No comment provided by engineer. */
+"Hydrus" = "水蛇座";
+
+/* No comment provided by engineer. */
+"Indus" = "印第安座";
+
+/* No comment provided by engineer. */
+"Leo Minor" = "小狮座";
+
+/* No comment provided by engineer. */
+"Lacerta" = "蝎虎座";
+
+/* No comment provided by engineer. */
+"Leo" = "狮子座";
+
+/* No comment provided by engineer. */
+"Lepus" = "天兔座";
+
+/* No comment provided by engineer. */
+"Libra" = "天秤座";
+
+/* No comment provided by engineer. */
+"Lupus" = "豺狼座";
+
+/* No comment provided by engineer. */
+"Lynx" = "天猫座";
+
+/* No comment provided by engineer. */
+"Lyra" = "天琴座";
+
+/* No comment provided by engineer. */
+"Mensa" = "山案座";
+
+/* No comment provided by engineer. */
+"Microscopium" = "显微镜座";
+
+/* No comment provided by engineer. */
+"Monoceros" = "麒麟座";
+
+/* No comment provided by engineer. */
+"Musca" = "苍蝇座";
+
+/* No comment provided by engineer. */
+"Norma" = "矩尺座";
+
+/* No comment provided by engineer. */
+"Octans" = "南极座";
+
+/* No comment provided by engineer. */
+"Ophiuchus" = "蛇夫座";
+
+/* No comment provided by engineer. */
+"Orion" = "猎户座";
+
+/* No comment provided by engineer. */
+"Pavo" = "孔雀座";
+
+/* No comment provided by engineer. */
+"Pegasus" = "飞马座";
+
+/* No comment provided by engineer. */
+"Perseus" = "英仙座";
+
+/* No comment provided by engineer. */
+"Phoenix" = "凤凰座";
+
+/* No comment provided by engineer. */
+"Pictor" = "绘架座";
+
+/* No comment provided by engineer. */
+"Piscis Austrinus" = "南鱼座";
+
+/* No comment provided by engineer. */
+"Pisces" = "双鱼座";
+
+/* No comment provided by engineer. */
+"Puppis" = "船尾座";
+
+/* No comment provided by engineer. */
+"Pyxis" = "罗盘座";
+
+/* No comment provided by engineer. */
+"Reticulum" = "网罟座";
+
+/* No comment provided by engineer. */
+"Sculptor" = "玉夫座";
+
+/* No comment provided by engineer. */
+"Scorpius" = "天蝎座";
+
+/* No comment provided by engineer. */
+"Scutum" = "盾牌座";
+
+/* No comment provided by engineer. */
+"Serpens Caput" = "巨蛇座";
+
+/* No comment provided by engineer. */
+"Sextans" = "六分仪座";
+
+/* No comment provided by engineer. */
+"Sagitta" = "天箭座";
+
+/* No comment provided by engineer. */
+"Sagittarius" = "人马座";
+
+/* No comment provided by engineer. */
+"Taurus" = "金牛座";
+
+/* No comment provided by engineer. */
+"Telescopium" = "望远镜座";
+
+/* No comment provided by engineer. */
+"Triangulum Australe" = "南三角座";
+
+/* No comment provided by engineer. */
+"Triangulum" = "三角座";
+
+/* No comment provided by engineer. */
+"Tucana" = "杜鹃座";
+
+/* No comment provided by engineer. */
+"Ursa Major" = "大熊座";
+
+/* No comment provided by engineer. */
+"Ursa Minor" = "小熊座";
+
+/* No comment provided by engineer. */
+"Vela" = "船帆座";
+
+/* No comment provided by engineer. */
+"Virgo" = "室女座";
+
+/* No comment provided by engineer. */
+"Volans" = "飞鱼座";
+
+/* No comment provided by engineer. */
+"Vulpecula" = "狐狸座";
+
+/* No comment provided by engineer. */
+"Show Constellations" = "显示星座";
+
+/* No comment provided by engineer. */
+"Show Constellation Names" = "显示星座名称";
+
+/* No comment provided by engineer. */
+"Show Constellation Lines" = "显示星座线";
+
+/* No comment provided by engineer. */
+"Show Bright Stars" = "显示亮恒星";
+
+/* No comment provided by engineer. */
+"Show Bright Star Names" = "显示亮恒星名称";
+
+/* No comment provided by engineer. */
+"Show Solar System Objects" = "显示太阳系天体";
+
+/* No comment provided by engineer. */
+"Show Solar System Object Names" = "显示太阳系天体名称";
+
+/* No comment provided by engineer. */
+"Show Messier Objects" = "显示梅西耶天体";
+
+/* No comment provided by engineer. */
+"Show Messier Object Names" = "显示梅西耶天体名称";
+
+/* No comment provided by engineer. */
+"Flat Field Helper" = "平场助手";
+
+/* No comment provided by engineer. */
+"Observer Location" = "观测位置";
+
+/* No comment provided by engineer. */
+"Light Pollution" = "光污染";
+
+/* No comment provided by engineer. */
+"Moon Phases" = "月相";
+
+/* No comment provided by engineer. */
+"Rise & Set" = "天体升落";
+
+/* No comment provided by engineer. */
+"Stars/DSOs" = "恒星/深空天体";
+
+/* No comment provided by engineer. */
+"Alps (Visible Spectrum (Sat24))" = "阿尔卑斯（可见光（Sat24））";
+
+/* No comment provided by engineer. */
+"Benelux (Visible Spectrum (Sat24))" = "比荷卢（可见光（Sat24））";
+
+/* No comment provided by engineer. */
+"France (Visible Spectrum (Sat24))" = "法国（可见光（Sat24））";
+
+/* No comment provided by engineer. */
+"Germany (Visible Spectrum (Sat24))" = "德国（可见光（Sat24））";
+
+/* No comment provided by engineer. */
+"Greece (Visible Spectrum (Sat24))" = "希腊（可见光（Sat24））";
+
+/* No comment provided by engineer. */
+"Italy (Visible Spectrum (Sat24))" = "意大利（可见光（Sat24））";
+
+/* No comment provided by engineer. */
+"Poland (Visible Spectrum (Sat24))" = "波兰（可见光（Sat24））";
+
+/* No comment provided by engineer. */
+"Turkey (Visible Spectrum (Sat24))" = "土耳其（可见光（Sat24））";
+
+/* No comment provided by engineer. */
+"Baltic (Visible Spectrum (Sat24))" = "波罗的海（可见光（Sat24））";
+
+/* No comment provided by engineer. */
+"Balkan (Visible Spectrum (Sat24))" = "巴尔干（可见光（Sat24））";
+
+/* No comment provided by engineer. */
+"Hungary (Visible Spectrum (Sat24))" = "匈牙利（可见光（Sat24））";
+
+/* No comment provided by engineer. */
+"Israel (Visible Spectrum (Sat24))" = "以色列（可见光（Sat24））";
+
+/* No comment provided by engineer. */
+"Romania & Bulgaria (Visible Spectrum (Sat24))" = "罗马尼亚和保加利亚（可见光（Sat24））";
+
+/* No comment provided by engineer. */
+"Russia (Visible Spectrum (Sat24))" = "俄罗斯（可见光（Sat24））";
+
+/* No comment provided by engineer. */
+"Spain & Portugal (Visible Spectrum (Sat24))" = "西班牙和葡萄牙（可见光（Sat24））";
+
+/* No comment provided by engineer. */
+"Scandinavia (Visible Spectrum (Sat24))" = "斯堪的纳维亚（可见光（Sat24））";
+
+/* No comment provided by engineer. */
+"UK & Ireland (Visible Spectrum (Sat24))" = "英国和爱尔兰（可见光（Sat24））";
+
+/* No comment provided by engineer. */
+"Alps (Infrared (Sat24))" = "阿尔卑斯（红外（Sat24））";
+
+/* No comment provided by engineer. */
+"Benelux (Infrared (Sat24))" = "比荷卢（红外（Sat24））";
+
+/* No comment provided by engineer. */
+"France (Infrared (Sat24))" = "法国（红外（Sat24））";
+
+/* No comment provided by engineer. */
+"Germany (Infrared (Sat24))" = "德国（红外（Sat24））";
+
+/* No comment provided by engineer. */
+"Greece (Infrared (Sat24))" = "希腊（红外（Sat24））";
+
+/* No comment provided by engineer. */
+"Italy (Infrared (Sat24))" = "意大利（红外（Sat24））";
+
+/* No comment provided by engineer. */
+"Poland (Infrared (Sat24))" = "波兰（红外（Sat24））";
+
+/* No comment provided by engineer. */
+"Turkey (Infrared (Sat24))" = "土耳其（红外（Sat24））";
+
+/* No comment provided by engineer. */
+"Baltic (Infrared (Sat24))" = "波罗的海（红外（Sat24））";
+
+/* No comment provided by engineer. */
+"Balkan (Infrared (Sat24))" = "巴尔干（红外（Sat24））";
+
+/* No comment provided by engineer. */
+"Hungary (Infrared (Sat24))" = "匈牙利（红外（Sat24））";
+
+/* No comment provided by engineer. */
+"Israel (Infrared (Sat24))" = "以色列（红外（Sat24））";
+
+/* No comment provided by engineer. */
+"Romania & Bulgaria (Infrared (Sat24))" = "罗马尼亚和保加利亚（红外（Sat24））";
+
+/* No comment provided by engineer. */
+"Russia (Infrared (Sat24))" = "俄罗斯（红外（Sat24））";
+
+/* No comment provided by engineer. */
+"Spain & Portugal (Infrared (Sat24))" = "西班牙和葡萄牙（红外（Sat24））";
+
+/* No comment provided by engineer. */
+"Scandinavia (Infrared (Sat24))" = "斯堪的纳维亚（红外（Sat24））";
+
+/* No comment provided by engineer. */
+"UK & Ireland (Infrared (Sat24))" = "英国和爱尔兰（红外（Sat24））";
+
+/* No comment provided by engineer. */
+"Wind" = "风";
+
+/* No comment provided by engineer. */
+"Temperature" = "气温";
+
+/* No comment provided by engineer. */
+"Visibility" = "能见度";
+
+/* No comment provided by engineer. */
+"Lighting" = "雷电（地闪）";
+
+/* No comment provided by engineer. */
+"Heavy Rain" = "强降水";
+
+/* No comment provided by engineer. */
+"Gale" = "雷暴大风";
+
+/* No comment provided by engineer. */
+"Hail" = "冰雹";
+
+/* No comment provided by engineer. */
+"Precipitation Forecast (24 hours)" = "降水量预报（24小时）";
+
+/* No comment provided by engineer. */
+"Precipitation Forecast (6 hours)" = "降水量预报（6小时）";
+
+/* No comment provided by engineer. */
+"Temperature Forecast (High)" = "最高气温预报";
+
+/* No comment provided by engineer. */
+"Temperature Forecast (Low)" = "最低气温预报";
+
+/* No comment provided by engineer. */
+"Aurora" = "极光";
+
+/* No comment provided by engineer. */
+"Northern Hemisphere" = "北半球";
+
+/* No comment provided by engineer. */
+"Southern Hemisphere" = "南半球";
+
+/* No comment provided by engineer. */
+"Sun Position" = "太阳位置";
+
+/* No comment provided by engineer. */
+"Select Date" = "选择日期";
+
+/* No comment provided by engineer. */
+"%@ ~ %@" = "%@ ~ %@";
+
+/* No comment provided by engineer. */
+"Blue Hour (Civil Dusk)" = "蓝色时间（民用暮光）";
+
+/* No comment provided by engineer. */
+"Blue Hour (Civil Twilight)" = "蓝色时间（民用晨光）";
+
+/* No comment provided by engineer. */
+"Blue Hour" = "蓝色时间";
+
+/* No comment provided by engineer. */
+"Golden Hour" = "金色时间";
+
+/* No comment provided by engineer. */
+"Golden Hour (Civil Dusk)" = "金色时间（民用暮光）";
+
+/* No comment provided by engineer. */
+"Golden Hour (Civil Twilight)" = "金色时间（民用晨光）";
+
+/* No comment provided by engineer. */
+"Nautical Dusk" = "航海暮光";
+
+/* No comment provided by engineer. */
+"Nautical Twilight" = "航海晨光";
+
+/* No comment provided by engineer. */
+"Nautical Twilight/Dusk" = "航海晨光/暮光";
+
+/* No comment provided by engineer. */
+"Astro Dusk" = "天文暮光";
+
+/* No comment provided by engineer. */
+"Astro Twilight" = "天文晨光";
+
+/* No comment provided by engineer. */
+"Astro Twilight/Dusk" = "天文晨光/暮光";
+
+/* No comment provided by engineer. */
+"Day" = "白天";
+
+/* No comment provided by engineer. */
+"Night" = "夜晚";
+
+/* No comment provided by engineer. */
+"Report released at: %@" = "预报时间：%@";
+
+/* No comment provided by engineer. */
+"WeChat" = "微信";
+
+/* No comment provided by engineer. */
+"COMMON_REQUEST_LANG" = "zh_CN";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_TITLE_0" = "晴天钟（7Timer!）";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_0_ROW_CONTENT_0" = "晴天钟是一系列天气预测产品的总称，它们主要提取于美国国家大气海洋局/气候环境预测局(NOAA/NCEP)的“全球预测系统”(Global Forecast System, GFS)数值模式。晴天钟在2005年7月作为国家天文台宇宙驿站服务器的实验产品开始运作，并在2008年及2011年进行了大规模的翻新。目前它由中国科学院上海天文台中国天文科普网提供硬件及网络支持。";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_0_ROW_CONTENT_1" = "请留意，我们（晴天钟App开发者）并非晴天钟服务提供者。";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_TITLE_1" = "光污染地图";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_1_ROW_CONTENT_0" = "光污染地图数据来自于World Atlas 2015\n\nCredits: Falchi, Fabio; Cinzano, Pierantonio; Duriscoe, Dan; Kyba, Christopher C. M.; Elvidge, Christopher D.; Baugh, Kimberly; Portnov, Boris; Rybnikova, Nataliya A.; Furgoni, Riccardo (2016): Supplement to: The New World Atlas of Artificial Night Sky Brightness. GFZ Data Services. http://doi.org/10.5880/GFZ.1.4.2016.001 Falchi F, Cinzano P, Duriscoe D, Kyba CC, Elvidge CD, Baugh K, Portnov BA, Rybnikova NA, Furgoni R. The new world atlas of artificial night sky brightness. Science Advances. 2016 Jun 1;2(6):e1600377.";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_TITLE_2" = "天体升落";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_2_ROW_CONTENT_0" = "天体升落时间是在手机上计算的，不需要网络连接也可以正常使用。";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_TITLE_3" = "译者";
+
+/* No comment provided by engineer. */
+"ABOUT_SECTION_3_ROW_CONTENT_0" = "俄语：Askaniy Anpilogov";
+
+/* No comment provided by engineer. */
+"NEXT_NEW_MOON_TEMPLATE" = "下次新月：%@";
+
+/* No comment provided by engineer. */
+"NEXT_FULL_MOON_TEMPLATE" = "下次满月：%@";
+
+/* No comment provided by engineer. */
+"PRIVACY_AGREEMENT_ALERT_TITLE" = "隐私政策与服务协议";
+
+/* No comment provided by engineer. */
+"PRIVACY_AGREEMENT_ALERT_CONTENT" = "请您务必仔细阅读，充分理解服务协议和隐私政策各条款。如果您同意，请点击下方的“同意”按钮。";
+
+/* No comment provided by engineer. */
+"PRIVACY_AGREEMENT_ALERT_ACTION_AGREE" = "同意";
+
+/* No comment provided by engineer. */
+"PRIVACY_AGREEMENT_ALERT_ACTION_DISAGREE" = "暂不同意";
+
+/* No comment provided by engineer. */
+"PRIVACY_AGREEMENT_ALERT_ACTION_VIEW" = "查看协议";
+
+/* No comment provided by engineer. */
+"ERROR_FAILED_TO_GET_DATA" = "获取数据失败";
+
+/* No comment provided by engineer. */
+"ACTION_VIEW_MESSAGE" = "查看";
+
+/* No comment provided by engineer. */
+"ACTION_REFRESH" = "刷新";
+
+/* No comment provided by engineer. */
+"ACTION_SHOW_MOON_PHASE" = "显示月相";
+
+/* No comment provided by engineer. */
+"ACTION_SHOW_SKY_CHART" = "显示星图";
+
+/* No comment provided by engineer. */
+"ACTION_ADD_TO_CALENDAR" = "添加到日历";
+
+/* No comment provided by engineer. */
+"NAVIGATION_TITLE_MESSAGES" = "消息";
+
+/* No comment provided by engineer. */
+"NEXT_SPACECRAFT_PASS_WIDGET_DISPLAY_NAME" = "航天器下次过境";
+
+/* No comment provided by engineer. */
+"NEXT_SPACECRAFT_PASS_WIDGET_DESCRIPTION" = "查看航天器下次过境的时间";
+
+/* No comment provided by engineer. */
+"NEXT_SPACECRAFT_PASS_WIDGET_NO_PASS_WITHIN_24_HOURS" = "24小时内无过境";
+
+/* No comment provided by engineer. */
+"UNSUPPORTED_SYSTEM_HINT" = "不支持的系统";
+
+/* No comment provided by engineer. */
+"UNSUPPORTED_CONFIGURATION_HINT" = "不支持的配置";
+
+/* No comment provided by engineer. */
+"SATELLITE_MAP_RETRY_BUTTON_TITLE" = "重试";
+
+/* No comment provided by engineer. */
+"SATELLITE_MAP_ANIMATION_IMAGE_CREATE_FAILED" = "无法创建动图";
+
+/* No comment provided by engineer. */
+"SATELLITE_MAP_ANIMATION_IMAGE_TITLE" = "动图";
+
+/* No comment provided by engineer. */
+"TAB_TITLE_ASTROWEATHER" = "晴天钟";
+
+/* No comment provided by engineer. */
+"TAB_TITLE_EVENTS" = "天象";
+
+/* No comment provided by engineer. */
+"TAB_TITLE_CHARTS_AND_IMAGES" = "气象图";
+
+/* No comment provided by engineer. */
+"TAB_TITLE_FORUM" = "社区";
+
+/* No comment provided by engineer. */
+"TAB_TITLE_SETTINGS" = "设置";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_ASTROWEATHER_TITLE" = "点击此处查看每个值的含义。\n你也可以通过点击某些控件快速查看它们所代表的值。";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_SUN_RISET_TITLE" = "关于日出/落详情";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_SUN_RISET_DETAIL" = "此页面展示了你选中的观测点太阳的升起/落下位置和当前位置。\n两条红线为太阳升/落方向，另一条线为太阳当前方向。";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_SPACECRAFT_PASSES_TITLE" = "关于航天器过境";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_SPACECRAFT_PASSES_DETAIL" = "此页面展示了某个航天器在你选中的位置10天以内的过境情况。\n受到条件影响，如太阳高度角，过境并不一定可见。通过切换“可见的”选项，你可以查看所有的过境或者是可见的过境。";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_SKY_CHART_TITLE" = "关于星图";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_SKY_CHART_DETAIL" = "此页面展示了你选中的位置某一时间的星图。\n左 -> 东，上 -> 北，右 -> 西，下 -> 南。\n你可以通过修改一些设置来控制星图展示的内容。";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_DEFAULT_TITLE" = "图例。点击颜色方块查看含义。";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_BLACK" = "相对于自然光亮度比例：< 0.01\n人造灯光亮度（μcd/m2）：< 1.74\n预估总亮度（mcd/m2）：< 0.176";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_DARK_GRAY" = "相对于自然光亮度比例：0.01 – 0.02\n人造灯光亮度（μcd/m2）：1.74 – 3.48\n预估总亮度（mcd/m2）：0.176 – 0.177";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_GRAY" = "相对于自然光亮度比例：0.02 – 0.04\n人造灯光亮度（μcd/m2）：3.48 – 6.96\n预估总亮度（mcd/m2）：0.177 – 0.181";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_DARK_BLUE" = "相对于自然光亮度比例：0.04 – 0.08\n人造灯光亮度（μcd/m2）：6.96 – 13.9\n预估总亮度（mcd/m2）：0.181 – 0.188";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_BLUE" = "相对于自然光亮度比例：0.08 – 0.16\n人造灯光亮度（μcd/m2）：13.9 – 27.8\n预估总亮度（mcd/m2）：0.188 – 0.202";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_LIGHT_BLUE" = "相对于自然光亮度比例：0.16 – 0.32\n人造灯光亮度（μcd/m2）：27.8 – 55.7\n预估总亮度（mcd/m2）：0.202 – 0.230";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_DARK_GREEN" = "相对于自然光亮度比例：0.32 – 0.64\n人造灯光亮度（μcd/m2）：55.7 – 111\n预估总亮度（mcd/m2）：0.230 – 0.285";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_GREEN" = "相对于自然光亮度比例：0.64 – 1.28\n人造灯光亮度（μcd/m2）：111 – 223\n预估总亮度（mcd/m2）：0.285 – 0.397";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_YELLOW" = "相对于自然光亮度比例：1.28 – 2.56\n人造灯光亮度（μcd/m2）：223 – 445\n预估总亮度（mcd/m2）：0.397 – 0.619";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_ORANGE" = "相对于自然光亮度比例：2.56 – 5.12\n人造灯光亮度（μcd/m2）：445 – 890\n预估总亮度（mcd/m2）：0.619 – 1.065";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_RED" = "相对于自然光亮度比例：5.12 – 10.2\n人造灯光亮度（μcd/m2）：890 – 1780\n预估总亮度（mcd/m2）：1.065 – 1.96";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_MAGENTA" = "相对于自然光亮度比例：10.2 – 20.5\n人造灯光亮度（μcd/m2）：1780 – 3560\n预估总亮度（mcd/m2）：1.96 – 3.74";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_PINK" = "相对于自然光亮度比例：20.5 – 41\n人造灯光亮度（μcd/m2）：3560 – 7130\n预估总亮度（mcd/m2）：3.74 – 7.30";
+
+/* No comment provided by engineer. */
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_WHITE" = "相对于自然光亮度比例：> 41\n人造灯光亮度（μcd/m2）：> 7130\n预估总亮度（mcd/m2）：> 7.30";
+
+/* No comment provided by engineer. */
+"FRONT_PAGE_SECTION_VISIBLE_TITLE" = "今夜可见";
+
+/* No comment provided by engineer. */
+"COMMON_NOT_AVAILABLE" = "N/A";
+
+/* No comment provided by engineer. */
+"SPACECRAFT_PASSES_SKY_CHART_NOT_VISIBLE_INFO_TEXT" = "蓝色曲线为航天器的轨迹。";
+
+/* No comment provided by engineer. */
+"SPACECRAFT_PASSES_SKY_CHART_VISIBLE_INFO_TEXT" = "蓝色曲线为航天器的轨迹。白色部分为可见的部分。";
+
+/* No comment provided by engineer. */
+"ADD_LOCATION_TITLE" = "选择位置";
+
+/* No comment provided by engineer. */
+"SETTINGS_TITLE" = "设置";
+
+/* No comment provided by engineer. */
+"ABOUT_TITLE" = "关于";
+
+/* No comment provided by engineer. */
+"HELP_TITLE" = "帮助";
+
+/* No comment provided by engineer. */
+"QUANZI_TITLE" = "圈子";
+
+/* No comment provided by engineer. */
+"ASTROWEATHER_TAB_ASTRO" = "天文";
+
+/* No comment provided by engineer. */
+"ASTROWEATHER_TAB_CIVIL" = "气象";
+
+/* No comment provided by engineer. */
+"ASTROWEATHER_FIELD_TEMP" = "温度";
+
+/* No comment provided by engineer. */
+"ASTROWEATHER_FIELD_CLOUD" = "云量";
+
+/* No comment provided by engineer. */
+"ASTROWEATHER_FIELD_SEEING" = "视宁度";
+
+/* No comment provided by engineer. */
+"ASTROWEATHER_FIELD_TRANSPARENCY" = "透明度";
+
+/* No comment provided by engineer. */
+"ASTROWEATHER_FIELD_HUMIDITY" = "湿度";
+
+/* No comment provided by engineer. */
+"ASTROWEATHER_FIELD_PRECIPITATION" = "降水";
+
+/* No comment provided by engineer. */
+"ASTROWEATHER_FIELD_INSTABILITY" = "不稳定度";
+
+/* No comment provided by engineer. */
+"ASTROWEATHER_FIELD_WIND_DIRECTION" = "风向";
+
+/* No comment provided by engineer. */
+"ASTROWEATHER_FIELD_WIND_SPEED" = "风速";
+
+/* No comment provided by engineer. */
+"ASTROWEATHER_FIELD_TIME" = "时间";
+
+/* No comment provided by engineer. */
+"ASTROWEATHER_FIELD_WEATHER" = "天气";
+
+/* No comment provided by engineer. */
+"TEXT_INPUT_SUBMIT_BUTTON_DEFAULT_TITLE" = "发送";
+
+/* No comment provided by engineer. */
+"SETTINGS_SECTION_PREFERENCES" = "偏好";
+
+/* No comment provided by engineer. */
+"SETTINGS_SECTION_INFO" = "信息";
+
+/* No comment provided by engineer. */
+"SETTINGS_SECTION_TOOLS" = "工具";
+
+/* No comment provided by engineer. */
+"SETTINGS_SECTION_SYNC" = "同步";
+
+/* No comment provided by engineer. */
+"SKY_CHART_SELECT_TIME_HINT" = "选择时间";
+
+/* No comment provided by engineer. */
+"SKY_CHART_TIME_HINT" = "时间";
+
+/* No comment provided by engineer. */
+"SETTING_PURCHASE_ASTRO_PRO_TITLE" = "购买/恢复购买晴天钟PRO";
+
+/* No comment provided by engineer. */
+"SETTING_PURCHASE_ASTRO_PRO_ACTION_RESTORE" = "恢复购买";
+
+/* No comment provided by engineer. */
+"SETTING_PURCHASE_ASTRO_PRO_ACTION_PURCHASE" = "购买";
+
+/* No comment provided by engineer. */
+"ACTION_SHOW_EVENT_DETAILS" = "显示详情（英语）";

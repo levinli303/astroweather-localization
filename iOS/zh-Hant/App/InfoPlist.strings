@@ -16,6 +16,8 @@
 // English: Access is required to save pictures
 "NSPhotoLibraryAddUsageDescription" = "需要訪問圖片庫來儲存圖片";
 
-// English: Use Siri to display astroweather reports
-"NSSiriUsageDescription" = "使用Siri查詢晴天鍾天氣";
+// English: Access is required to add event to calendar
+"NSCalendarsUsageDescription" = "需要訪問日曆來新增事件";
 
+// English: Your IDFA will be used only for serving personalized ads
+"NSUserTrackingUsageDescription" = "您的個人識別符號僅會被用於向您展示個性化廣告";

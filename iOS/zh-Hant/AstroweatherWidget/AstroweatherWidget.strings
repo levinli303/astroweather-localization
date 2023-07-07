@@ -1,11 +1,5 @@
-// English: true
-"18oiIm" = "真";
-
 // English: Altitude
 "2enApN" = "海拔";
-
-// English: false
-"JcMHcU" = "假";
 
 // English: Latitude
 "f2cm0j" = "緯度";
@@ -64,3 +58,14 @@
 // English: Moon
 "kXc5cw" = "月球";
 
+// English: Weather Chart/Image
+"TzXL14" = "氣象圖資料";
+
+// English: Spacecraft
+"427wrX" = "太空飛行器";
+
+// English: Location
+"Spzan5" = "位置";
+
+// English: Observable Passes
+"982DKM" = "可見過境";

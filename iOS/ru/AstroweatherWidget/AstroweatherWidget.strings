@@ -1,11 +1,5 @@
-// English: true
-"18oiIm" = "Истина";
-
 // English: Altitude
 "2enApN" = "Высота";
-
-// English: false
-"JcMHcU" = "Ложь";
 
 // English: Latitude
 "f2cm0j" = "Широта";
@@ -63,3 +57,12 @@
 
 // English: Moon
 "kXc5cw" = "Луна";
+
+// English: Spacecraft
+"427wrX" = "Spacecraft";
+
+// English: Location
+"Spzan5" = "Location";
+
+// English: Observable Passes
+"982DKM" = "Observable Passes";

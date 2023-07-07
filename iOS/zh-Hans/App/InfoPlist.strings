@@ -2,8 +2,8 @@
   InfoPlist.strings
   Astroweather
 
-  Created by 李林峰 on 2017/7/8.
-  Copyright © 2017年 李林峰. All rights reserved.
+  Created by Levin Li on 2017/7/8.
+  Copyright © 2017 Astroweather. All rights reserved.
 */
 
 
@@ -25,5 +25,8 @@
 // English: Access is required to save pictures
 "NSPhotoLibraryAddUsageDescription" = "需要访问图片库来保存图片";
 
-// English: Use Siri to display astroweather reports
-"NSSiriUsageDescription" = "使用Siri查询晴天钟天气";
+// English: Access is required to add event to calendar
+"NSCalendarsUsageDescription" = "需要访问日历来添加事件";
+
+// English: Your IDFA will be used only for serving personalized ads
+"NSUserTrackingUsageDescription" = "您的个人标识符仅会被用于向您展示个性化广告";
