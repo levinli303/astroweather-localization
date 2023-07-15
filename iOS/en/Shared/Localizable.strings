@@ -41,22 +41,22 @@
 "Octet-gram of cloud cover, blue is for clear while white is for cloud. e.g. the \"cake\" on the left is 0% cloud while the one on the right is 100% cloud." = "Octet-gram of cloud cover, blue is for clear while white is for cloud. e.g. the \"cake\" on the left is 0% cloud while the one on the right is 100% cloud.";
 
 /* No comment provided by engineer. */
-"Astronomical seeing. From left to right: <0.5″, 0.5″-0.75″, 0.75″-1″, 1″-1.25″, 1.25″-1.5″, 1.5″-2″, 2″-2.5″, >2.5″. In short, the smaller/bluer, the better the seeing condition is." = "Astronomical seeing. From left to right: <0.5″, 0.5″-0.75″, 0.75″-1″, 1″-1.25″, 1.25″-1.5″, 1.5″-2″, 2″-2.5″, >2.5″. In short, the smaller/bluer, the better the seeing condition is.";
+"Astronomical seeing. From left to right: <0.5″, 0.5″–0.75″, 0.75″–1″, 1″–1.25″, 1.25″–1.5″, 1.5″–2″, 2″–2.5″, >2.5″. In short, the smaller/bluer, the better the seeing condition is." = "Astronomical seeing. From left to right: <0.5″, 0.5″–0.75″, 0.75″–1″, 1″–1.25″, 1.25″–1.5″, 1.5″–2″, 2″–2.5″, >2.5″. In short, the smaller/bluer, the better the seeing condition is.";
 
 /* No comment provided by engineer. */
-"Atmospheric transparency. From left to right: <0.3, 0.3-0.4, 0.4-0.5, 0.5-0.6, 0.6-0.7, 0.7-0.85, 0.85-1, >1 (unit: mag per air mass). In short, the fewer bars/bluer, the better the transparency is." = "Atmospheric transparency. From left to right: <0.3, 0.3-0.4, 0.4-0.5, 0.5-0.6, 0.6-0.7, 0.7-0.85, 0.85-1, >1 (unit: mag per air mass). In short, the fewer bars/bluer, the better the transparency is.";
+"Atmospheric transparency. From left to right: <0.3, 0.3–0.4, 0.4–0.5, 0.5–0.6, 0.6–0.7, 0.7–0.85, 0.85–1, >1 (unit: mag per air mass). In short, the fewer bars/bluer, the better the transparency is." = "Atmospheric transparency. From left to right: <0.3, 0.3–0.4, 0.4–0.5, 0.5–0.6, 0.6–0.7, 0.7–0.85, 0.85–1, >1 (unit: mag per air mass). In short, the fewer bars/bluer, the better the transparency is.";
 
 /* No comment provided by engineer. */
 "Chances of rain/snow." = "Chances of rain/snow.";
 
 /* No comment provided by engineer. */
-"Atmospheric instability. From left to right: lifted index between 0 to -3, -3 to -5, and below -5." = "Atmospheric instability. From left to right: lifted index between 0 to -3, -3 to -5, and below -5.";
+"Atmospheric instability. From left to right: lifted index between 0 to −3, −3 to −5, and below −5." = "Atmospheric instability. From left to right: lifted index between 0 to −3, −3 to −5, and below −5.";
 
 /* No comment provided by engineer. */
-"Humid weather warning. From left to right: relative humidity between 80%-90%, 90%-95%, and over 95%." = "Humid weather warning. From left to right: relative humidity between 80%-90%, 90%-95%, and over 95%.";
+"Humid weather warning. From left to right: relative humidity between 80%–90%, 90%–95%, and over 95%." = "Humid weather warning. From left to right: relative humidity between 80%–90%, 90%–95%, and over 95%.";
 
 /* No comment provided by engineer. */
-"Windy weather warning. From left to right: sustained wind speed between 8.0-10.8m/s (fresh), 10.8-17.2m/s (strong), and over 17.2m/s (gale or above)." = "Windy weather warning. From left to right: sustained wind speed between 8.0-10.8m/s (fresh), 10.8-17.2m/s (strong), and over 17.2m/s (gale or above).";
+"Windy weather warning. From left to right: sustained wind speed between 8.0–10.8m/s (fresh), 10.8–17.2m/s (strong), and over 17.2m/s (gale or above)." = "Windy weather warning. From left to right: sustained wind speed between 8.0–10.8m/s (fresh), 10.8–17.2m/s (strong), and over 17.2m/s (gale or above).";
 
 /* No comment provided by engineer. */
 "Wind direction indicator, an up arrow indicates south wind(wind coming from south)." = "Wind direction indicator, an up arrow indicates south wind(wind coming from south).";
@@ -509,7 +509,7 @@
 "Hadar" = "Hadar";
 
 /* No comment provided by engineer. */
-"Atair" = "Atair";
+"Altair" = "Altair";
 
 /* No comment provided by engineer. */
 "Acrux" = "Acrux";
@@ -1625,6 +1625,9 @@
 "Serpens Caput" = "Serpens Caput";
 
 /* No comment provided by engineer. */
+"Serpens Cauda" = "Serpens Cauda";
+
+/* No comment provided by engineer. */
 "Sextans" = "Sextans";
 
 /* No comment provided by engineer. */
@@ -2042,52 +2045,52 @@
 "TEACHING_CARD_SKY_CHART_TITLE" = "About Sky Chart";
 
 /* No comment provided by engineer. */
-"TEACHING_CARD_SKY_CHART_DETAIL" = "This page shows the sky chart at a specific time in the location you choose.\nLeft -> East, Top -> North, Right -> West, Bottom -> South.\nYou can configure the sky chart by changing some settings.";
+"TEACHING_CARD_SKY_CHART_DETAIL" = "This page shows the sky chart at a specific time in the location you choose.\nLeft → East, Top → North, Right → West, Bottom → South.\nYou can configure the sky chart by changing some settings.";
 
 /* No comment provided by engineer. */
 "TEACHING_CARD_LIGHT_POLLUTION_DEFAULT_TITLE" = "Map Legend. Tap color squares to see their definitions";
 
 /* No comment provided by engineer. */
-"TEACHING_CARD_LIGHT_POLLUTION_TITLE_BLACK" = "Ratio to natural brightness: < 0.01\nArtificial brightness (μcd/m2): < 1.74\nApproximate total brightness (mcd/m2): < 0.17";
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_BLACK" = "Ratio to natural brightness: < 0.01\nArtificial brightness (μcd/m²): < 1.74\nApproximate total brightness (mcd/m²): < 0.17";
 
 /* No comment provided by engineer. */
-"TEACHING_CARD_LIGHT_POLLUTION_TITLE_DARK_GRAY" = "Ratio to natural brightness: 0.01 – 0.02\nArtificial brightness (μcd/m2): 1.74 – 3.48\nApproximate total brightness (mcd/m2): 0.176 – 0.17";
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_DARK_GRAY" = "Ratio to natural brightness: 0.01 – 0.02\nArtificial brightness (μcd/m²): 1.74 – 3.48\nApproximate total brightness (mcd/m²): 0.176 – 0.17";
 
 /* No comment provided by engineer. */
-"TEACHING_CARD_LIGHT_POLLUTION_TITLE_GRAY" = "Ratio to natural brightness: 0.02 – 0.04\nArtificial brightness (μcd/m2): 3.48 – 6.96\nApproximate total brightness (mcd/m2): 0.177 – 0.18";
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_GRAY" = "Ratio to natural brightness: 0.02 – 0.04\nArtificial brightness (μcd/m²): 3.48 – 6.96\nApproximate total brightness (mcd/m²): 0.177 – 0.18";
 
 /* No comment provided by engineer. */
-"TEACHING_CARD_LIGHT_POLLUTION_TITLE_DARK_BLUE" = "Ratio to natural brightness: 0.04 – 0.08\nArtificial brightness (μcd/m2): 6.96 – 13.9\nApproximate total brightness (mcd/m2): 0.181 – 0.18";
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_DARK_BLUE" = "Ratio to natural brightness: 0.04 – 0.08\nArtificial brightness (μcd/m²): 6.96 – 13.9\nApproximate total brightness (mcd/m²): 0.181 – 0.18";
 
 /* No comment provided by engineer. */
-"TEACHING_CARD_LIGHT_POLLUTION_TITLE_BLUE" = "Ratio to natural brightness: 0.08 – 0.16\nArtificial brightness (μcd/m2): 13.9 – 27.8\nApproximate total brightness (mcd/m2): 0.188 – 0.20";
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_BLUE" = "Ratio to natural brightness: 0.08 – 0.16\nArtificial brightness (μcd/m²): 13.9 – 27.8\nApproximate total brightness (mcd/m²): 0.188 – 0.20";
 
 /* No comment provided by engineer. */
-"TEACHING_CARD_LIGHT_POLLUTION_TITLE_LIGHT_BLUE" = "Ratio to natural brightness: 0.16 – 0.32\nArtificial brightness (μcd/m2): 27.8 – 55.7\nApproximate total brightness (mcd/m2): 0.202 – 0.23";
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_LIGHT_BLUE" = "Ratio to natural brightness: 0.16 – 0.32\nArtificial brightness (μcd/m²): 27.8 – 55.7\nApproximate total brightness (mcd/m²): 0.202 – 0.23";
 
 /* No comment provided by engineer. */
-"TEACHING_CARD_LIGHT_POLLUTION_TITLE_DARK_GREEN" = "Ratio to natural brightness: 0.32 – 0.64\nArtificial brightness (μcd/m2): 55.7 – 111\nApproximate total brightness (mcd/m2): 0.230 – 0.28";
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_DARK_GREEN" = "Ratio to natural brightness: 0.32 – 0.64\nArtificial brightness (μcd/m²): 55.7 – 111\nApproximate total brightness (mcd/m²): 0.230 – 0.28";
 
 /* No comment provided by engineer. */
-"TEACHING_CARD_LIGHT_POLLUTION_TITLE_GREEN" = "Ratio to natural brightness: 0.64 – 1.28\nArtificial brightness (μcd/m2): 111 – 223\nApproximate total brightness (mcd/m2): 0.285 – 0.39";
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_GREEN" = "Ratio to natural brightness: 0.64 – 1.28\nArtificial brightness (μcd/m²): 111 – 223\nApproximate total brightness (mcd/m²): 0.285 – 0.39";
 
 /* No comment provided by engineer. */
-"TEACHING_CARD_LIGHT_POLLUTION_TITLE_YELLOW" = "Ratio to natural brightness: 1.28 – 2.56\nArtificial brightness (μcd/m2): 223 – 445\nApproximate total brightness (mcd/m2): 0.397 – 0.61";
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_YELLOW" = "Ratio to natural brightness: 1.28 – 2.56\nArtificial brightness (μcd/m²): 223 – 445\nApproximate total brightness (mcd/m²): 0.397 – 0.61";
 
 /* No comment provided by engineer. */
-"TEACHING_CARD_LIGHT_POLLUTION_TITLE_ORANGE" = "Ratio to natural brightness: 2.56 – 5.12\nArtificial brightness (μcd/m2): 445 – 890\nApproximate total brightness (mcd/m2): 0.619 – 1.06";
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_ORANGE" = "Ratio to natural brightness: 2.56 – 5.12\nArtificial brightness (μcd/m²): 445 – 890\nApproximate total brightness (mcd/m²): 0.619 – 1.06";
 
 /* No comment provided by engineer. */
-"TEACHING_CARD_LIGHT_POLLUTION_TITLE_RED" = "Ratio to natural brightness: 5.12 – 10.2\nArtificial brightness (μcd/m2): 890 – 1780\nApproximate total brightness (mcd/m2): 1.065 – 1.9";
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_RED" = "Ratio to natural brightness: 5.12 – 10.2\nArtificial brightness (μcd/m²): 890 – 1780\nApproximate total brightness (mcd/m²): 1.065 – 1.9";
 
 /* No comment provided by engineer. */
-"TEACHING_CARD_LIGHT_POLLUTION_TITLE_MAGENTA" = "Ratio to natural brightness: 10.2 – 20.5\nArtificial brightness (μcd/m2): 1780 – 3560\nApproximate total brightness (mcd/m2): 1.96 – 3.7";
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_MAGENTA" = "Ratio to natural brightness: 10.2 – 20.5\nArtificial brightness (μcd/m²): 1780 – 3560\nApproximate total brightness (mcd/m²): 1.96 – 3.7";
 
 /* No comment provided by engineer. */
-"TEACHING_CARD_LIGHT_POLLUTION_TITLE_PINK" = "Ratio to natural brightness: 20.5 – 41\nArtificial brightness (μcd/m2): 3560 – 7130\nApproximate total brightness (mcd/m2): 3.74 – 7.3";
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_PINK" = "Ratio to natural brightness: 20.5 – 41\nArtificial brightness (μcd/m²): 3560 – 7130\nApproximate total brightness (mcd/m²): 3.74 – 7.3";
 
 /* No comment provided by engineer. */
-"TEACHING_CARD_LIGHT_POLLUTION_TITLE_WHITE" = "Ratio to natural brightness: > 41\nArtificial brightness (μcd/m2): > 7130\nApproximate total brightness (mcd/m2): > 7.3";
+"TEACHING_CARD_LIGHT_POLLUTION_TITLE_WHITE" = "Ratio to natural brightness: > 41\nArtificial brightness (μcd/m²): > 7130\nApproximate total brightness (mcd/m²): > 7.3";
 
 /* No comment provided by engineer. */
 "FRONT_PAGE_SECTION_VISIBLE_TITLE" = "Visible Tonight";
