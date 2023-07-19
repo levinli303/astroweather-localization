@@ -1,12 +1,3 @@
-/* 
-  InfoPlist.strings
-  Astroweather
-
-  Created by Levin Li on 2017/7/8.
-  Copyright © 2017 Astroweather. All rights reserved.
-*/
-
-
 // English: Astroweather
 "CFBundleDisplayName" = "Astroweather";
 
@@ -20,7 +11,13 @@
 "NSLocationWhenInUseUsageDescription" = "Доступ к геопозиции необходим для отображения погоды в вашем регионе и отображения вашего местоположения на карте";
 
 // English: Access is required to post contents with photo
-"NSPhotoLibraryUsageDescription" = "Разрешение необходимо для публикаций с фотографиями";
+"NSPhotoLibraryUsageDescription" = "Разрешение необходимо для вложения фотографий в публикации";
 
 // English: Access is required to save pictures
-"NSPhotoLibraryAddUsageDescription" = "Разрешение необходимо для загрузки фотографий";
+"NSPhotoLibraryAddUsageDescription" = "Разрешение необходимо для скачивания изображений";
+
+// English: Access is required to add event to calendar
+"NSCalendarsUsageDescription" = "Разрешение необходимо для добавления события в календарь";
+
+// English: Your IDFA will be used only for serving personalized ads
+"NSUserTrackingUsageDescription" = "Ваш IDFA (рекламный идентификатор) будет использован только для показа персонализированной рекламы";
