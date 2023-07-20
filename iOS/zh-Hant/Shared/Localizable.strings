@@ -26,12 +26,6 @@
 "Do you want to delete this comment?" = "您是否希望刪除本條評論？";
 
 /* No comment provided by engineer. */
-"Name" = "名稱";
-
-/* No comment provided by engineer. */
-"New name" = "新名稱";
-
-/* No comment provided by engineer. */
 "OK" = "確定";
 
 /* No comment provided by engineer. */
@@ -1157,12 +1151,6 @@
 "Filter Rules" = "篩選規則";
 
 /* No comment provided by engineer. */
-"App Mag" = "視星等";
-
-/* No comment provided by engineer. */
-"None" = "無";
-
-/* No comment provided by engineer. */
 "Show Stars" = "顯示恆星";
 
 /* No comment provided by engineer. */
@@ -2193,3 +2181,18 @@
 
 /* No comment provided by engineer. */
 "ACTION_SHOW_EVENT_DETAILS" = "顯示詳情（英語）";
+
+/* No comment provided by engineer. */
+"SORT_RULE_NONE" = "無";
+
+/* No comment provided by engineer. */
+"SORT_RULE_NAME" = "名稱";
+
+/* No comment provided by engineer. */
+"SORT_RULE_APP_MAG" = "視星等";
+
+/* No comment provided by engineer. */
+"MAP_SELECTION_NEW_LOCATION_NAME_HINT" = "名稱";
+
+/* No comment provided by engineer. */
+"MAP_SELECTION_LOCATION_NEW_NAME_HINT" = "新名稱";

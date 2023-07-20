@@ -26,12 +26,6 @@
 "Do you want to delete this comment?" = "Вы хотите удалить этот комментарий?";
 
 /* No comment provided by engineer. */
-"Name" = "Название";
-
-/* No comment provided by engineer. */
-"New name" = "Новое название";
-
-/* No comment provided by engineer. */
 "OK" = "Принять";
 
 /* No comment provided by engineer. */
@@ -1157,12 +1151,6 @@
 "Filter Rules" = "Фильтры";
 
 /* No comment provided by engineer. */
-"App Mag" = "По видимой зв. величине";
-
-/* No comment provided by engineer. */
-"None" = "Не сортировать";
-
-/* No comment provided by engineer. */
 "Show Stars" = "Показывать звёзды";
 
 /* No comment provided by engineer. */
@@ -2193,3 +2181,18 @@
 
 /* No comment provided by engineer. */
 "ACTION_SHOW_EVENT_DETAILS" = "Show Details";
+
+/* No comment provided by engineer. */
+"SORT_RULE_NONE" = "Не сортировать";
+
+/* No comment provided by engineer. */
+"SORT_RULE_NAME" = "Название";
+
+/* No comment provided by engineer. */
+"SORT_RULE_APP_MAG" = "По видимой зв. величине";
+
+/* No comment provided by engineer. */
+"MAP_SELECTION_NEW_LOCATION_NAME_HINT" = "Название";
+
+/* No comment provided by engineer. */
+"MAP_SELECTION_LOCATION_NEW_NAME_HINT" = "Новое название";

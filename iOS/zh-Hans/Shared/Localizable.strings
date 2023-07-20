@@ -26,12 +26,6 @@
 "Do you want to delete this comment?" = "您是否希望删除本条评论？";
 
 /* No comment provided by engineer. */
-"Name" = "名称";
-
-/* No comment provided by engineer. */
-"New name" = "新名称";
-
-/* No comment provided by engineer. */
 "OK" = "确定";
 
 /* No comment provided by engineer. */
@@ -1157,12 +1151,6 @@
 "Filter Rules" = "筛选规则";
 
 /* No comment provided by engineer. */
-"App Mag" = "视星等";
-
-/* No comment provided by engineer. */
-"None" = "无";
-
-/* No comment provided by engineer. */
 "Show Stars" = "显示恒星";
 
 /* No comment provided by engineer. */
@@ -2193,3 +2181,18 @@
 
 /* No comment provided by engineer. */
 "ACTION_SHOW_EVENT_DETAILS" = "显示详情（英语）";
+
+/* No comment provided by engineer. */
+"SORT_RULE_NONE" = "无";
+
+/* No comment provided by engineer. */
+"SORT_RULE_NAME" = "名称";
+
+/* No comment provided by engineer. */
+"SORT_RULE_APP_MAG" = "视星等";
+
+/* No comment provided by engineer. */
+"MAP_SELECTION_NEW_LOCATION_NAME_HINT" = "名称";
+
+/* No comment provided by engineer. */
+"MAP_SELECTION_LOCATION_NEW_NAME_HINT" = "新名称";
