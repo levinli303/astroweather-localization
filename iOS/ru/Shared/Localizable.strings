@@ -245,7 +245,7 @@
 "iCloud Error" = "Ошибка iCloud";
 
 /* No comment provided by engineer. */
-"iCloud operation failed..." = "Сбой действия с iCloud...";
+"iCloud operation failed…" = "Сбой действия с iCloud…";
 
 /* No comment provided by engineer. */
 "Save Success" = "Сохранить успех";
@@ -266,7 +266,7 @@
 "%d bookmarks (locations) found in your iCloud account, click OK to replace local bookmarks with the bookmarks from iCloud." = "%d — количество найденных закладок в вашем аккаунте iCloud, нажмите «Ок» для их загрузки взамен закладок на устройстве";
 
 /* No comment provided by engineer. */
-"Calculating..." = "Вычисление...";
+"Calculating…" = "Вычисление…";
 
 /* No comment provided by engineer. */
 "No Data" = "Нет данных";
@@ -278,7 +278,7 @@
 "Share" = "Поделиться";
 
 /* No comment provided by engineer. */
-"Loading..." = "Загрузка...";
+"Loading…" = "Загрузка…";
 
 /* No comment provided by engineer. */
 "Sun" = "Солнце";
@@ -317,13 +317,13 @@
 "Your account cannot make payments." = "Ваш аккаунт не может совершать платежи.";
 
 /* No comment provided by engineer. */
-"Transaction failed..." = "Транзакция не удалась...";
+"Transaction failed…" = "Транзакция не удалась…";
 
 /* No comment provided by engineer. */
 "Report Abusive" = "Сообщить о нарушении";
 
 /* No comment provided by engineer. */
-"Enter reason for this report..." = "Введите причину обращения";
+"Enter reason for this report…" = "Введите причину обращения";
 
 /* No comment provided by engineer. */
 "Report" = "Подать жалобу";
@@ -332,7 +332,7 @@
 "Report!" = "Подать жалобу!";
 
 /* No comment provided by engineer. */
-"Comment here..." = "Прокомментируйте...";
+"Comment here…" = "Прокомментируйте…";
 
 /* No comment provided by engineer. */
 "Edit Quanzi" = "Редактировать Quanzi";
@@ -380,7 +380,7 @@
 "%d years ago" = "%d л. назад";
 
 /* No comment provided by engineer. */
-"Loading..." = "Загрузка...";
+"Loading…" = "Загрузка…";
 
 /* No comment provided by engineer. */
 "Post Success" = "Успешно отправлено";
@@ -752,7 +752,7 @@
 "No Event" = "Нет событий";
 
 /* No comment provided by engineer. */
-"Failed in retrieving weather chart or image..." = "Не удалось получить снимок или диаграмму...";
+"Failed in retrieving weather chart or image…" = "Не удалось получить снимок или диаграмму…";
 
 /* No comment provided by engineer. */
 "East Asia" = "Восточная Азия";
@@ -917,7 +917,7 @@
 "Unable to get current location" = "Не удаётся определить текущее местоположение";
 
 /* No comment provided by engineer. */
-"Loading..." = "Загрузка...";
+"Loading…" = "Загрузка…";
 
 /* No comment provided by engineer. */
 "Language" = "Язык";
