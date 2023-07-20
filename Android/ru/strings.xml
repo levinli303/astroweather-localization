@@ -685,7 +685,7 @@
     <string name="setting_section_preferences">Кастомизация</string>
     <string name="setting_section_tools">Инструменты</string>
     <string name="widget_unable_to_update">Не удалось обновить виджет</string>
-    <string name="event_show_details">Показать детали</string>
+    <string name="event_show_details">Подробнее</string>
 
     <string name="astroweather_fallback_location_beijing_name">Пекин</string>
 </resources>
