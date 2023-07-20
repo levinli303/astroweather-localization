@@ -1862,7 +1862,7 @@
 "Blue Hour (Civil Dusk)" = "Blue Hour (Civil Dusk)";
 
 /* No comment provided by engineer. */
-"Blue Hour (Civil Twilight)" = "Blue Hour (Civil Twilight)";
+"Blue Hour (Civil Dawn)" = "Blue Hour (Civil Dawn)";
 
 /* No comment provided by engineer. */
 "Blue Hour" = "Blue Hour";
@@ -1874,25 +1874,25 @@
 "Golden Hour (Civil Dusk)" = "Golden Hour (Civil Dusk)";
 
 /* No comment provided by engineer. */
-"Golden Hour (Civil Twilight)" = "Golden Hour (Civil Twilight)";
+"Golden Hour (Civil Dawn)" = "Golden Hour (Civil Dawn)";
 
 /* No comment provided by engineer. */
 "Nautical Dusk" = "Nautical Dusk";
 
 /* No comment provided by engineer. */
-"Nautical Twilight" = "Nautical Twilight";
+"Nautical Dawn" = "Nautical Dawn";
 
 /* No comment provided by engineer. */
-"Nautical Twilight/Dusk" = "Nautical Twilight/Dusk";
+"Nautical Twilight" = "Nautical Twilight";
 
 /* No comment provided by engineer. */
 "Astro Dusk" = "Astro Dusk";
 
 /* No comment provided by engineer. */
-"Astro Twilight" = "Astro Twilight";
+"Astro Dawn" = "Astro Dawn";
 
 /* No comment provided by engineer. */
-"Astro Twilight/Dusk" = "Astro Twilight/Dusk";
+"Astro Twilight" = "Astro Twilight";
 
 /* No comment provided by engineer. */
 "Day" = "Day";

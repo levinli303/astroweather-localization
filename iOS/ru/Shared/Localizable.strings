@@ -1862,7 +1862,7 @@
 "Blue Hour (Civil Dusk)" = "Синий час (гражданские сумерки)";
 
 /* No comment provided by engineer. */
-"Blue Hour (Civil Twilight)" = "Синий час (гражданские сумерки)";
+"Blue Hour (Civil Dawn)" = "Синий час (гражданские сумерки)";
 
 /* No comment provided by engineer. */
 "Blue Hour" = "Синий час";
@@ -1874,25 +1874,25 @@
 "Golden Hour (Civil Dusk)" = "Золотой час (гражданские сумерки)";
 
 /* No comment provided by engineer. */
-"Golden Hour (Civil Twilight)" = "Золотой час (гражданские сумерки)";
+"Golden Hour (Civil Dawn)" = "Золотой час (гражданские сумерки)";
 
 /* No comment provided by engineer. */
 "Nautical Dusk" = "Навигационные сумерки";
 
 /* No comment provided by engineer. */
-"Nautical Twilight" = "Навигационные сумерки";
+"Nautical Dawn" = "Навигационные сумерки";
 
 /* No comment provided by engineer. */
-"Nautical Twilight/Dusk" = "Навигационные сумерки";
+"Nautical Twilight" = "Навигационные сумерки";
 
 /* No comment provided by engineer. */
 "Astro Dusk" = "Астрономические сумерки";
 
 /* No comment provided by engineer. */
-"Astro Twilight" = "Астрономические сумерки";
+"Astro Dawn" = "Астрономические сумерки";
 
 /* No comment provided by engineer. */
-"Astro Twilight/Dusk" = "Астрономические сумерки";
+"Astro Twilight" = "Астрономические сумерки";
 
 /* No comment provided by engineer. */
 "Day" = "День";

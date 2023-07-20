@@ -1862,7 +1862,7 @@
 "Blue Hour (Civil Dusk)" = "蓝色时间（民用暮光）";
 
 /* No comment provided by engineer. */
-"Blue Hour (Civil Twilight)" = "蓝色时间（民用晨光）";
+"Blue Hour (Civil Dawn)" = "蓝色时间（民用晨光）";
 
 /* No comment provided by engineer. */
 "Blue Hour" = "蓝色时间";
@@ -1874,25 +1874,25 @@
 "Golden Hour (Civil Dusk)" = "金色时间（民用暮光）";
 
 /* No comment provided by engineer. */
-"Golden Hour (Civil Twilight)" = "金色时间（民用晨光）";
+"Golden Hour (Civil Dawn)" = "金色时间（民用晨光）";
 
 /* No comment provided by engineer. */
 "Nautical Dusk" = "航海暮光";
 
 /* No comment provided by engineer. */
-"Nautical Twilight" = "航海晨光";
+"Nautical Dawn" = "航海晨光";
 
 /* No comment provided by engineer. */
-"Nautical Twilight/Dusk" = "航海晨光/暮光";
+"Nautical Twilight" = "航海晨光/暮光";
 
 /* No comment provided by engineer. */
 "Astro Dusk" = "天文暮光";
 
 /* No comment provided by engineer. */
-"Astro Twilight" = "天文晨光";
+"Astro Dawn" = "天文晨光";
 
 /* No comment provided by engineer. */
-"Astro Twilight/Dusk" = "天文晨光/暮光";
+"Astro Twilight" = "天文晨光/暮光";
 
 /* No comment provided by engineer. */
 "Day" = "白天";
