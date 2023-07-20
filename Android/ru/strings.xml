@@ -21,7 +21,7 @@
     <string name="location_name">Название</string>
     <string name="common_cancel">Закрыть</string>
     <string name="common_add">Добавить</string>
-    <string name="common_ok">Ок</string>
+    <string name="common_ok">Принять</string>
     <string name="common_error">Ошибка</string>
     <string name="common_delete">Удалить</string>
     <string name="common_rename">Переименовать</string>
@@ -57,8 +57,8 @@
     <string name="astro_alt_meteoblue">Сервис Meteoblue</string>
     <string name="astro_alt_clear_outside">Сервис Clear Outside</string>
 
-    <string name="astro_title_time">Публикация прогноза: %1$s</string>
-    <string name="astro_title_time_no">Публикация прогноза: Н/Д</string>
+    <string name="astro_title_time">Прогноз вышел в %1$s</string>
+    <string name="astro_title_time_no">Нет данных о прогнозе</string>
 
     <string name="astro_param_temperature">Температура</string>
     <string name="astro_param_cloud">Облачность</string>
@@ -142,7 +142,7 @@
     <string name="satellite_type_visual_sat24_it">Италия (видимый спектр (Sat24))</string>
     <string name="satellite_type_visual_sat24_pl">Польша (видимый спектр (Sat24))</string>
     <string name="satellite_type_visual_sat24_tu">Турция (видимый спектр (Sat24))</string>
-    <string name="satellite_type_visual_sat24_bc">Балтика (видимый спектр (Sat24))</string>
+    <string name="satellite_type_visual_sat24_bc">Прибалтика (видимый спектр (Sat24))</string>
     <string name="satellite_type_visual_sat24_ba">Балканы (видимый спектр (Sat24))</string>
     <string name="satellite_type_visual_sat24_hu">Венгрия (видимый спектр (Sat24))</string>
     <string name="satellite_type_visual_sat24_is">Израиль (видимый спектр (Sat24))</string>
@@ -159,7 +159,7 @@
     <string name="satellite_type_infrared_sat24_it">Италия (инфракрасный (Sat24))</string>
     <string name="satellite_type_infrared_sat24_pl">Польша (инфракрасный (Sat24))</string>
     <string name="satellite_type_infrared_sat24_tu">Турция (инфракрасный (Sat24))</string>
-    <string name="satellite_type_infrared_sat24_bc">Балтика (инфракрасный (Sat24))</string>
+    <string name="satellite_type_infrared_sat24_bc">Прибалтика (инфракрасный (Sat24))</string>
     <string name="satellite_type_infrared_sat24_ba">Балканы (инфракрасный (Sat24))</string>
     <string name="satellite_type_infrared_sat24_hu">Венгрия (инфракрасный (Sat24))</string>
     <string name="satellite_type_infrared_sat24_is">Израиль (инфракрасный (Sat24))</string>
@@ -220,7 +220,7 @@
     <string name="setting_about_7timer_info">7Timer! это ряд продуктов онлайн-прогноза, основанная на цифровой модели погоды NOAA/NCEP (Global Forecast System, GFS). 7Timer! был впервые представлен в июле 2005 года как исследовательский проект при поддержке Национальной астрономической обсерватории Китая и был в значительной степени модернизирован в 2008 и 2011 годах. В настоящее время он поддерживается Шанхайской астрономической обсерваторией Китайской академии наук. Первоначально разработан как инструмент прогноза погоды для астрономических целей, поскольку самого автора всегда раздражали переменчивые погодные условия, мешающие наблюдениям.</string>
 
     <string name="setting_about_light_pollution_header">Карта засветки</string>
-    <string name="setting_about_light_pollution_info">Источник для карты засветки взят из World Atlas 2015.\n\nCredits: Falchi, Fabio; Cinzano, Pierantonio; Duriscoe, Dan; Kyba, Christopher C. M.; Elvidge, Christopher D.; Baugh, Kimberly; Portnov, Boris; Rybnikova, Nataliya A.; Furgoni, Riccardo (2016): Supplement to: The New World Atlas of Artificial Night Sky Brightness. GFZ Data Services. http://doi.org/10.5880/GFZ.1.4.2016.001 Falchi F, Cinzano P, Duriscoe D, Kyba CC, Elvidge CD, Baugh K, Portnov BA, Rybnikova NA, Furgoni R. The new world atlas of artificial night sky brightness. Science Advances. 2016 Jun 1;2(6):e1600377.</string>
+    <string name="setting_about_light_pollution_info">Данные карты засветки получены из World Atlas 2015.\n\nCredits: Falchi, Fabio; Cinzano, Pierantonio; Duriscoe, Dan; Kyba, Christopher C. M.; Elvidge, Christopher D.; Baugh, Kimberly; Portnov, Boris; Rybnikova, Nataliya A.; Furgoni, Riccardo (2016): Supplement to: The New World Atlas of Artificial Night Sky Brightness. GFZ Data Services. http://doi.org/10.5880/GFZ.1.4.2016.001 Falchi F, Cinzano P, Duriscoe D, Kyba CC, Elvidge CD, Baugh K, Portnov BA, Rybnikova NA, Furgoni R. The new world atlas of artificial night sky brightness. Science Advances. 2016 Jun 1;2(6):e1600377.</string>
 
     <string name="setting_about_riset_header">Восход и заход</string>
     <string name="setting_about_riset_info">Время восхода и захода небесных тел рассчитывается на вашем устройстве без необходимости подключения к Интернету.</string>
@@ -233,7 +233,7 @@
 
     <string name="sun_riset_detail_button_title">Детали восхода/захода Солнца</string>
 
-    <string name="sun_riset_detail_format">Астрономический рассвет: %1$s\nНавигационный рассвет: %2$s\nГражданский рассвет: %3$s\nBlue Hour End: %4$s\nНачало восхода: %5$s\nОкончание восхода: %6$s\nОкончание «золотого часа»: %7$s\nНачало «золотого часа»: %8$s\nНачало захода: %9$s\nОкончание захода: %10$s\nBlue Hour: %11$s\nОкончание гражданских сумерек: %12$s\nОкончание навигационных сумерек: %13$s\nОкончание астрономических сумерек: %14$s</string>
+    <string name="sun_riset_detail_format">Астрономический рассвет: %1$s\nНавигационный рассвет: %2$s\nГражданский рассвет: %3$s\nОкончание «синего часа»: %4$s\nНачало восхода: %5$s\nОкончание восхода: %6$s\nОкончание «золотого часа»: %7$s\nНачало «золотого часа»: %8$s\nНачало захода: %9$s\nОкончание захода: %10$s\nНачало «синего часа»: %11$s\nОкончание гражданских сумерек: %12$s\nОкончание навигационных сумерек: %13$s\nОкончание астрономических сумерек: %14$s</string>
     <string name="app_name">Astroweather</string>
     <string name="event_astroweather_event_common_title">Событие Astroweather</string>
     <string name="settings_privacy_policy_entry">Политика конфиденциальности и условия пользования</string>
@@ -344,7 +344,7 @@
     <string name="riset_star_acrab">Акраб</string>
     <string name="riset_star_galactic_center">Галактический центр</string>
     <string name="setting_about_translators">Переводчики</string>
-    <string name="setting_about_translator_list">Русский: Askaniy Anpilogov</string>
+    <string name="setting_about_translator_list">Русский: Анпилогов Асканий</string>
     <string name="astro_utility_polar_alignment">Выравнивание полюса</string>
     <string name="polarscope_brand_ioptron">iOptron</string>
     <string name="polarscope_brand_celestron">Celestron</string>
@@ -480,7 +480,7 @@
     <string name="astro_chat_unable_to_send_message">Не удалось отправить сообщение</string>
     <string name="astro_chat_connection_lost">Соединение потеряно</string>
     <string name="astro_chat_reconnect">Восстановить соединение</string>
-    <string name="common_report">Пожаловаться</string>
+    <string name="common_report">Подать жалобу</string>
     <string name="astro_chat_unable_to_report_message">Не удалось подать жалобу</string>
     <string name="astro_chat_report_message_success">Жалоба успешно подана</string>
     <string name="astro_utility_satellite_passes">Пролёты спутников</string>
@@ -520,6 +520,7 @@
     <string name="constellation_name_centaurus">Центавр</string>
     <string name="constellation_name_cepheus">Цефей</string>
     <string name="constellation_name_cetus">Кит</string>
+    <string name="constellation_name_chamaeleon">Хамелеон</string>
     <string name="constellation_name_circinus">Циркуль</string>
     <string name="constellation_name_cancer">Рак</string>
     <string name="constellation_name_columba">Голубь</string>
@@ -572,7 +573,8 @@
     <string name="constellation_name_sculptor">Скульптор</string>
     <string name="constellation_name_scorpius">Скорпион</string>
     <string name="constellation_name_scutum">Щит</string>
-    <string name="constellation_name_serpens_caput">Змея</string>
+    <string name="constellation_name_serpens_caput">Голова змеи</string>
+    <string name="constellation_name_serpens_cauda">Хвост змеи</string>
     <string name="constellation_name_sextans">Секстант</string>
     <string name="constellation_name_sagitta">Стрела</string>
     <string name="constellation_name_sagittarius">Стрелец</string>
@@ -626,7 +628,7 @@
     <string name="sun_position_activity_title">Положение Солнца</string>
     <string name="common_select_date">Выбрать дату</string>
     <string name="share_method_wechat">WeChat</string>
-    <string name="share_method_system">System</string>
+    <string name="share_method_system">Через систему</string>
     <string name="common_request_lang">ru</string>
     <string name="riset_widget_never_rises">Объект невосходящий</string>
     <string name="riset_widget_never_sets">Объект незаходящий</string>

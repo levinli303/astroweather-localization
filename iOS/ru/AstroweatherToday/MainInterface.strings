@@ -8,7 +8,7 @@
 "8by-bm-uIQ.text" = "Время";
 
 /* Class = "UILabel"; text = "Report Time: "; ObjectID = "Ds1-ZX-t5a"; */
-"Ds1-ZX-t5a.text" = "Публикация прогноза: ";
+"Ds1-ZX-t5a.text" = "Прогноз вышел в ";
 
 /* Class = "UILabel"; text = "Current Location"; ObjectID = "Xp7-JK-YuC"; */
 "Xp7-JK-YuC.text" = "Текущее местоположение";
