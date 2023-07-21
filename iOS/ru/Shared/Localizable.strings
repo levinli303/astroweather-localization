@@ -1970,7 +1970,7 @@
 "ACTION_SHOW_MOON_PHASE" = "Показать фазу Луны";
 
 /* No comment provided by engineer. */
-"ACTION_SHOW_SKY_CHART" = "Показать карту неба";
+"ACTION_SHOW_SKY_CHART" = "Показать на карте неба";
 
 /* No comment provided by engineer. */
 "ACTION_ADD_TO_CALENDAR" = "Добавить в календарь";
@@ -2180,7 +2180,7 @@
 "SETTING_PURCHASE_ASTRO_PRO_ACTION_PURCHASE" = "Покупка";
 
 /* No comment provided by engineer. */
-"ACTION_SHOW_EVENT_DETAILS" = "Подробнее";
+"ACTION_SHOW_EVENT_DETAILS" = "Подробности (на английском)";
 
 /* No comment provided by engineer. */
 "SORT_RULE_NONE" = "Не сортировать";

@@ -599,7 +599,7 @@
     <string name="sky_chart_configuration_show_bright_star_names">Подписать яркие звёзды</string>
     <string name="sky_chart_configuration_show_messier_objects">Показывать объекты каталога Мессье</string>
     <string name="sky_chart_configuration_show_messier_object_names">Подписывать объекты каталога Мессье</string>
-    <string name="common_show_sky_chart">Показывать карту неба</string>
+    <string name="common_show_sky_chart">Показать на карте неба</string>
     <string name="common_add_to_calendar">Добавить в календарь</string>
     <string name="sky_chart_configuration_select_time">Выбрать время</string>
     <string name="utility_flat_field_helper">Белый фонарик</string>
@@ -685,7 +685,7 @@
     <string name="setting_section_preferences">Кастомизация</string>
     <string name="setting_section_tools">Инструменты</string>
     <string name="widget_unable_to_update">Не удалось обновить виджет</string>
-    <string name="event_show_details">Подробнее</string>
+    <string name="event_show_details">Подробности (на английском)</string>
 
     <string name="astroweather_fallback_location_beijing_name">Пекин</string>
 </resources>
