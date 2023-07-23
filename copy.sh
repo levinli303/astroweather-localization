@@ -7,6 +7,15 @@ IOS_APP_DIR=../astroweather-ios
 ANDROID_BASE_DIR=$(pwd)/Android
 IOS_BASE_DIR=$(pwd)/iOS
 
+copy()
+{
+  if [ "$3" = true ] ; then
+    cp $2 $1
+  else
+    cp $1 $2
+  fi
+}
+
 make_dir_if_not_exists()
 {
   if [ ! -d $1 ]
@@ -19,9 +28,13 @@ copy_android()
 {
   echo "Copying Andorid localization resources for $1"
 
-  DIR=$ANDROID_APP_DIR/values-$1
+  if [ "$1" == "en" ] ; then
+    DIR=$ANDROID_APP_DIR/values
+  else
+    DIR=$ANDROID_APP_DIR/values-$1
+  fi
   make_dir_if_not_exists $DIR
-  cp $2/strings.xml $DIR/strings.xml
+  copy $2/strings.xml $DIR/strings.xml $3
 
   echo "Copying done"
 }
@@ -32,7 +45,7 @@ copy_ios()
 
   DIR=$IOS_APP_DIR/Shared/Resources/$1.lproj
   make_dir_if_not_exists $DIR
-  cp $2/Shared/Localizable.strings $DIR/Localizable.strings
+  copy $2/Shared/Localizable.strings $DIR/Localizable.strings $3
 
   echo "Copying shared done"
 
@@ -43,16 +56,16 @@ copy_ios()
     DIR=$IOS_APP_DIR/Astroweather/$1.lproj
   fi
   make_dir_if_not_exists $DIR
-  cp $2/App/InfoPlist.strings $DIR/InfoPlist.strings
+  copy $2/App/InfoPlist.strings $DIR/InfoPlist.strings $3
 
   echo "Copying main done"
 
   DIR=$IOS_APP_DIR/AstroweatherToday/$1.lproj
   make_dir_if_not_exists $DIR
-  cp $2/AstroweatherToday/InfoPlist.strings $DIR/InfoPlist.strings
+  copy $2/AstroweatherToday/InfoPlist.strings $DIR/InfoPlist.strings $3
   if [ "$1" != "en" ]
   then
-    cp $2/AstroweatherToday/MainInterface.strings $DIR/MainInterface.strings
+    copy $2/AstroweatherToday/MainInterface.strings $DIR/MainInterface.strings $3
   fi
 
   echo "Copying astroweather today done"
@@ -61,7 +74,7 @@ copy_ios()
   make_dir_if_not_exists $DIR
   if [ "$1" != "en" ]
   then
-    cp $2/AstroweatherWidget/AstroweatherWidget.strings $DIR/AstroweatherWidget.strings
+    copy $2/AstroweatherWidget/AstroweatherWidget.strings $DIR/AstroweatherWidget.strings $3
   fi
 
   echo "Copying astroweather widget done"
@@ -69,12 +82,18 @@ copy_ios()
   echo "Copying done"
 }
 
+SYNC=false
+if [ "$1" = "sync" ] ; then
+  echo "Syncing localization files"
+  SYNC=true
+fi
+
 for FILE in $ANDROID_BASE_DIR/*
 do
   if test -d $FILE
   then
     LANG=${FILE##*/}
-    copy_android $LANG $FILE
+    copy_android $LANG $FILE $SYNC
   fi
 done
 
@@ -83,6 +102,6 @@ do
   if test -d $FILE
   then
     LANG=${FILE##*/}
-    copy_ios $LANG $FILE
+    copy_ios $LANG $FILE $SYNC
   fi
 done
