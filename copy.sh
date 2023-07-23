@@ -36,35 +36,33 @@ copy_ios()
 
   echo "Copying shared done"
 
-  DIR=$IOS_APP_DIR/Astroweather/$1.lproj
+  if [ "$1" == "en" ]
+  then
+    DIR=$IOS_APP_DIR/Astroweather/Base.lproj
+  else
+    DIR=$IOS_APP_DIR/Astroweather/$1.lproj
+  fi
   make_dir_if_not_exists $DIR
   cp $2/App/InfoPlist.strings $DIR/InfoPlist.strings
-  cp $2/App/Main.strings $DIR/Main.strings
 
   echo "Copying main done"
-
-  DIR=$IOS_APP_DIR/Astroweather/Sections/Astroweather/$1.lproj
-  make_dir_if_not_exists "$DIR"
-  cp $2/App/Astroweather.strings $DIR/Astroweather.strings
-
-  echo "Copying astroweather done"
-
-  DIR=$IOS_APP_DIR/Astroweather/Sections/SatelliteMaps/$1.lproj
-  make_dir_if_not_exists $DIR
-  cp $2/App/SatelliteMap.strings $DIR/SatelliteMap.strings
-
-  echo "Copying satellite done"
 
   DIR=$IOS_APP_DIR/AstroweatherToday/$1.lproj
   make_dir_if_not_exists $DIR
   cp $2/AstroweatherToday/InfoPlist.strings $DIR/InfoPlist.strings
-  cp $2/AstroweatherToday/MainInterface.strings $DIR/MainInterface.strings
+  if [ "$1" != "en" ]
+  then
+    cp $2/AstroweatherToday/MainInterface.strings $DIR/MainInterface.strings
+  fi
 
   echo "Copying astroweather today done"
 
   DIR=$IOS_APP_DIR/AstroweatherWidget/$1.lproj
   make_dir_if_not_exists $DIR
-  cp $2/AstroweatherWidget/AstroweatherWidget.strings $DIR/AstroweatherWidget.strings
+  if [ "$1" != "en" ]
+  then
+    cp $2/AstroweatherWidget/AstroweatherWidget.strings $DIR/AstroweatherWidget.strings
+  fi
 
   echo "Copying astroweather widget done"
 
