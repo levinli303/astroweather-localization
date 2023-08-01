@@ -21,7 +21,7 @@
     <string name="location_name">Название</string>
     <string name="common_cancel">Закрыть</string>
     <string name="common_add">Добавить</string>
-    <string name="common_ok">Принять</string>
+    <string name="common_ok">OK</string>
     <string name="common_error">Ошибка</string>
     <string name="common_delete">Удалить</string>
     <string name="common_rename">Переименовать</string>
@@ -198,14 +198,14 @@
     <string name="riset_altitude_template">Высота: %s</string>
     <string name="common_degree_template">%s°</string>
     <string name="common_long_azimuth_template">%1$s (%2$s)</string>
-    <string name="common_longitude_abbreviated_east">E</string>
-    <string name="common_longitude_abbreviated_west">W</string>
-    <string name="common_latitude_abbreviated_north">N</string>
-    <string name="common_latitude_abbreviated_south">S</string>
-    <string name="common_longitude_latitude_description">%1$s°%2$s, %3$s°%4$s</string>
-    <string name="settings_azimuth_zero_title">Azimuth Zero</string>
-    <string name="settings_azimuth_zero_option_north">север</string>
-    <string name="settings_azimuth_zero_option_south">юг</string>
+    <string name="common_longitude_abbreviated_east">в. д.</string>
+    <string name="common_longitude_abbreviated_west">з. д.</string>
+    <string name="common_latitude_abbreviated_north">с. ш.</string>
+    <string name="common_latitude_abbreviated_south">ю. ш.</string>
+    <string name="common_longitude_latitude_description">%1$s° %2$s %3$s° %4$s</string>
+    <string name="settings_azimuth_zero_title">Отсчёт азимута</string>
+    <string name="settings_azimuth_zero_option_north">От точки севера</string>
+    <string name="settings_azimuth_zero_option_south">От точки юга</string>
     <string name="settings_temperature_unit_option_fahrenheit">℉</string>
     <string name="settings_temperature_unit_option_celcius">℃</string>
 
@@ -252,7 +252,7 @@
     <string name="event_astroweather_event_common_title">Событие Astroweather</string>
     <string name="settings_privacy_policy_entry">Политика конфиденциальности и условия пользования</string>
     <string name="main_privacy_prompt_title">Политика конфиденциальности и условия пользования</string>
-    <string name="main_privacy_prompt_detail">Просим внимательно ознакомиться с политикой конфиденциальности и условиями пользования.</string>
+    <string name="main_privacy_prompt_detail">Пожалуйста, внимательно прочтите Политику конфиденциальности и Договор об оказании услуг.</string>
     <string name="main_privacy_prompt_agree">Принимаю</string>
     <string name="main_privacy_prompt_disagree">Напомнить позже</string>
     <string name="main_privacy_prompt_view_policy">Ознакомиться с политикой конфиденциальности</string>
