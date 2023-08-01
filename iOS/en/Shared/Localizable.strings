@@ -98,64 +98,52 @@
 "Time" = "Time";
 
 /* No comment provided by engineer. */
-"N" = "N";
+"COMMON_DIRECTION_NE" = "NE";
 
 /* No comment provided by engineer. */
-"NE" = "NE";
+"COMMON_DIRECTION_SE" = "SE";
 
 /* No comment provided by engineer. */
-"E" = "E";
+"COMMON_DIRECTION_SW" = "SW";
 
 /* No comment provided by engineer. */
-"SE" = "SE";
+"COMMON_DIRECTION_NW" = "NW";
 
 /* No comment provided by engineer. */
-"S" = "S";
+"COMMON_DIRECTION_NORTH" = "North";
 
 /* No comment provided by engineer. */
-"SW" = "SW";
+"COMMON_DIRECTION_NNE" = "NNE";
 
 /* No comment provided by engineer. */
-"W" = "W";
+"COMMON_DIRECTION_ENE" = "ENE";
 
 /* No comment provided by engineer. */
-"NW" = "NW";
+"COMMON_DIRECTION_EAST" = "East";
 
 /* No comment provided by engineer. */
-"North" = "North";
+"COMMON_DIRECTION_ESE" = "ESE";
 
 /* No comment provided by engineer. */
-"NNE" = "NNE";
+"COMMON_DIRECTION_SSE" = "SSE";
 
 /* No comment provided by engineer. */
-"ENE" = "ENE";
+"COMMON_DIRECTION_SOUTH" = "South";
 
 /* No comment provided by engineer. */
-"East" = "East";
+"COMMON_DIRECTION_SSW" = "SSW";
 
 /* No comment provided by engineer. */
-"ESE" = "ESE";
+"COMMON_DIRECTION_WSW" = "WSW";
 
 /* No comment provided by engineer. */
-"SSE" = "SSE";
+"COMMON_DIRECTIO_WEST" = "West";
 
 /* No comment provided by engineer. */
-"South" = "South";
+"COMMON_DIRECTION_WNW" = "WNW";
 
 /* No comment provided by engineer. */
-"SSW" = "SSW";
-
-/* No comment provided by engineer. */
-"WSW" = "WSW";
-
-/* No comment provided by engineer. */
-"West" = "West";
-
-/* No comment provided by engineer. */
-"WNW" = "WNW";
-
-/* No comment provided by engineer. */
-"NNW" = "NNW";
+"COMMON_DIRECTION_NNW" = "NNW";
 
 /* No comment provided by engineer. */
 "About" = "About";
@@ -936,15 +924,6 @@
 
 /* No comment provided by engineer. */
 "7Timer service is currently unavailable, show Clear Sky results instead?" = "7Timer service is currently unavailable, show Clear Sky results instead?";
-
-/* No comment provided by engineer. */
-"Temperature Unit" = "Temperature Unit";
-
-/* No comment provided by engineer. */
-"℃" = "℃";
-
-/* No comment provided by engineer. */
-"℉" = "℉";
 
 /* No comment provided by engineer. */
 "Unrecognized format" = "Unrecognized format";
@@ -2196,3 +2175,48 @@
 
 /* No comment provided by engineer. */
 "MAP_SELECTION_LOCATION_NEW_NAME_HINT" = "New name";
+
+/* Template for showing azimuth, %@ is the azimuth expression */
+"RISET_TEMPLATE_AZIMUTH" = "Azimuth: %@";
+
+/* Template for showing altitude, %@ is the altitude expression */
+"RISET_TEMPLATE_ALTITUDE" = "Altitude: %@";
+
+/* Template for showing an angle in degrees */
+"COMMON_DEGREE_TEMPLATE" = "%.1f°";
+
+/* Template for showing azimuth, %1$@ is the azimuth in degrees, %2$@ is the direction based on the degree value */
+"COMMON_LONG_AZIMUTH_TEMPLATE" = "%1$@ (%2$@)";
+
+/* The abbreviated form of longitude indicating east */
+"COMMON_LONGITUDE_ABBREVIATED_EAST" = "E";
+
+/* The abbreviated form of longitude indicating west */
+"COMMON_LONGITUDE_ABBREVIATED_WEST" = "W";
+
+/* The abbreviated form of latitude indicating north */
+"COMMON_LATITUDE_ABBREVIATED_NORTH" = "N";
+
+/* The abbreviated form of latitude indicating south */
+"COMMON_LATITUDE_ABBREVIATED_SOUTH" = "S";
+
+/* Template for formatting latitude and longitude, %1$.2f is the absolute latitude in degrees, %3$.2f is the abosolute longitude in degrees. %2$@ is either N/S, %4$@ is either E/W */
+"COMMON_LONGITUDE_LATITUDE_TEMPLATE" = "%1$.2f°%2$@, %3$.2f°%4$@";
+
+/* Title for setting for azimuth zero */
+"SETTINGS_AZIMUTH_ZERO_TITLE" = "Azimuth Zero";
+
+/* Option for azimuth zero setting */
+"SETTINGS_AZIMUTH_OPTION_NORTH" = "North";
+
+/* Option for azimuth zero setting */
+"SETTINGS_AZIMUTH_OPTION_SOUTH" = "South";
+
+/* Title for setting for temperature unit */
+"SETTINGS_TEMPERATURE_UNIT_TITLE" = "Temperature Unit";
+
+/* Option for temperature unit setting */
+"SETTINGS_TEMPERATURE_UNIT_OPTION_FAHRENHEIT" = "℉";
+
+/* Option for temperature unit setting */
+"SETTINGS_TEMPERATURE_UNIT_OPTION_CELCIUS" = "℃";

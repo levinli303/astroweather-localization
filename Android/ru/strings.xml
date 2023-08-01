@@ -194,6 +194,20 @@
     <string name="riset_uranus">Уран</string>
     <string name="riset_neptune">Нептун</string>
     <string name="riset_pluto">Плутон</string>
+    <string name="riset_azimuth_template">Азимут: %s</string>
+    <string name="riset_altitude_template">Высота: %s</string>
+    <string name="common_degree_template">%s°</string>
+    <string name="common_long_azimuth_template">%1$s (%2$s)</string>
+    <string name="common_longitude_abbreviated_east">E</string>
+    <string name="common_longitude_abbreviated_west">W</string>
+    <string name="common_latitude_abbreviated_north">N</string>
+    <string name="common_latitude_abbreviated_south">S</string>
+    <string name="common_longitude_latitude_description">%1$s°%2$s, %3$s°%4$s</string>
+    <string name="settings_azimuth_zero_title">Azimuth Zero</string>
+    <string name="settings_azimuth_zero_option_north">север</string>
+    <string name="settings_azimuth_zero_option_south">юг</string>
+    <string name="settings_temperature_unit_option_fahrenheit">℉</string>
+    <string name="settings_temperature_unit_option_celcius">℃</string>
 
     <string name="service_unavailable_use_clear_sky">Сервис 7Timer сейчас недоступен, отобразить результаты Clear Sky?</string>
 

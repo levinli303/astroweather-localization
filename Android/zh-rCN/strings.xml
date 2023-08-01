@@ -191,6 +191,20 @@
     <string name="riset_uranus">天王星</string>
     <string name="riset_neptune">海王星</string>
     <string name="riset_pluto">冥王星</string>
+    <string name="riset_azimuth_template">方位角：%s</string>
+    <string name="riset_altitude_template">高度角：%s</string>
+    <string name="common_degree_template">%s°</string>
+    <string name="common_long_azimuth_template">%1$s（%2$s）</string>
+    <string name="common_longitude_abbreviated_east">E</string>
+    <string name="common_longitude_abbreviated_west">W</string>
+    <string name="common_latitude_abbreviated_north">N</string>
+    <string name="common_latitude_abbreviated_south">S</string>
+    <string name="common_longitude_latitude_description">%1$s°%2$s，%3$s°%4$s</string>
+    <string name="settings_azimuth_zero_title">方位角零点</string>
+    <string name="settings_azimuth_zero_option_north">北</string>
+    <string name="settings_azimuth_zero_option_south">南</string>
+    <string name="settings_temperature_unit_option_fahrenheit">℉</string>
+    <string name="settings_temperature_unit_option_celcius">℃</string>
 
     <string name="service_unavailable_use_clear_sky">晴天钟服务不可用，查看Clear Sky上的天气信息？</string>
 
