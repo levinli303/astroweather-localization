@@ -98,64 +98,52 @@
 "Time" = "时间";
 
 /* No comment provided by engineer. */
-"N" = "北";
+"COMMON_DIRECTION_NE" = "东北";
 
 /* No comment provided by engineer. */
-"NE" = "东北";
+"COMMON_DIRECTION_SE" = "东南";
 
 /* No comment provided by engineer. */
-"E" = "东";
+"COMMON_DIRECTION_SW" = "西南";
 
 /* No comment provided by engineer. */
-"SE" = "东南";
+"COMMON_DIRECTION_NW" = "西北";
 
 /* No comment provided by engineer. */
-"S" = "南";
+"COMMON_DIRECTION_NORTH" = "北";
 
 /* No comment provided by engineer. */
-"SW" = "西南";
+"COMMON_DIRECTION_NNE" = "东北偏北";
 
 /* No comment provided by engineer. */
-"W" = "西";
+"COMMON_DIRECTION_ENE" = "东北偏东";
 
 /* No comment provided by engineer. */
-"NW" = "西北";
+"COMMON_DIRECTION_EAST" = "东";
 
 /* No comment provided by engineer. */
-"North" = "北";
+"COMMON_DIRECTION_ESE" = "东南偏东";
 
 /* No comment provided by engineer. */
-"NNE" = "东北偏北";
+"COMMON_DIRECTION_SSE" = "东南偏南";
 
 /* No comment provided by engineer. */
-"ENE" = "东北偏东";
+"COMMON_DIRECTION_SOUTH" = "南";
 
 /* No comment provided by engineer. */
-"East" = "东";
+"COMMON_DIRECTION_SSW" = "西南偏南";
 
 /* No comment provided by engineer. */
-"ESE" = "东南偏东";
+"COMMON_DIRECTION_WSW" = "西南偏西";
 
 /* No comment provided by engineer. */
-"SSE" = "东南偏南";
+"COMMON_DIRECTION_WEST" = "西";
 
 /* No comment provided by engineer. */
-"South" = "南";
+"COMMON_DIRECTION_WNW" = "西北偏西";
 
 /* No comment provided by engineer. */
-"SSW" = "西南偏南";
-
-/* No comment provided by engineer. */
-"WSW" = "西南偏西";
-
-/* No comment provided by engineer. */
-"West" = "西";
-
-/* No comment provided by engineer. */
-"WNW" = "西北偏西";
-
-/* No comment provided by engineer. */
-"NNW" = "西北偏北";
+"COMMON_DIRECTION_NNW" = "西北偏北";
 
 /* No comment provided by engineer. */
 "About" = "关于";
@@ -936,15 +924,6 @@
 
 /* No comment provided by engineer. */
 "7Timer service is currently unavailable, show Clear Sky results instead?" = "晴天钟服务不可用，查看Clear Sky上的天气信息？";
-
-/* No comment provided by engineer. */
-"Temperature Unit" = "温度单位";
-
-/* No comment provided by engineer. */
-"℃" = "℃";
-
-/* No comment provided by engineer. */
-"℉" = "℉";
 
 /* No comment provided by engineer. */
 "Unrecognized format" = "未识别的文件格式";
@@ -2196,3 +2175,48 @@
 
 /* No comment provided by engineer. */
 "MAP_SELECTION_LOCATION_NEW_NAME_HINT" = "新名称";
+
+/* Template for showing azimuth, %@ is the azimuth expression */
+"RISET_TEMPLATE_AZIMUTH" = "方位角：%@";
+
+/* Template for showing altitude, %@ is the altitude expression */
+"RISET_TEMPLATE_ALTITUDE" = "高度角：%@";
+
+/* Template for showing an angle in degrees */
+"COMMON_DEGREE_TEMPLATE" = "%.1f°";
+
+/* Template for showing azimuth, %1$@ is the azimuth in degrees, %2$@ is the direction based on the degree value */
+"COMMON_LONG_AZIMUTH_TEMPLATE" = "%1$@（%2$@）";
+
+/* The abbreviated form of longitude indicating east */
+"COMMON_LONGITUDE_ABBREVIATED_EAST" = "E";
+
+/* The abbreviated form of longitude indicating west */
+"COMMON_LONGITUDE_ABBREVIATED_WEST" = "W";
+
+/* The abbreviated form of latitude indicating north */
+"COMMON_LATITUDE_ABBREVIATED_NORTH" = "N";
+
+/* The abbreviated form of latitude indicating south */
+"COMMON_LATITUDE_ABBREVIATED_SOUTH" = "S";
+
+/* Template for formatting latitude and longitude, %1$.2f is the absolute latitude in degrees, %3$.2f is the abosolute longitude in degrees. %2$@ is either N/S, %4$@ is either E/W */
+"COMMON_LONGITUDE_LATITUDE_TEMPLATE" = "%1$.2f°%2$@，%3$.2f°%4$@";
+
+/* Title for setting for azimuth zero */
+"SETTINGS_AZIMUTH_ZERO_TITLE" = "方位角零点";
+
+/* Option for azimuth zero setting */
+"SETTINGS_AZIMUTH_OPTION_NORTH" = "北";
+
+/* Option for azimuth zero setting */
+"SETTINGS_AZIMUTH_OPTION_SOUTH" = "南";
+
+/* Title for setting for temperature unit */
+"SETTINGS_TEMPERATURE_UNIT_TITLE" = "温度单位";
+
+/* Option for temperature unit setting */
+"SETTINGS_TEMPERATURE_UNIT_OPTION_FAHRENHEIT" = "℉";
+
+/* Option for temperature unit setting */
+"SETTINGS_TEMPERATURE_UNIT_OPTION_CELCIUS" = "℃";
