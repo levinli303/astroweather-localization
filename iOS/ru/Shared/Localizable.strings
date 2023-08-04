@@ -341,33 +341,6 @@
 "Photo" = "Фото";
 
 /* No comment provided by engineer. */
-"Future" = "В будущем";
-
-/* No comment provided by engineer. */
-"Just now" = "Только что";
-
-/* No comment provided by engineer. */
-"%d seconds ago" = "%d сек. назад";
-
-/* No comment provided by engineer. */
-"%d minutes ago" = "%d мин. назад";
-
-/* No comment provided by engineer. */
-"%d hours ago" = "%d ч. назад";
-
-/* No comment provided by engineer. */
-"%d days ago" = "%d дн. назад";
-
-/* No comment provided by engineer. */
-"%d weeks ago" = "%d нед. назад";
-
-/* No comment provided by engineer. */
-"%d months ago" = "%d мес. назад";
-
-/* No comment provided by engineer. */
-"%d years ago" = "%d л. назад";
-
-/* No comment provided by engineer. */
 "Loading…" = "Загрузка…";
 
 /* No comment provided by engineer. */

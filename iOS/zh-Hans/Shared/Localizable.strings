@@ -341,33 +341,6 @@
 "Photo" = "图片";
 
 /* No comment provided by engineer. */
-"Future" = "未来";
-
-/* No comment provided by engineer. */
-"Just now" = "刚刚";
-
-/* No comment provided by engineer. */
-"%d seconds ago" = "%d秒前";
-
-/* No comment provided by engineer. */
-"%d minutes ago" = "%d分钟前";
-
-/* No comment provided by engineer. */
-"%d hours ago" = "%d小时前";
-
-/* No comment provided by engineer. */
-"%d days ago" = "%d天前";
-
-/* No comment provided by engineer. */
-"%d weeks ago" = "%d周前";
-
-/* No comment provided by engineer. */
-"%d months ago" = "%d个月前";
-
-/* No comment provided by engineer. */
-"%d years ago" = "%d年前";
-
-/* No comment provided by engineer. */
 "Loading…" = "加载中…";
 
 /* No comment provided by engineer. */
