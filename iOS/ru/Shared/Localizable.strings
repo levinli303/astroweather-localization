@@ -2190,3 +2190,15 @@
 
 /* Content to show when user tries to restore bookmarks from iCloud, %@ will be replaced with the number of bookmarks in iCloud */
 "SETTINGS_BOOKMARK_RESTORATION_HINT" = "%@ — количество найденных закладок в вашем аккаунте iCloud, нажмите «Ок» для их загрузки взамен закладок на устройстве";
+
+/* Common template for formatting proprotions, the first %@ is the value and the second %@ is the total amount */
+"COMMON_PROPORTION_FORMAT" = "%@ / %@";
+
+/* Common template for formatting ranges, the first %@ is the lower bound and the second %@ is the upper bound */
+"COMMON_RANGE_LOWER_TO_UPPER" = "%@ – %@";
+
+/* Common template for formatting ranges, %@ is the upper bound */
+"COMMON_RANGE_LESS_THAN" = "< %@";
+
+/* Common template for formatting ranges, %@ is the lower bound */
+"COMMON_RANGE_GREATER_THAN" = "> %@";

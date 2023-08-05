@@ -192,6 +192,12 @@
     <string name="settings_azimuth_zero_option_south">南</string>
     <string name="settings_temperature_unit_option_fahrenheit">℉</string>
     <string name="settings_temperature_unit_option_celcius">℃</string>
+    <string name="common_proportion_format">%s / %s</string>
+    <string name="common_range_lower_to_upper">%s – %s</string>
+    <string name="common_range_less_than">&lt; %s</string>
+    <string name="common_range_greater_than">&gt;%s</string>
+    <string name="common_speed_formatter">%s m/s</string>
+    <string name="common_arcsecond_formatter">%s″</string>
     <string name="service_unavailable_use_clear_sky">晴天鍾服務不可用，檢視Clear Sky上的天氣資訊？</string>
     <string name="setting_remove_cache">清除快取</string>
     <string name="setting_remove_cache_success">清除快取成功</string>
