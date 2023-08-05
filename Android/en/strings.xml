@@ -212,7 +212,7 @@
     <string name="common_range_lower_to_upper">%s – %s</string>
     <string name="common_range_less_than">&lt; %s</string>
     <string name="common_range_greater_than">&gt;%s</string>
-    <string name="common_speed_formatter">%s m/s</string>
+    <string name="common_speed_formatter">%sm/s</string>
     <string name="common_arcsecond_formatter">%s″</string>
 
     <string name="service_unavailable_use_clear_sky">7Timer service is currently unavailable, show Clear Sky results instead?</string>

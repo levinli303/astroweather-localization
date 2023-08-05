@@ -209,7 +209,7 @@
     <string name="common_range_lower_to_upper">%s – %s</string>
     <string name="common_range_less_than">&lt; %s</string>
     <string name="common_range_greater_than">&gt;%s</string>
-    <string name="common_speed_formatter">%s m/s</string>
+    <string name="common_speed_formatter">%s米/秒</string>
     <string name="common_arcsecond_formatter">%s″</string>
 
     <string name="service_unavailable_use_clear_sky">晴天钟服务不可用，查看Clear Sky上的天气信息？</string>
