@@ -258,7 +258,7 @@
     <string name="main_privacy_prompt_view_policy">View Policy</string>
     <string name="event_cannot_add_event_system_error">Cannot add event to system calendar.</string>
     <string name="ad_action_skip">Skip</string>
-    <string name="ad_action_skip_seconds">%d s</string>
+    <string name="ad_action_skip_seconds">%s s</string>
     <string name="ad_close_ad">Close</string>
     <string name="riset_calculating">Calculating…</string>
     <string name="riset_never_rises">Never rises</string>

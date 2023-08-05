@@ -258,7 +258,7 @@
     <string name="main_privacy_prompt_view_policy">Ознакомиться с политикой конфиденциальности</string>
     <string name="event_cannot_add_event_system_error">Не удалось добавить событие в календарь.</string>
     <string name="ad_action_skip">Пропустить</string>
-    <string name="ad_action_skip_seconds">%d с</string>
+    <string name="ad_action_skip_seconds">%s с</string>
     <string name="ad_close_ad">Закрыть</string>
     <string name="riset_calculating">Вычисление…</string>
     <string name="riset_never_rises">Объект невосходящий</string>

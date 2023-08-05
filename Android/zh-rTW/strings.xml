@@ -231,7 +231,7 @@
     <string name="main_privacy_prompt_agree">同意</string>
     <string name="event_cannot_add_event_system_error">無法新增事件到系統日曆中。</string>
     <string name="ad_action_skip">跳過</string>
-    <string name="ad_action_skip_seconds">%d s</string>
+    <string name="ad_action_skip_seconds">%s s</string>
     <string name="ad_close_ad">關閉</string>
     <string name="riset_calculating">計算中…</string>
     <string name="riset_never_rises">不會升起</string>

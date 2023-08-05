@@ -251,9 +251,6 @@
 "Restore Bookmarks" = "Восстановить закладки";
 
 /* No comment provided by engineer. */
-"%d bookmarks (locations) found in your iCloud account, click OK to replace local bookmarks with the bookmarks from iCloud." = "%d — количество найденных закладок в вашем аккаунте iCloud, нажмите «Ок» для их загрузки взамен закладок на устройстве";
-
-/* No comment provided by engineer. */
 "Calculating…" = "Вычисление…";
 
 /* No comment provided by engineer. */
@@ -2155,9 +2152,6 @@
 /* Template for showing altitude, %@ is the altitude expression */
 "RISET_TEMPLATE_ALTITUDE" = "Высота: %@";
 
-/* Template for showing an angle in degrees */
-"COMMON_DEGREE_TEMPLATE" = "%.1f°";
-
 /* Template for showing azimuth, %1$@ is the azimuth in degrees, %2$@ is the direction based on the degree value */
 "COMMON_LONG_AZIMUTH_TEMPLATE" = "%1$@ (%2$@)";
 
@@ -2173,8 +2167,8 @@
 /* The abbreviated form of latitude indicating south */
 "COMMON_LATITUDE_ABBREVIATED_SOUTH" = "ю. ш.";
 
-/* Template for formatting latitude and longitude, %1$.2f is the absolute latitude in degrees, %3$.2f is the abosolute longitude in degrees. %2$@ is either N/S, %4$@ is either E/W */
-"COMMON_LONGITUDE_LATITUDE_TEMPLATE" = "%1$.2f° %2$@ %3$.2f° %4$@";
+/* Template for formatting latitude and longitude, %1%@ is the absolute latitude in degrees, %3%@ is the abosolute longitude in degrees. %2$@ is either N/S, %4$@ is either E/W */
+"COMMON_LONGITUDE_LATITUDE_TEMPLATE" = "%1%@° %2$@ %3%@° %4$@";
 
 /* Title for setting for azimuth zero */
 "SETTINGS_AZIMUTH_ZERO_TITLE" = "Отсчёт азимута";
@@ -2193,3 +2187,6 @@
 
 /* Option for temperature unit setting */
 "SETTINGS_TEMPERATURE_UNIT_OPTION_CELCIUS" = "℃";
+
+/* Content to show when user tries to restore bookmarks from iCloud, %@ will be replaced with the number of bookmarks in iCloud */
+"SETTINGS_BOOKMARK_RESTORATION_HINT" = "%@ — количество найденных закладок в вашем аккаунте iCloud, нажмите «Ок» для их загрузки взамен закладок на устройстве";
