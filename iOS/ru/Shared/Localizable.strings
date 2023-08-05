@@ -2167,8 +2167,8 @@
 /* The abbreviated form of latitude indicating south */
 "COMMON_LATITUDE_ABBREVIATED_SOUTH" = "ю. ш.";
 
-/* Template for formatting latitude and longitude, %1%@ is the absolute latitude in degrees, %3%@ is the abosolute longitude in degrees. %2$@ is either N/S, %4$@ is either E/W */
-"COMMON_LONGITUDE_LATITUDE_TEMPLATE" = "%1%@° %2$@ %3%@° %4$@";
+/* Template for formatting latitude and longitude, %1$@ is the absolute latitude in degrees, %3$@ is the abosolute longitude in degrees. %2$@ is either N/S, %4$@ is either E/W */
+"COMMON_LONGITUDE_LATITUDE_TEMPLATE" = "%1$@° %2$@ %3$@° %4$@";
 
 /* Title for setting for azimuth zero */
 "SETTINGS_AZIMUTH_ZERO_TITLE" = "Отсчёт азимута";
