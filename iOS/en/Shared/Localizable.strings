@@ -137,7 +137,7 @@
 "COMMON_DIRECTION_WSW" = "WSW";
 
 /* No comment provided by engineer. */
-"COMMON_DIRECTIO_WEST" = "West";
+"COMMON_DIRECTION_WEST" = "West";
 
 /* No comment provided by engineer. */
 "COMMON_DIRECTION_WNW" = "WNW";
