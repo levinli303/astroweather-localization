@@ -35,12 +35,12 @@
     <string name="location_lat_unit">Широта (десятич.)</string>
     <string name="help_section_about">О программе</string>
     <string name="help_section_instruction">Помощь</string>
-    <string name="help_section_instruction1">Круговая диаграмма облачного слоя, где отношение синего к белому показывает пропорцию между чистым небом и облаками, т.е. диаграмма слева соответствует 0% облачности, а справа — 100% облачности.</string>
+    <string name="help_section_instruction1" formatted="false">Круговая диаграмма облачного слоя, где отношение синего к белому показывает пропорцию между чистым небом и облаками, т.е. диаграмма слева соответствует 0% облачности, а справа — 100% облачности.</string>
     <string name="help_section_instruction2">Астрономическая видимость. Слева направо: &lt;0,5″, 0,5″–0,75″, 0,75″–1″, 1″–1,25″, 1,25″–1,5″, 1,5″–2″, 2″–2,5″, &gt;2,5″. Если кратко, чем меньше и насыщеннее круг, тем лучшего углового разрешения можно ожидать.</string>
     <string name="help_section_instruction3">Прозрачность атмосферы. Слева направо: &lt;0,3, 0,3–0,4, 0,4–0,5, 0,5–0,6, 0,6–0,7, 0,7–0,85, 0,85–1, &gt;1 (ед. измерения: зв. вел. на массу воздуха). Если кратко, чем меньше полос и больше их насыщенность, тем меньшего атмосферного поглощения тусклых объектов можно ожидать.</string>
     <string name="help_section_instruction4">Вероятность дождя или снега.</string>
     <string name="help_section_instruction5">Турбулентность атмосферы. Слева направо: смещённый индекс от 0 до −3, от −3 до −5 и ниже −5.</string>
-    <string name="help_section_instruction6">Предупреждение о влажной погоде. Слева направо: относительная влажность в промежутках 80%–90%, 90%–95% и более 95%.</string>
+    <string name="help_section_instruction6" formatted="false">Предупреждение о влажной погоде. Слева направо: относительная влажность в промежутках 80%–90%, 90%–95% и более 95%.</string>
     <string name="help_section_instruction7">Предупреждение о ветреной погоде. Слева направо: постоянная скорость ветра от 8,0 до 10,8 м/с (свежий), от 10,8 до 17,2 м/с (сильный) и более 17,2 м/с (штормовой или сильнее).</string>
     <string name="help_section_instruction8">Индикатор направления ветра, стрелка вверх указывает на южный ветер (ветер с юга).</string>
     <string name="help_section_recommend">Порекомендовать Astroweather друзьям</string>
@@ -208,8 +208,8 @@
     <string name="settings_azimuth_zero_option_south">От точки юга</string>
     <string name="settings_temperature_unit_option_fahrenheit">℉</string>
     <string name="settings_temperature_unit_option_celcius">℃</string>
-    <string name="common_proportion_format">%s / %s</string>
-    <string name="common_range_lower_to_upper">%s – %s</string>
+    <string name="common_proportion_format">%1$s / %2$s</string>
+    <string name="common_range_lower_to_upper">%1$s – %2$s</string>
     <string name="common_range_less_than">&lt; %s</string>
     <string name="common_range_greater_than">&gt;%s</string>
     <string name="common_speed_formatter">%sм/с</string>

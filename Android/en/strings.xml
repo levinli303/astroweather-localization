@@ -35,12 +35,12 @@
     <string name="location_lat_unit">Latitude (decimal)</string>
     <string name="help_section_about">About</string>
     <string name="help_section_instruction">Help</string>
-    <string name="help_section_instruction1">Octet-gram of cloud cover, blue is for clear while white is for cloud. e.g. the \"cake\" on the left is 0%% cloud while the one on the right is 100%% cloud.</string>
+    <string name="help_section_instruction1" formatted="false">Octet-gram of cloud cover, blue is for clear while white is for cloud. e.g. the \"cake\" on the left is 0% cloud while the one on the right is 100% cloud.</string>
     <string name="help_section_instruction2">Astronomical seeing. From left to right: &lt;0.5″, 0.5″–0.75″, 0.75″–1″, 1″–1.25″, 1.25″–1.5″, 1.5″–2″, 2″–2.5″, &gt;2.5″. In short, the smaller/bluer, the better the seeing condition is.</string>
     <string name="help_section_instruction3">Atmospheric transparency. From left to right: &lt;0.3, 0.3–0.4, 0.4–0.5, 0.5–0.6, 0.6–0.7, 0.7–0.85, 0.85–1, &gt;1 (unit: mag per air mass). In short, the fewer bars/bluer, the better the transparency is.</string>
     <string name="help_section_instruction4">Chances of rain/snow.</string>
     <string name="help_section_instruction5">Atmospheric instability. From left to right: lifted index between 0 to −3, −3 to −5, and below −5.</string>
-    <string name="help_section_instruction6">Humid weather warning. From left to right: relative humidity between 80%%–90%%, 90%%–95%%, and over 95%%.</string>
+    <string name="help_section_instruction6" formatted="false">Humid weather warning. From left to right: relative humidity between 80%–90%, 90%–95%, and over 95%.</string>
     <string name="help_section_instruction7">Windy weather warning. From left to right: sustained wind speed between 8.0–10.8m/s (fresh), 10.8–17.2m/s (strong), and over 17.2m/s (gale or above).</string>
     <string name="help_section_instruction8">Wind direction indicator, an up arrow indicates south wind(wind coming from south).</string>
     <string name="help_section_recommend">Recommend Astroweather to friends</string>
@@ -208,8 +208,8 @@
     <string name="settings_azimuth_zero_option_south">South</string>
     <string name="settings_temperature_unit_option_fahrenheit">℉</string>
     <string name="settings_temperature_unit_option_celcius">℃</string>
-    <string name="common_proportion_format">%s / %s</string>
-    <string name="common_range_lower_to_upper">%s – %s</string>
+    <string name="common_proportion_format">%1$s / %2$s</string>
+    <string name="common_range_lower_to_upper">%1$s – %2$s</string>
     <string name="common_range_less_than">&lt; %s</string>
     <string name="common_range_greater_than">&gt;%s</string>
     <string name="common_speed_formatter">%sm/s</string>

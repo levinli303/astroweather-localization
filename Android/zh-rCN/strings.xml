@@ -35,12 +35,12 @@
     <string name="location_lat_unit">纬度（小数表示）</string>
     <string name="help_section_about">关于</string>
     <string name="help_section_instruction">帮助</string>
-    <string name="help_section_instruction1">云量八分图，蓝色代表晴天所占的比例，白色代表云所占的比例，从左到右的云量从0%%递增到100%%。</string>
+    <string name="help_section_instruction1" formatted="false">云量八分图，蓝色代表晴天所占的比例，白色代表云所占的比例，从左到右的云量从0%递增到100%。</string>
     <string name="help_section_instruction2">视宁度，从左到右：&lt;0.5″, 0.5″–0.75″, 0.75″–1″, 1″–1.25″, 1.25″–1.5″, 1.5″–2″, 2″–2.5″, &gt;2.5″。简单地说，图标越小/越蓝，视宁度越好。</string>
     <string name="help_section_instruction3">透明度，从左到右：&lt;0.3, 0.3–0.4, 0.4–0.5, 0.5–0.6, 0.6–0.7, 0.7–0.85, 0.85–1, &gt;1（单位为星等每大气质量）。简单地说，横杠越少/越蓝，透明度越好。</string>
     <string name="help_section_instruction4">可能有雨/有雪。</string>
     <string name="help_section_instruction5">大气不稳定度，从左到右分别代表抬升指数介于0至−3，−3至−5，以及小于−5。</string>
-    <string name="help_section_instruction6">高湿度警告。从左到右：相对湿度介于80%%–90%%，90%%–95%%，以及超过95%%。</string>
+    <string name="help_section_instruction6" formatted="false">高湿度警告。从左到右：相对湿度介于80%–90%，90%–95%，以及超过95%。</string>
     <string name="help_section_instruction7">大风警告。从左到右：持续风速介于8.0–10.8米/秒（5级），10.8–17.2米/秒（6–7级），以及17.2米/秒以上（8级以上）。</string>
     <string name="help_section_instruction8">风向指示器，向上的箭头为南风。</string>
     <string name="help_section_recommend">向朋友推荐晴天钟</string>
@@ -205,8 +205,8 @@
     <string name="settings_azimuth_zero_option_south">南</string>
     <string name="settings_temperature_unit_option_fahrenheit">℉</string>
     <string name="settings_temperature_unit_option_celcius">℃</string>
-    <string name="common_proportion_format">%s / %s</string>
-    <string name="common_range_lower_to_upper">%s – %s</string>
+    <string name="common_proportion_format">%1$s / %2$s</string>
+    <string name="common_range_lower_to_upper">%1$s – %2$s</string>
     <string name="common_range_less_than">&lt; %s</string>
     <string name="common_range_greater_than">&gt;%s</string>
     <string name="common_speed_formatter">%s米/秒</string>
