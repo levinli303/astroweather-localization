@@ -947,7 +947,7 @@
 "Remove Ads" = "隐藏广告";
 
 /* No comment provided by engineer. */
-"Ads will be disabled for 1 day, restart Astroweather to take effect. Alternatively, you can also purchase Astro PRO to disable ads entirely." = "接下来的1天内将不再显示广告，重启晴天钟后生效。您也可以购买晴天钟PRO完全移除广告。";
+"Ads will be disabled for 1 day, restart Astroweather to take effect. Alternatively, you can also purchase Astroweather PRO to disable ads entirely." = "接下来的1天内将不再显示广告，重启晴天钟后生效。您也可以购买晴天钟PRO完全移除广告。";
 
 /* No comment provided by engineer. */
 "Sun Rise/Set Detail" = "日出/落详情";
@@ -2202,3 +2202,6 @@
 
 /* Common template for formatting ranges, %@ is the lower bound */
 "COMMON_RANGE_GREATER_THAN" = "> %@";
+
+/* Description for the in-app purchase item, Astroweather PRO */
+"PURCHASE_ASTROWEATHER_PRO_DESCRIPTION" = "使用晴天钟PRO享受免广告服务。";

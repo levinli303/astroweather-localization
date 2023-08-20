@@ -246,7 +246,7 @@
     <string name="setting_about_riset_info">Время восхода и захода небесных тел рассчитывается на вашем устройстве без необходимости подключения к Интернету.</string>
 
     <string name="setting_hide_ads_title">Убрать рекламу</string>
-    <string name="setting_hide_ads_detail">Реклама будет отключена на 1 день, для вступления в силу перезапустите приложение. Также вы также можете приобрести Astro PRO, чтобы полностью отключить рекламу.</string>
+    <string name="setting_hide_ads_detail">Реклама будет отключена на 1 день, для вступления в силу перезапустите приложение. Также вы также можете приобрести Astroweather PRO, чтобы полностью отключить рекламу.</string>
 
     <string name="feedback_email_subject">Оставьте отзыв об Astroweather (Android)</string>
     <string name="feedback_email_title">Обратная связь</string>
@@ -708,4 +708,5 @@
     <string name="event_show_details">Подробности (на английском)</string>
 
     <string name="astroweather_fallback_location_beijing_name">Пекин</string>
+    <string name="astroweather_purchase_description">Работайте без рекламы в Astroweather PRO.</string>
 </resources>

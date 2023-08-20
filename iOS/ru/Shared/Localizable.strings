@@ -947,7 +947,7 @@
 "Remove Ads" = "Убрать рекламу";
 
 /* No comment provided by engineer. */
-"Ads will be disabled for 1 day, restart Astroweather to take effect. Alternatively, you can also purchase Astro PRO to disable ads entirely." = "Реклама будет отключена на 1 день, для вступления в силу перезапустите приложение. Также вы также можете приобрести Astro PRO, чтобы полностью отключить рекламу.";
+"Ads will be disabled for 1 day, restart Astroweather to take effect. Alternatively, you can also purchase Astroweather PRO to disable ads entirely." = "Реклама будет отключена на 1 день, для вступления в силу перезапустите приложение. Также вы также можете приобрести Astroweather PRO, чтобы полностью отключить рекламу.";
 
 /* No comment provided by engineer. */
 "Sun Rise/Set Detail" = "Детали восхода/захода Солнца";
@@ -2202,3 +2202,6 @@
 
 /* Common template for formatting ranges, %@ is the lower bound */
 "COMMON_RANGE_GREATER_THAN" = "> %@";
+
+/* Description for the in-app purchase item, Astroweather PRO */
+"PURCHASE_ASTROWEATHER_PRO_DESCRIPTION" = "Работайте без рекламы в Astroweather PRO.";

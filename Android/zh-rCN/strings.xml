@@ -702,4 +702,5 @@
     <string name="event_show_details">显示详情（英语）</string>
 
     <string name="astroweather_fallback_location_beijing_name">北京</string>
+    <string name="astroweather_purchase_description">使用晴天钟PRO享受免广告服务。</string>
 </resources>
