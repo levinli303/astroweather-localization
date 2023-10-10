@@ -5,9 +5,6 @@
 "NSLocationAlwaysAndWhenInUseUsageDescription" = "Доступ к геопозиции необходим для отображения погоды в вашем регионе и отображения вашего местоположения на карте";
 
 // English: Location service is needed for showing the weather of your location and display your location on the map
-"NSLocationAlwaysUsageDescription" = "Доступ к геопозиции необходим для отображения погоды в вашем регионе и отображения вашего местоположения на карте";
-
-// English: Location service is needed for showing the weather of your location and display your location on the map
 "NSLocationWhenInUseUsageDescription" = "Доступ к геопозиции необходим для отображения погоды в вашем регионе и отображения вашего местоположения на карте";
 
 // English: Access is required to post contents with photo
@@ -19,5 +16,11 @@
 // English: Access is required to add event to calendar
 "NSCalendarsUsageDescription" = "Разрешение необходимо для добавления события в календарь";
 
+// English: Access is required to add event to calendar
+"NSCalendarsWriteOnlyAccessUsageDescription" = "Разрешение необходимо для добавления события в календарь";
+
 // English: Your IDFA will be used only for serving personalized ads
 "NSUserTrackingUsageDescription" = "Ваш IDFA (рекламный идентификатор) будет использован только для показа персонализированной рекламы";
+
+// English: Access is required to add contacts to events
+"NSContactsUsageDescription" = "Access is required to add contacts to events";

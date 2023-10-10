@@ -2205,3 +2205,21 @@
 
 /* Description for the in-app purchase item, Astroweather PRO */
 "PURCHASE_ASTROWEATHER_PRO_DESCRIPTION" = "使用晴天钟PRO享受免广告服务。";
+
+/* Name for the parameter indicating the location of the user */
+"WIDGET_PARAMETER_NAME_LOCATION" = "位置";
+
+/* Name for the parameter indicating the solar system object */
+"WIDGET_PARAMETER_NAME_OBJECT" = "天体";
+
+/* Name for the parameter indicating the selected spacecraft */
+"WIDGET_PARAMETER_NAME_SPACECRAFT" = "航天器";
+
+/* Name for the parameter indicating whether only observable passes should be displayed or not */
+"WIDGET_PARAMETER_NAME_OBSERVABLE_PASSES" = "可见过境";
+
+/* Name for the parameter indicating the name of the weather chart */
+"WIDGET_PARAMETER_NAME_WEATHER_CHART" = "气象图数据";
+
+/* Error text when current location is not recorded */
+"WIDGET_NEEDS_LOCATION_REFRESH" = "打开晴天钟更新当前位置信息。";

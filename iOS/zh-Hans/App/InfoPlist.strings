@@ -14,9 +14,6 @@
 "NSLocationAlwaysAndWhenInUseUsageDescription" = "打开定位以显示当地天气以及在地图上显示您的位置";
 
 // English: Location service is needed for showing the weather of your location and display your location on the map
-"NSLocationAlwaysUsageDescription" = "打开定位以显示当地天气以及在地图上显示您的位置";
-
-// English: Location service is needed for showing the weather of your location and display your location on the map
 "NSLocationWhenInUseUsageDescription" = "打开定位以显示当地天气以及在地图上显示您的位置";
 
 // English: Access is required to post contents with photo
@@ -28,5 +25,11 @@
 // English: Access is required to add event to calendar
 "NSCalendarsUsageDescription" = "需要访问日历来添加事件";
 
+// English: Access is required to add event to calendar
+"NSCalendarsWriteOnlyAccessUsageDescription" = "需要访问日历来添加事件";
+
 // English: Your IDFA will be used only for serving personalized ads
 "NSUserTrackingUsageDescription" = "您的个人标识符仅会被用于向您展示个性化广告";
+
+// English: Access is required to add contacts to events
+"NSContactsUsageDescription" = "需要访问通讯录来添加联系人到事件中";

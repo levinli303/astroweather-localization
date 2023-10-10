@@ -2205,3 +2205,21 @@
 
 /* Description for the in-app purchase item, Astroweather PRO */
 "PURCHASE_ASTROWEATHER_PRO_DESCRIPTION" = "Работайте без рекламы в Astroweather PRO.";
+
+/* Name for the parameter indicating the location of the user */
+"WIDGET_PARAMETER_NAME_LOCATION" = "Местоположение";
+
+/* Name for the parameter indicating the solar system object */
+"WIDGET_PARAMETER_NAME_OBJECT" = "Объект";
+
+/* Name for the parameter indicating the selected spacecraft */
+"WIDGET_PARAMETER_NAME_SPACECRAFT" = "Космический аппарат";
+
+/* Name for the parameter indicating whether only observable passes should be displayed or not */
+"WIDGET_PARAMETER_NAME_OBSERVABLE_PASSES" = "Видимые пролёты";
+
+/* Name for the parameter indicating the name of the weather chart */
+"WIDGET_PARAMETER_NAME_WEATHER_CHART" = "Снимок/диаграмма погоды";
+
+/* Error text when current location is not recorded */
+"WIDGET_NEEDS_LOCATION_REFRESH" = "Open Astroweather to update current location.";
