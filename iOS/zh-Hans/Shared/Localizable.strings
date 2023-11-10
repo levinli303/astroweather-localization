@@ -767,13 +767,13 @@
 "GeoColor (GOES-16)" = "地质色彩（GOES-16）";
 
 /* No comment provided by engineer. */
-"GeoColor (GOES-17)" = "地质色彩（GOES-17）";
+"GeoColor (GOES-18)" = "地质色彩（GOES-18）";
 
 /* No comment provided by engineer. */
-"GeoColor (Meteosat-8)" = "地质色彩（Meteosat-8）";
+"GeoColor (Meteosat-9)" = "地质色彩（Meteosat-9）";
 
 /* No comment provided by engineer. */
-"GeoColor (Meteosat-11)" = "地质色彩（Meteosat-11）";
+"GeoColor (Meteosat-10)" = "地质色彩（Meteosat-10）";
 
 /* No comment provided by engineer. */
 "China" = "中国";
@@ -1025,10 +1025,10 @@
 "Europe" = "欧洲";
 
 /* No comment provided by engineer. */
-"Visible Spectrum (Sat24)" = "可见光（Sat24）";
+"SATELLITE_MAP_SAT24_VISUAL_EUROPE" = "可见光（Sat24）";
 
 /* No comment provided by engineer. */
-"Infrared (Sat24)" = "红外（Sat24）";
+"SATELLITE_MAP_SAT24_INFRARED_EUROPE" = "红外（Sat24）";
 
 /* No comment provided by engineer. */
 "Rise & Set" = "升落";
@@ -1653,108 +1653,181 @@
 
 /* No comment provided by engineer. */
 "Stars/DSOs" = "恒星/深空天体";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_ALBANIA" = "阿尔巴尼亚（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Alps (Visible Spectrum (Sat24))" = "阿尔卑斯（可见光（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_ALBANIA" = "阿尔巴尼亚（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_AUSTRIA" = "奥地利（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Benelux (Visible Spectrum (Sat24))" = "比荷卢（可见光（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_AUSTRIA" = "奥地利（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_BELGIUM" = "比利时（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"France (Visible Spectrum (Sat24))" = "法国（可见光（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_BELGIUM" = "比利时（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_BOSNIA_AND_HERZEGOVINA" = "波斯尼亚和黑塞哥维那（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Germany (Visible Spectrum (Sat24))" = "德国（可见光（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_BOSNIA_AND_HERZEGOVINA" = "波斯尼亚和黑塞哥维那（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_BULGARIA" = "保加利亚（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Greece (Visible Spectrum (Sat24))" = "希腊（可见光（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_BULGARIA" = "保加利亚（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_CROATIA" = "克罗地亚（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Italy (Visible Spectrum (Sat24))" = "意大利（可见光（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_CROATIA" = "克罗地亚（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_CZECH_REPUBLIC" = "捷克共和国（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Poland (Visible Spectrum (Sat24))" = "波兰（可见光（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_CZECH_REPUBLIC" = "捷克共和国（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_DENMARK" = "丹麦（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Turkey (Visible Spectrum (Sat24))" = "土耳其（可见光（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_DENMARK" = "丹麦（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_ESTONIA" = "爱沙尼亚（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Baltic (Visible Spectrum (Sat24))" = "波罗的海（可见光（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_ESTONIA" = "爱沙尼亚（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_FINLAND" = "芬兰（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Balkan (Visible Spectrum (Sat24))" = "巴尔干（可见光（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_FINLAND" = "芬兰（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_FRANCE" = "法国（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Hungary (Visible Spectrum (Sat24))" = "匈牙利（可见光（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_FRANCE" = "法国（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_GERMANY" = "德国（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Israel (Visible Spectrum (Sat24))" = "以色列（可见光（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_GERMANY" = "德国（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_GREECE" = "希腊（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Romania & Bulgaria (Visible Spectrum (Sat24))" = "罗马尼亚和保加利亚（可见光（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_GREECE" = "希腊（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_HUNGARY" = "匈牙利（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Russia (Visible Spectrum (Sat24))" = "俄罗斯（可见光（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_HUNGARY" = "匈牙利（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_IRELAND" = "爱尔兰（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Spain & Portugal (Visible Spectrum (Sat24))" = "西班牙和葡萄牙（可见光（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_IRELAND" = "爱尔兰（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_ITALY" = "意大利（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Scandinavia (Visible Spectrum (Sat24))" = "斯堪的纳维亚（可见光（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_ITALY" = "意大利（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_LATVIA" = "拉脱维亚（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"UK & Ireland (Visible Spectrum (Sat24))" = "英国和爱尔兰（可见光（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_LATVIA" = "拉脱维亚（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_LITHUANIA" = "立陶宛（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Alps (Infrared (Sat24))" = "阿尔卑斯（红外（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_LITHUANIA" = "立陶宛（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_LUXEMBOURG" = "卢森堡（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Benelux (Infrared (Sat24))" = "比荷卢（红外（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_LUXEMBOURG" = "卢森堡（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_MOLDOVA" = "摩尔多瓦（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"France (Infrared (Sat24))" = "法国（红外（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_MOLDOVA" = "摩尔多瓦（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_MONTENEGRO" = "黑山（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Germany (Infrared (Sat24))" = "德国（红外（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_MONTENEGRO" = "黑山（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_NETHERLANDS" = "荷兰（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Greece (Infrared (Sat24))" = "希腊（红外（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_NETHERLANDS" = "荷兰（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_NORTH_MACEDONIA" = "北马其顿（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Italy (Infrared (Sat24))" = "意大利（红外（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_NORTH_MACEDONIA" = "北马其顿（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_NORWAY" = "挪威（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Poland (Infrared (Sat24))" = "波兰（红外（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_NORWAY" = "挪威（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_POLAND" = "波兰（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Turkey (Infrared (Sat24))" = "土耳其（红外（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_POLAND" = "波兰（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_PORTUGAL" = "葡萄牙（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Baltic (Infrared (Sat24))" = "波罗的海（红外（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_PORTUGAL" = "葡萄牙（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_ROMANIA" = "罗马尼亚（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Balkan (Infrared (Sat24))" = "巴尔干（红外（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_ROMANIA" = "罗马尼亚（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_SERBIA" = "塞尔维亚（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Hungary (Infrared (Sat24))" = "匈牙利（红外（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_SERBIA" = "塞尔维亚（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_SLOVAKIA" = "斯洛伐克（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Israel (Infrared (Sat24))" = "以色列（红外（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_SLOVAKIA" = "斯洛伐克（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_SLOVENIA" = "斯洛文尼亚（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Romania & Bulgaria (Infrared (Sat24))" = "罗马尼亚和保加利亚（红外（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_SLOVENIA" = "斯洛文尼亚（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_SPAIN" = "西班牙（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Russia (Infrared (Sat24))" = "俄罗斯（红外（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_SPAIN" = "西班牙（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_SWEDEN" = "瑞典（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Spain & Portugal (Infrared (Sat24))" = "西班牙和葡萄牙（红外（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_SWEDEN" = "瑞典（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_SWITZERLAND" = "瑞士（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"Scandinavia (Infrared (Sat24))" = "斯堪的纳维亚（红外（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_SWITZERLAND" = "瑞士（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_UKRAINE" = "乌克兰（可见光（Sat24））";
 
 /* No comment provided by engineer. */
-"UK & Ireland (Infrared (Sat24))" = "英国和爱尔兰（红外（Sat24））";
+"SATELLITE_MAP_SAT24_INFRARED_UKRAINE" = "乌克兰（红外（Sat24））";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_UNITED_KINGDOM" = "英国（可见光（Sat24））";
+
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_INFRARED_UNITED_KINGDOM" = "英国（红外（Sat24））";
 
 /* No comment provided by engineer. */
 "Wind" = "风";

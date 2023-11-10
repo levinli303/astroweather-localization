@@ -767,13 +767,13 @@
 "GeoColor (GOES-16)" = "GeoColor (GOES-16)";
 
 /* No comment provided by engineer. */
-"GeoColor (GOES-17)" = "GeoColor (GOES-17)";
+"GeoColor (GOES-18)" = "GeoColor (GOES-18)";
 
 /* No comment provided by engineer. */
-"GeoColor (Meteosat-8)" = "GeoColor (Meteosat-8)";
+"GeoColor (Meteosat-9)" = "GeoColor (Meteosat-9)";
 
 /* No comment provided by engineer. */
-"GeoColor (Meteosat-11)" = "GeoColor (Meteosat-11)";
+"GeoColor (Meteosat-10)" = "GeoColor (Meteosat-10)";
 
 /* No comment provided by engineer. */
 "China" = "China";
@@ -1025,10 +1025,10 @@
 "Europe" = "Europe";
 
 /* No comment provided by engineer. */
-"Visible Spectrum (Sat24)" = "Visible Spectrum (Sat24)";
+"SATELLITE_MAP_SAT24_VISUAL_EUROPE" = "Visible Spectrum (Sat24)";
 
 /* No comment provided by engineer. */
-"Infrared (Sat24)" = "Infrared (Sat24)";
+"SATELLITE_MAP_SAT24_INFRARED_EUROPE" = "Infrared (Sat24)";
 
 /* No comment provided by engineer. */
 "Rise & Set" = "Rise & Set";
@@ -1653,108 +1653,181 @@
 
 /* No comment provided by engineer. */
 "Stars/DSOs" = "Stars/DSOs";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_ALBANIA" = "Albania (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Alps (Visible Spectrum (Sat24))" = "Alps (Visible Spectrum (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_ALBANIA" = "Albania (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_AUSTRIA" = "Austria (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Benelux (Visible Spectrum (Sat24))" = "Benelux (Visible Spectrum (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_AUSTRIA" = "Austria (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_BELGIUM" = "Belgium (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"France (Visible Spectrum (Sat24))" = "France (Visible Spectrum (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_BELGIUM" = "Belgium (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_BOSNIA_AND_HERZEGOVINA" = "Bosnia and Herzegovina (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Germany (Visible Spectrum (Sat24))" = "Germany (Visible Spectrum (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_BOSNIA_AND_HERZEGOVINA" = "Bosnia and Herzegovina (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_BULGARIA" = "Bulgaria (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Greece (Visible Spectrum (Sat24))" = "Greece (Visible Spectrum (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_BULGARIA" = "Bulgaria (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_CROATIA" = "Croatia (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Italy (Visible Spectrum (Sat24))" = "Italy (Visible Spectrum (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_CROATIA" = "Croatia (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_CZECH_REPUBLIC" = "Czech Republic (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Poland (Visible Spectrum (Sat24))" = "Poland (Visible Spectrum (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_CZECH_REPUBLIC" = "Czech Republic (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_DENMARK" = "Denmark (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Turkey (Visible Spectrum (Sat24))" = "Turkey (Visible Spectrum (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_DENMARK" = "Denmark (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_ESTONIA" = "Estonia (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Baltic (Visible Spectrum (Sat24))" = "Baltic (Visible Spectrum (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_ESTONIA" = "Estonia (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_FINLAND" = "Finland (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Balkan (Visible Spectrum (Sat24))" = "Balkan (Visible Spectrum (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_FINLAND" = "Finland (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_FRANCE" = "France (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Hungary (Visible Spectrum (Sat24))" = "Hungary (Visible Spectrum (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_FRANCE" = "France (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_GERMANY" = "Germany (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Israel (Visible Spectrum (Sat24))" = "Israel (Visible Spectrum (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_GERMANY" = "Germany (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_GREECE" = "Greece (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Romania & Bulgaria (Visible Spectrum (Sat24))" = "Romania & Bulgaria (Visible Spectrum (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_GREECE" = "Greece (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_HUNGARY" = "Hungary (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Russia (Visible Spectrum (Sat24))" = "Russia (Visible Spectrum (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_HUNGARY" = "Hungary (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_IRELAND" = "Ireland (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Spain & Portugal (Visible Spectrum (Sat24))" = "Spain & Portugal (Visible Spectrum (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_IRELAND" = "Ireland (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_ITALY" = "Italy (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Scandinavia (Visible Spectrum (Sat24))" = "Scandinavia (Visible Spectrum (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_ITALY" = "Italy (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_LATVIA" = "Latvia (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"UK & Ireland (Visible Spectrum (Sat24))" = "UK & Ireland (Visible Spectrum (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_LATVIA" = "Latvia (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_LITHUANIA" = "Lithuania (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Alps (Infrared (Sat24))" = "Alps (Infrared (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_LITHUANIA" = "Lithuania (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_LUXEMBOURG" = "Luxembourg (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Benelux (Infrared (Sat24))" = "Benelux (Infrared (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_LUXEMBOURG" = "Luxembourg (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_MOLDOVA" = "Moldova (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"France (Infrared (Sat24))" = "France (Infrared (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_MOLDOVA" = "Moldova (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_MONTENEGRO" = "Montenegro (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Germany (Infrared (Sat24))" = "Germany (Infrared (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_MONTENEGRO" = "Montenegro (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_NETHERLANDS" = "Netherlands (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Greece (Infrared (Sat24))" = "Greece (Infrared (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_NETHERLANDS" = "Netherlands (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_NORTH_MACEDONIA" = "North Macedonia (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Italy (Infrared (Sat24))" = "Italy (Infrared (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_NORTH_MACEDONIA" = "North Macedonia (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_NORWAY" = "Norway (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Poland (Infrared (Sat24))" = "Poland (Infrared (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_NORWAY" = "Norway (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_POLAND" = "Poland (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Turkey (Infrared (Sat24))" = "Turkey (Infrared (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_POLAND" = "Poland (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_PORTUGAL" = "Portugal (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Baltic (Infrared (Sat24))" = "Baltic (Infrared (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_PORTUGAL" = "Portugal (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_ROMANIA" = "Romania (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Balkan (Infrared (Sat24))" = "Balkan (Infrared (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_ROMANIA" = "Romania (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_SERBIA" = "Serbia (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Hungary (Infrared (Sat24))" = "Hungary (Infrared (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_SERBIA" = "Serbia (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_SLOVAKIA" = "Slovakia (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Israel (Infrared (Sat24))" = "Israel (Infrared (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_SLOVAKIA" = "Slovakia (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_SLOVENIA" = "Slovenia (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Romania & Bulgaria (Infrared (Sat24))" = "Romania & Bulgaria (Infrared (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_SLOVENIA" = "Slovenia (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_SPAIN" = "Spain (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Russia (Infrared (Sat24))" = "Russia (Infrared (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_SPAIN" = "Spain (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_SWEDEN" = "Sweden (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Spain & Portugal (Infrared (Sat24))" = "Spain & Portugal (Infrared (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_SWEDEN" = "Sweden (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_SWITZERLAND" = "Switzerland (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"Scandinavia (Infrared (Sat24))" = "Scandinavia (Infrared (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_SWITZERLAND" = "Switzerland (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_UKRAINE" = "Ukraine (Visible Spectrum (Sat24))";
 
 /* No comment provided by engineer. */
-"UK & Ireland (Infrared (Sat24))" = "UK & Ireland (Infrared (Sat24))";
+"SATELLITE_MAP_SAT24_INFRARED_UKRAINE" = "Ukraine (Infrared (Sat24))";
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_VISUAL_UNITED_KINGDOM" = "United Kingdom (Visible Spectrum (Sat24))";
+
+/* No comment provided by engineer. */
+"SATELLITE_MAP_SAT24_INFRARED_UNITED_KINGDOM" = "United Kingdom (Infrared (Sat24))";
 
 /* No comment provided by engineer. */
 "Wind" = "Wind";
