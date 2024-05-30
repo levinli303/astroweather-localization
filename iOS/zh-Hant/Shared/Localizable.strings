@@ -2297,3 +2297,6 @@
 
 /* Error text when current location is not recorded */
 "WIDGET_NEEDS_LOCATION_REFRESH" = "開啟晴天鍾更新當前位置資訊。";
+
+/* Text for action to load more in list */
+"COMMON_LOAD_MORE_TEXT" = "載入更多";

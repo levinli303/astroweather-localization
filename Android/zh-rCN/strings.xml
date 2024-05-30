@@ -738,4 +738,9 @@
 
     <string name="astroweather_fallback_location_beijing_name">北京</string>
     <string name="astroweather_purchase_description">使用晴天钟PRO享受免广告服务。</string>
+
+    <string name="common_text_load_more">加载更多</string>
+
+    <string name="location_permission_prompt_title">需要位置权限</string>
+    <string name="location_permission_prompt_content">要查看当前位置的相关信息，晴天钟将会请求设备位置的权限。</string>
 </resources>

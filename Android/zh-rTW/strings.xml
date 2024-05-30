@@ -711,4 +711,6 @@
 
     <string name="astroweather_fallback_location_beijing_name">北京</string>
     <string name="astroweather_purchase_description">使用晴天鍾PRO享受無廣告服務。</string>
+
+    <string name="common_text_load_more">載入更多</string>
 </resources>

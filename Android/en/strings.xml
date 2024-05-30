@@ -747,4 +747,9 @@
     <string name="astroweather_purchase_description">Go ad-free with Astroweather PRO.</string>
 
     <string name="icpc_text">苏ICP备2023039249号-2A</string>
+
+    <string name="common_text_load_more">Load More</string>
+
+    <string name="location_permission_prompt_title">Location Permission Needed</string>
+    <string name="location_permission_prompt_content">To view information from your current location, Astroweather will now request for permission to access your device location.</string>
 </resources>

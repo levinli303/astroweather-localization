@@ -2297,3 +2297,6 @@
 
 /* Error text when current location is not recorded */
 "WIDGET_NEEDS_LOCATION_REFRESH" = "Open Astroweather to update current location.";
+
+/* Text for action to load more in list */
+"COMMON_LOAD_MORE_TEXT" = "Load More";
