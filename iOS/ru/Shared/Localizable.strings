@@ -314,7 +314,7 @@
 "Report" = "Подать жалобу";
 
 /* No comment provided by engineer. */
-"Report!" = "Подать жалобу!";
+"Block" = "Block";
 
 /* No comment provided by engineer. */
 "Comment here…" = "Прокомментируйте…";
@@ -731,16 +731,13 @@
 "Visible Spectrum (Himawari)" = "Видимый спектр (Himawari)";
 
 /* No comment provided by engineer. */
-"True Color (FY4A)" = "Настоящие цвета (FY4A)";
+"True Color (FY4B)" = "Настоящие цвета (FY4B)";
 
 /* No comment provided by engineer. */
-"Infrared (FY4A)" = "Инфракрасный (FY4A)";
+"Natural Color (FY4B)" = "Natural Color (FY4B)";
 
 /* No comment provided by engineer. */
-"Visible Spectrum (FY4A)" = "Видимый спектр (FY4A)";
-
-/* No comment provided by engineer. */
-"Water Vapor (FY4A)" = "Водяной пар (FY4A)";
+"Sandwich (FY4B)" = "Sandwich (FY4B)";
 
 /* No comment provided by engineer. */
 "RGB Infrared" = "RGB инфракрасный";
@@ -2131,7 +2128,7 @@
 "HELP_TITLE" = "Помощь";
 
 /* No comment provided by engineer. */
-"QUANZI_TITLE" = "Quanzi";
+"QUANZI_TITLE" = "Форум";
 
 /* No comment provided by engineer. */
 "ASTROWEATHER_TAB_ASTRO" = "Астрономический вид";
@@ -2300,3 +2297,18 @@
 
 /* Text for action to load more in list */
 "COMMON_LOAD_MORE_TEXT" = "Load More";
+
+/* Title for the section in settings about Images */
+"SETTINGS_SECTION_IMAGES" = "Images";
+
+/* Title for the setting item to set maximum frame count for animation */
+"SETTINGS_MAXIMUM_FRAME_COUNT_TITLE" = "Maximum Animation Frame Count";
+
+/* No comment provided by engineer. */
+"COMMON_UNLIMITED" = "Снимки";
+
+/* No comment provided by engineer. */
+"QUANZI_ACTION_BLOCK_ALERT_CONFIRMATION_TITLE" = "Block User %@";
+
+/* No comment provided by engineer. */
+"QUANZI_ACTION_BLOCK_ALERT_CONFIRMATION_DETAIL" = "Do you want to block contents posted by this user?";

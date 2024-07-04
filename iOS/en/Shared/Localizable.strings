@@ -314,7 +314,7 @@
 "Report" = "Report";
 
 /* No comment provided by engineer. */
-"Report!" = "Report!";
+"Block" = "Block";
 
 /* No comment provided by engineer. */
 "Comment here…" = "Comment here…";
@@ -731,16 +731,13 @@
 "Visible Spectrum (Himawari)" = "Visible Spectrum (Himawari)";
 
 /* No comment provided by engineer. */
-"True Color (FY4A)" = "True Color (FY4A)";
+"True Color (FY4B)" = "True Color (FY4B)";
 
 /* No comment provided by engineer. */
-"Infrared (FY4A)" = "Infrared (FY4A)";
+"Natural Color (FY4B)" = "Natural Color (FY4B)";
 
 /* No comment provided by engineer. */
-"Visible Spectrum (FY4A)" = "Visible Spectrum (FY4A)";
-
-/* No comment provided by engineer. */
-"Water Vapor (FY4A)" = "Water Vapor (FY4A)";
+"Sandwich (FY4B)" = "Sandwich (FY4B)";
 
 /* No comment provided by engineer. */
 "RGB Infrared" = "RGB Infrared";
@@ -2025,13 +2022,13 @@
 "SATELLITE_MAP_ANIMATION_IMAGE_TITLE" = "Animated Images";
 
 /* No comment provided by engineer. */
-"TAB_TITLE_ASTROWEATHER" = "Astroweather";
+"TAB_TITLE_ASTROWEATHER" = "Weather";
 
 /* No comment provided by engineer. */
 "TAB_TITLE_EVENTS" = "Events";
 
 /* No comment provided by engineer. */
-"TAB_TITLE_CHARTS_AND_IMAGES" = "Charts & Images";
+"TAB_TITLE_CHARTS_AND_IMAGES" = "Images";
 
 /* No comment provided by engineer. */
 "TAB_TITLE_FORUM" = "Forum";
@@ -2130,7 +2127,7 @@
 "HELP_TITLE" = "Help";
 
 /* No comment provided by engineer. */
-"QUANZI_TITLE" = "Quanzi";
+"QUANZI_TITLE" = "Forum";
 
 /* No comment provided by engineer. */
 "ASTROWEATHER_TAB_ASTRO" = "Astro";
@@ -2299,3 +2296,18 @@
 
 /* Text for action to load more in list */
 "COMMON_LOAD_MORE_TEXT" = "Load More";
+
+/* Title for the section in settings about Images */
+"SETTINGS_SECTION_IMAGES" = "Images";
+
+/* Title for the setting item to set maximum frame count for animation */
+"SETTINGS_MAXIMUM_FRAME_COUNT_TITLE" = "Maximum Animation Frame Count";
+
+/* No comment provided by engineer. */
+"COMMON_UNLIMITED" = "Unlimited";
+
+/* No comment provided by engineer. */
+"QUANZI_ACTION_BLOCK_ALERT_CONFIRMATION_TITLE" = "Block User %@";
+
+/* No comment provided by engineer. */
+"QUANZI_ACTION_BLOCK_ALERT_CONFIRMATION_DETAIL" = "Do you want to block contents posted by this user?";

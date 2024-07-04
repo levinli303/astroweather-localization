@@ -1,10 +1,10 @@
 <resources>
-    <string name="title_astroweather">Astroweather</string>
+    <string name="title_astroweather">Weather</string>
     <string name="title_setting">Settings</string>
     <string name="title_event">Events</string>
-    <string name="title_quanzi">Quanzi</string>
+    <string name="title_quanzi">Forum</string>
     <string name="title_navigation_quanzi">Forum</string>
-    <string name="title_satellite">Charts &amp; Images</string>
+    <string name="title_satellite">Images</string>
     <string name="title_pick_location">Pick Location</string>
     <string name="title_set_name">Set Name</string>
     <string name="action_refresh">Refresh</string>
@@ -110,10 +110,9 @@
     <string name="satellite_type_rgb_infrared_enhanced_himawari">RGB Infrared Enhanced (Himawari)</string>
     <string name="satellite_type_bw_infrared_himawari">Black/White Infrared (Himawari)</string>
     <string name="satellite_type_visible_spectrum_himawari">Visible Spectrum (Himawari)</string>
-    <string name="satellite_type_true_color_fy4a">True Color (FY4A)</string>
-    <string name="satellite_type_infrared_fy4a">Infrared (FY4A)</string>
-    <string name="satellite_type_visible_spectrum_fy4a">Visible Spectrum (FY4A)</string>
-    <string name="satellite_type_water_vapor_fy4a">Water Vapor (FY4A)</string>
+    <string name="satellite_type_true_color_fy4b">True Color (FY4B)</string>
+    <string name="satellite_type_natural_color_fy4b">Natural Color (FY4B)</string>
+    <string name="satellite_type_sandwich_fy4b">Sandwich (FY4B)</string>
     <string name="satellite_type_rgb_infrared">RGB Infrared</string>
     <string name="satellite_type_rgb_infrared_enhanced">RGB Infrared Enhanced</string>
     <string name="satellite_type_bw_infrared">Black/White Infrared</string>
@@ -752,4 +751,8 @@
 
     <string name="location_permission_prompt_title">Location Permission Needed</string>
     <string name="location_permission_prompt_content">To view information from your current location, Astroweather will now request for permission to access your device location.</string>
+
+    <string name="setting_section_images">Images</string>
+    <string name="setting_item_maximum_frame_count">Maximum Animation Frame Count</string>
+    <string name="common_unlimited">Unlimited</string>
 </resources>

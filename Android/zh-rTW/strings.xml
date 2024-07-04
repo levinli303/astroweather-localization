@@ -97,10 +97,9 @@
     <string name="satellite_type_rgb_infrared_enhanced_himawari">紅外色調強化（向日葵）</string>
     <string name="satellite_type_bw_infrared_himawari">紅外黑白（向日葵）</string>
     <string name="satellite_type_visible_spectrum_himawari">可見光（向日葵）</string>
-    <string name="satellite_type_true_color_fy4a">真彩色（風雲四號）</string>
-    <string name="satellite_type_infrared_fy4a">紅外（風雲四號）</string>
-    <string name="satellite_type_visible_spectrum_fy4a">可見光（風雲四號）</string>
-    <string name="satellite_type_water_vapor_fy4a">水汽（風雲四號）</string>
+    <string name="satellite_type_true_color_fy4b">真彩色（風雲四號B）</string>
+    <string name="satellite_type_natural_color_fy4b">自然色（風雲四號B）</string>
+    <string name="satellite_type_sandwich_fy4b">Sandwich（風雲四號B）</string>
     <string name="satellite_type_rgb_infrared">紅外全綵</string>
     <string name="satellite_type_rgb_infrared_enhanced">紅外色調強化</string>
     <string name="satellite_type_bw_infrared">紅外黑白</string>
@@ -704,7 +703,7 @@
     <string name="event_no_event_hint">無天文事件</string>
 
     <string name="setting_section_info">資訊</string>
-    <string name="setting_section_preferences">偏好設定</string>
+    <string name="setting_section_preferences">偏好</string>
     <string name="setting_section_tools">工具</string>
     <string name="widget_unable_to_update">無法更新小元件</string>
     <string name="event_show_details">顯示詳情（英語）</string>
@@ -713,4 +712,8 @@
     <string name="astroweather_purchase_description">使用晴天鍾PRO享受無廣告服務。</string>
 
     <string name="common_text_load_more">載入更多</string>
+
+    <string name="setting_section_images">氣象圖</string>
+    <string name="setting_item_maximum_frame_count">最大動圖幀數</string>
+    <string name="common_unlimited">無限</string>
 </resources>

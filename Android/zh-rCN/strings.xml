@@ -109,10 +109,9 @@
     <string name="satellite_type_rgb_infrared_enhanced_himawari">红外色调强化（向日葵）</string>
     <string name="satellite_type_bw_infrared_himawari">红外黑白（向日葵）</string>
     <string name="satellite_type_visible_spectrum_himawari">可见光（向日葵）</string>
-    <string name="satellite_type_true_color_fy4a">真彩色（风云四号）</string>
-    <string name="satellite_type_infrared_fy4a">红外（风云四号）</string>
-    <string name="satellite_type_visible_spectrum_fy4a">可见光（风云四号）</string>
-    <string name="satellite_type_water_vapor_fy4a">水汽（风云四号）</string>
+    <string name="satellite_type_true_color_fy4b">真彩色（风云四号B）</string>
+    <string name="satellite_type_natural_color_fy4b">自然色（风云四号B）</string>
+    <string name="satellite_type_sandwich_fy4b">Sandwich（风云四号B）</string>
     <string name="satellite_type_rgb_infrared">红外全彩</string>
     <string name="satellite_type_rgb_infrared_enhanced">红外色调强化</string>
     <string name="satellite_type_bw_infrared">红外黑白</string>
@@ -743,4 +742,8 @@
 
     <string name="location_permission_prompt_title">需要位置权限</string>
     <string name="location_permission_prompt_content">要查看当前位置的相关信息，晴天钟将会请求设备位置的权限。</string>
+
+    <string name="setting_section_images">气象图</string>
+    <string name="setting_item_maximum_frame_count">最大动图帧数</string>
+    <string name="common_unlimited">无限</string>
 </resources>

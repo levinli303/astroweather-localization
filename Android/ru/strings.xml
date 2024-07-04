@@ -110,10 +110,9 @@
     <string name="satellite_type_rgb_infrared_enhanced_himawari">RGB контрастный инфракрасный (Himawari)</string>
     <string name="satellite_type_bw_infrared_himawari">Чёрно-белый инфракрасный (Himawari)</string>
     <string name="satellite_type_visible_spectrum_himawari">Видимый спектр (Himawari)</string>
-    <string name="satellite_type_true_color_fy4a">Настоящие цвета (FY4A)</string>
-    <string name="satellite_type_infrared_fy4a">Инфракрасный (FY4A)</string>
-    <string name="satellite_type_visible_spectrum_fy4a">Видимый спектр (FY4A)</string>
-    <string name="satellite_type_water_vapor_fy4a">Водяной пар (FY4A)</string>
+    <string name="satellite_type_true_color_fy4b">Настоящие цвета (FY4B)</string>
+    <string name="satellite_type_natural_color_fy4b">Natural Color (FY4B)</string>
+    <string name="satellite_type_sandwich_fy4b">Sandwich (FY4B)</string>
     <string name="satellite_type_rgb_infrared">RGB инфракрасный</string>
     <string name="satellite_type_rgb_infrared_enhanced">RGB контрастный инфракрасный</string>
     <string name="satellite_type_bw_infrared">Чёрно-белый инфракрасный</string>
@@ -745,4 +744,8 @@
 
     <string name="astroweather_fallback_location_beijing_name">Пекин</string>
     <string name="astroweather_purchase_description">Работайте без рекламы в Astroweather PRO.</string>
+
+    <string name="setting_section_images">Снимки</string>
+    <string name="setting_item_maximum_frame_count">Maximum Animation Frame Count</string>
+    <string name="common_unlimited">Unlimited</string>
 </resources>
