@@ -39,7 +39,7 @@
     <string name="help_section_instruction2">Астрономическая видимость. Слева направо: &lt;0,5″, 0,5″–0,75″, 0,75″–1″, 1″–1,25″, 1,25″–1,5″, 1,5″–2″, 2″–2,5″, &gt;2,5″. Если кратко, чем меньше и насыщеннее круг, тем лучшего углового разрешения можно ожидать.</string>
     <string name="help_section_instruction3">Прозрачность атмосферы. Слева направо: &lt;0,3, 0,3–0,4, 0,4–0,5, 0,5–0,6, 0,6–0,7, 0,7–0,85, 0,85–1, &gt;1 (ед. измерения: зв. вел. на массу воздуха). Если кратко, чем меньше полос и больше их насыщенность, тем меньшего атмосферного поглощения тусклых объектов можно ожидать.</string>
     <string name="help_section_instruction4">Вероятность дождя или снега.</string>
-    <string name="help_section_instruction5">Турбулентность атмосферы. Слева направо: смещённый индекс от 0 до −3, от −3 до −5 и ниже −5.</string>
+    <string name="help_section_instruction5">Турбулентность атмосферы. Слева направо: смещённый индекс от 0 до -3, от -3 до -5 и ниже -5.</string>
     <string name="help_section_instruction6" formatted="false">Предупреждение о влажной погоде. Слева направо: относительная влажность в промежутках 80%–90%, 90%–95% и более 95%.</string>
     <string name="help_section_instruction7">Предупреждение о ветреной погоде. Слева направо: постоянная скорость ветра от 8,0 до 10,8 м/с (свежий), от 10,8 до 17,2 м/с (сильный) и более 17,2 м/с (штормовой или сильнее).</string>
     <string name="help_section_instruction8">Индикатор направления ветра, стрелка вверх указывает на южный ветер (ветер с юга).</string>
@@ -246,7 +246,7 @@
     <string name="common_proportion_format">%1$s / %2$s</string>
     <string name="common_range_lower_to_upper">%1$s – %2$s</string>
     <string name="common_range_less_than">&lt; %s</string>
-    <string name="common_range_greater_than">&gt;%s</string>
+    <string name="common_range_greater_than">&gt; %s</string>
     <string name="common_speed_formatter">%sм/с</string>
     <string name="common_arcsecond_formatter">%s″</string>
 
@@ -273,9 +273,6 @@
 
     <string name="setting_about_7timer_header">Астропогода (7Timer!)</string>
     <string name="setting_about_7timer_info">7Timer! это ряд продуктов онлайн-прогноза, основанная на цифровой модели погоды NOAA/NCEP (Global Forecast System, GFS). 7Timer! был впервые представлен в июле 2005 года как исследовательский проект при поддержке Национальной астрономической обсерватории Китая и был в значительной степени модернизирован в 2008 и 2011 годах. В настоящее время он поддерживается Шанхайской астрономической обсерваторией Китайской академии наук. Первоначально разработан как инструмент прогноза погоды для астрономических целей, поскольку самого автора всегда раздражали переменчивые погодные условия, мешающие наблюдениям.</string>
-
-    <string name="setting_about_light_pollution_header">Карта засветки</string>
-    <string name="setting_about_light_pollution_info">Данные карты засветки получены из World Atlas 2015.\n\nCredits: Falchi, Fabio; Cinzano, Pierantonio; Duriscoe, Dan; Kyba, Christopher C. M.; Elvidge, Christopher D.; Baugh, Kimberly; Portnov, Boris; Rybnikova, Nataliya A.; Furgoni, Riccardo (2016): Supplement to: The New World Atlas of Artificial Night Sky Brightness. GFZ Data Services. http://doi.org/10.5880/GFZ.1.4.2016.001 Falchi F, Cinzano P, Duriscoe D, Kyba CC, Elvidge CD, Baugh K, Portnov BA, Rybnikova NA, Furgoni R. The new world atlas of artificial night sky brightness. Science Advances. 2016 Jun 1;2(6):e1600377.</string>
 
     <string name="setting_about_riset_header">Восход и заход</string>
     <string name="setting_about_riset_info">Время восхода и захода небесных тел рассчитывается на вашем устройстве без необходимости подключения к Интернету.</string>
@@ -479,6 +476,7 @@
     <string name="event_select_start_time">Выберите дату начала</string>
     <string name="event_select_end_time">Выберите дату окончания</string>
     <string name="event_select_time_range">Выберите даты</string>
+    <string name="sky_chart_configuration_select_location">Select Observer Location</string>
     <string name="event_history_menu">История</string>
     <string name="astro_cloud_cover_hint">Облачность %s</string>
     <string name="astro_seeing_hint">Видимость %s</string>
@@ -716,20 +714,21 @@
     <string name="sky_chart_teaching_card_detail">Эта страница показывает карту звёздного неба на выбранное время в указанном местоположении.\nЛево → Восток, Верх → Север, Право → Запад, Низ → Юг.\nВы можете настроить карту звёздного неба переключателями.</string>
     <string name="astroweather_teaching_card_title">Нажмите сюда, чтобы получить пояснения к каждому параметру.\nВы также можете попробовать нажать на некоторые элементы, чтобы увидеть числовую характеристику.</string>
     <string name="light_pollution_teaching_card_default_title">Легенда карты. Нажмите на цветной квадрат для просмотра его значения.</string>
-    <string name="light_pollution_teaching_card_title_black">Отношение к естественной яркости: &lt; 0,01\nИскусственная яркость (мккд/м²): &lt; 1,74\nПриблизительная общая яркость (мкд/м²): &lt; 0,176</string>
-    <string name="light_pollution_teaching_card_title_dark_gray">Отношение к естественной яркости: 0,01 – 0,02\nИскусственная яркость (мккд/м²): 1,74 – 3,48\nПриблизительная общая яркость (мкд/м²): 0,176 – 0,177</string>
-    <string name="light_pollution_teaching_card_title_gray">Отношение к естественной яркости: 0,02 – 0,04\nИскусственная яркость (мккд/м²): 3,48 – 6,96\nПриблизительная общая яркость (мкд/м²): 0,177 – 0,181</string>
-    <string name="light_pollution_teaching_card_title_dark_blue">Отношение к естественной яркости: 0,04 – 0,08\nИскусственная яркость (мккд/м²): 6,96 – 13,9\nПриблизительная общая яркость (мкд/м²): 0,181 – 0,188</string>
-    <string name="light_pollution_teaching_card_title_blue">Отношение к естественной яркости: 0,08 – 0,16\nИскусственная яркость (мккд/м²): 13,9 – 27,8\nПриблизительная общая яркость (мкд/м²): 0,188 – 0,202</string>
-    <string name="light_pollution_teaching_card_title_light_blue">Отношение к естественной яркости: 0,16 – 0,32\nИскусственная яркость (мккд/м²): 27,8 – 55,7\nПриблизительная общая яркость (мкд/м²): 0,202 – 0,230</string>
-    <string name="light_pollution_teaching_card_title_dark_green">Отношение к естественной яркости: 0,32 – 0,64\nИскусственная яркость (мккд/м²): 55,7 – 111\nПриблизительная общая яркость (мкд/м²): 0,230 – 0,285</string>
-    <string name="light_pollution_teaching_card_title_green">Отношение к естественной яркости: 0,64 – 1,28\nИскусственная яркость (мккд/м²): 111 – 223\nПриблизительная общая яркость (мкд/м²): 0,285 – 0,397</string>
-    <string name="light_pollution_teaching_card_title_yellow">Отношение к естественной яркости: 1,28 – 2,56\nИскусственная яркость (мккд/м²): 223 – 445\nПриблизительная общая яркость (мкд/м²): 0,397 – 0,619</string>
-    <string name="light_pollution_teaching_card_title_orange">Отношение к естественной яркости: 2,56 – 5,12\nИскусственная яркость (мккд/м²): 445 – 890\nПриблизительная общая яркость (мкд/м²): 0,619 – 1,065</string>
-    <string name="light_pollution_teaching_card_title_red">Отношение к естественной яркости: 5,12 – 10,2\nИскусственная яркость (мккд/м²): 890 – 1780\nПриблизительная общая яркость (мкд/м²): 1,065 – 1,96</string>
-    <string name="light_pollution_teaching_card_title_magenta">Отношение к естественной яркости: 10,2 – 20,5\nИскусственная яркость (мккд/м²): 1780 – 3560\nПриблизительная общая яркость (мкд/м²): 1,96 – 3,74</string>
-    <string name="light_pollution_teaching_card_title_pink">Отношение к естественной яркости: 20,5 – 41\nИскусственная яркость (мккд/м²): 3560 – 7130\nПриблизительная общая яркость (мкд/м²): 3,74 – 7,30</string>
-    <string name="light_pollution_teaching_card_title_white">Отношение к естественной яркости: &gt; 41\nИскусственная яркость (мккд/м²): &gt; 7130\nПриблизительная общая яркость (мкд/м²): &gt; 7,30</string>
+    <string name="light_pollution_teaching_card_title_black">Artificial / Natural Sky Brightness: &lt; 0.01\nSky Brightness: 22.00 – 21.99 mags / sq arcsec\nTheoretically darkest sky limited by air glow and starlight.</string>
+    <string name="light_pollution_teaching_card_title_dark_gray">Artificial / Natural Sky Brightness: 0.01 – 0.06\nSky Brightness: 21.99 – 21.93 mags / sq arcsec\nGegenschein visible. Zodiacal light annoyingly bright. Rising Milky Way confuses some into thinking it\'s dawn. Limiting magnitude 7.6 to 8.0 for people with exceptional vision. Users of large Dobsonian telescopes are very happy.</string>
+    <string name="light_pollution_teaching_card_title_gray">Artificial / Natural Sky Brightness: 0.06 – 0.11\nSky Brightness: 21.93 – 21.89 mags / sq arcsec\nFaint shadows cast by Milky Way visible on white objects. Clouds are black holes in the sky. No light domes. The Milky Way has faint extensions making it 50 degrees thick. Limiting magnitude 7.1 to 7.5.</string>
+    <string name="light_pollution_teaching_card_title_dark_blue">Artificial / Natural Sky Brightness: 0.11 – 0.19\nSky Brightness: 21.89 – 21.81 mags / sq arcsec</string>
+    <string name="light_pollution_teaching_card_title_blue">Artificial / Natural Sky Brightness: 0.19 – 0.33\nSky Brightness: 21.81 – 21.69 mags / sq arcsec\nThe sky is crowded with stars, extending to the horizon in all directions. In the absence of haze the M.W. can be seen to the horizon. Clouds appear as black silhouettes against the sky. Stars look large and close. Low light domes (10 to 15 degrees) on horizon. M33 easy with averted vision. M15 is naked eye. Milky way shows bulge into Ophiuchus. Limiting magnitude 6.6 to 7.0.</string>
+    <string name="light_pollution_teaching_card_title_dark_green">Artificial / Natural Sky Brightness: 0.33 – 0.58\nSky Brightness: 21.69 – 21.51 mags / sq arcsec\nA glow in the direction of one or more cities is seen on the horizon. Clouds are bright near the city glow.</string>
+    <string name="light_pollution_teaching_card_title_green">Artificial / Natural Sky Brightness: 0.58 – 1.00\nSky Brightness: 21.51 – 21.25 mags / sq arcsec\nZodiacal light seen on best nights. Milky Way shows much dark lane structure with beginnings of faint bulge into Ophiuchus. M33 difficult even when above 50 degrees. Limiting magnitude about 6.2 to 6.5.</string>
+    <string name="light_pollution_teaching_card_title_dark_yellow">Artificial / Natural Sky Brightness: 1.00 – 1.73\nSky Brightness: 21.25 – 20.91 mags / sq arcsec\nThe M.W. is brilliant overhead but cannot be seen near the horizon. Clouds have a greyish glow at the zenith and appear bright in the direction of one or more prominent city glows. Some dark lanes in Milky Way but no bulge into Ophiuchus. Washed out Milky Way visible near horizon. Zodiacal light very rare. Light domes up to 45 degrees. Limiting magnitude about 5.9 to 6.2.</string>
+    <string name="light_pollution_teaching_card_title_yellow">Artificial / Natural Sky Brightness: 1.73 – 3.00\nSky Brightness: 20.91 – 20.49 mags / sq arcsec</string>
+    <string name="light_pollution_teaching_card_title_dark_orange">Artificial / Natural Sky Brightness: 3.00 – 5.20\nSky Brightness: 20.49 – 20.02 mags / sq arcsec\nTo a city dweller the M.W. is magnificent, but contrast is markedly reduced, and delicate detail is lost. Limiting magnitude is noticeably reduced. Clouds are bright against the zenith sky. Stars no longer appear large and near. Milky Way washed out at zenith and invisible at horizon. Many light domes. Clouds are brighter than sky. M31 easily visible. Limiting magnitude about 5.6 to 5.9.</string>
+    <string name="light_pollution_teaching_card_title_orange">Artificial / Natural Sky Brightness: 5.20 – 9.00\nSky Brightness: 20.02 – 19.50 mags / sq arcsec</string>
+    <string name="light_pollution_teaching_card_title_dark_red">Artificial / Natural Sky Brightness: 9.00 – 15.59\nSky Brightness: 19.50 – 18.95 mags / sq arcsec\nM.W. is marginally visible, and only near the zenith. Sky is bright and discolored near the horizon in the direction of cities. The sky looks dull grey. Milky Way at best very faint at zenith. M31 difficult and indistinct. Sky is grey up to 35 degrees. Limiting magnitude 5.0 to 5.5.</string>
+    <string name="light_pollution_teaching_card_title_red">Artificial / Natural Sky Brightness: 15.59 – 27.00\nSky Brightness: 18.95 – 18.38 mags / sq arcsec</string>
+    <string name="light_pollution_teaching_card_title_light_gray">Artificial / Natural Sky Brightness: 27.00 – 46.77\nSky Brightness: 18.38 – 17.80 mags / sq arcsec\nEntire sky is grayish or brighter. Familiar constellations are missing stars. Fainter constellations are absent. Less than 20 stars visible over 30 degrees elevation in brighter areas. Limiting magnitude from 3 to 4. CCD imaging is still possible. But telescopic visual observation is usually limited to the moon, planets, double stars and variable stars.</string>
+    <string name="light_pollution_teaching_card_title_white">Artificial / Natural Sky Brightness: &gt; 46.77\nSky Brightness: &lt; 17.80 mags / sq arcsec\nStars are weak and washed out, and reduced to a few hundred. The sky is bright and discolored everywhere. Most people don\'t look up.</string>
 
     <string name="astro_visible_section_title">Этой ночью видны</string>
     <string name="spacecraft_passes_sky_chart_not_visible_info_text">Синяя кривая — траектория космического аппарата.</string>
@@ -748,4 +747,9 @@
     <string name="setting_section_images">Снимки</string>
     <string name="setting_item_maximum_frame_count">Maximum Animation Frame Count</string>
     <string name="common_unlimited">Unlimited</string>
+    <string name="moonphase_template">%1$s %2$s</string>
+
+    <string name="light_pollution_about_title">About Light Pollution</string>
+    <string name="light_pollution_info_menu_item_title">Информация</string>
+    <string name="light_pollution_about_content">The map resources are from David Lorenz\'s Light Pollution Atlas 2022: https://djlorenz.github.io/astronomy/lp2022/</string>
 </resources>

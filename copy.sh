@@ -43,32 +43,19 @@ copy_ios()
 {
   echo "Copying iOS localization resources for $1"
 
-  DIR=$IOS_APP_DIR/Shared/Resources/$1.lproj
-  make_dir_if_not_exists $DIR
-  copy $2/Shared/Localizable.strings $DIR/Localizable.strings $3
-
-  echo "Copying shared done"
-
-  if [ "$1" == "en" ]
-  then
-    DIR=$IOS_APP_DIR/Astroweather/Base.lproj
-  else
-    DIR=$IOS_APP_DIR/Astroweather/$1.lproj
-  fi
-  make_dir_if_not_exists $DIR
-  copy $2/App/InfoPlist.strings $DIR/InfoPlist.strings $3
-
-  echo "Copying main done"
-
-  DIR=$IOS_APP_DIR/AstroweatherToday/$1.lproj
-  make_dir_if_not_exists $DIR
-  copy $2/AstroweatherToday/InfoPlist.strings $DIR/InfoPlist.strings $3
-  if [ "$1" != "en" ]
-  then
-    copy $2/AstroweatherToday/MainInterface.strings $DIR/MainInterface.strings $3
+  if [ "$1" == "en" ]; then
+    DIR=$IOS_APP_DIR/Shared/Resources
+    make_dir_if_not_exists $DIR
+    copy $2/Shared/Localizable.xcstrings $DIR/Localizable.xcstrings $3
+    echo "Copying shared done"
   fi
 
-  echo "Copying astroweather today done"
+  if [ "$1" == "en" ]; then
+    DIR=$IOS_APP_DIR/Astroweather
+    make_dir_if_not_exists $DIR
+    copy $2/App/InfoPlist.xcstrings $DIR/InfoPlist.xcstrings $3
+    echo "Copying main done"
+  fi
 
   DIR=$IOS_APP_DIR/AstroweatherWidget/$1.lproj
   make_dir_if_not_exists $DIR
