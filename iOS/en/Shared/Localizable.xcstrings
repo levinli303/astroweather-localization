@@ -1370,7 +1370,7 @@
       }
     },
     "Altitude" : {
-
+      "shouldTranslate" : false
     },
     "Aludra" : {
       "localizations" : {
@@ -1688,16 +1688,16 @@
       }
     },
     "AS Location" : {
-
+      "shouldTranslate" : false
     },
     "AS Object" : {
-
+      "shouldTranslate" : false
     },
     "AS Satellite Data" : {
-
+      "shouldTranslate" : false
     },
     "AS Spacecraft" : {
-
+      "shouldTranslate" : false
     },
     "Aspidiske" : {
       "localizations" : {
@@ -3565,7 +3565,7 @@
       }
     },
     "Clear Outside" : {
-
+      "shouldTranslate" : false
     },
     "Close" : {
       "localizations" : {
@@ -4617,7 +4617,7 @@
       }
     },
     "Configuration" : {
-
+      "shouldTranslate" : false
     },
     "Cooling Tower" : {
       "localizations" : {
@@ -6988,7 +6988,7 @@
       }
     },
     "ID" : {
-
+      "shouldTranslate" : false
     },
     "Indus" : {
       "localizations" : {
@@ -7101,7 +7101,7 @@
       }
     },
     "Key" : {
-
+      "shouldTranslate" : false
     },
     "Kochab" : {
       "localizations" : {
@@ -7280,7 +7280,7 @@
       }
     },
     "Latitude" : {
-
+      "shouldTranslate" : false
     },
     "Leo" : {
       "localizations" : {
@@ -7582,7 +7582,7 @@
       }
     },
     "Longitude" : {
-
+      "shouldTranslate" : false
     },
     "Lunar Phase" : {
       "localizations" : {
@@ -7673,334 +7673,334 @@
       }
     },
     "M1" : {
-
+      "shouldTranslate" : false
     },
     "M2" : {
-
+      "shouldTranslate" : false
     },
     "M3" : {
-
+      "shouldTranslate" : false
     },
     "M4" : {
-
+      "shouldTranslate" : false
     },
     "M5" : {
-
+      "shouldTranslate" : false
     },
     "M6" : {
-
+      "shouldTranslate" : false
     },
     "M7" : {
-
+      "shouldTranslate" : false
     },
     "M8" : {
-
+      "shouldTranslate" : false
     },
     "M9" : {
-
+      "shouldTranslate" : false
     },
     "M10" : {
-
+      "shouldTranslate" : false
     },
     "M11" : {
-
+      "shouldTranslate" : false
     },
     "M12" : {
-
+      "shouldTranslate" : false
     },
     "M13" : {
-
+      "shouldTranslate" : false
     },
     "M14" : {
-
+      "shouldTranslate" : false
     },
     "M15" : {
-
+      "shouldTranslate" : false
     },
     "M16" : {
-
+      "shouldTranslate" : false
     },
     "M17" : {
-
+      "shouldTranslate" : false
     },
     "M18" : {
-
+      "shouldTranslate" : false
     },
     "M19" : {
-
+      "shouldTranslate" : false
     },
     "M20" : {
-
+      "shouldTranslate" : false
     },
     "M21" : {
-
+      "shouldTranslate" : false
     },
     "M22" : {
-
+      "shouldTranslate" : false
     },
     "M23" : {
-
+      "shouldTranslate" : false
     },
     "M24" : {
-
+      "shouldTranslate" : false
     },
     "M25" : {
-
+      "shouldTranslate" : false
     },
     "M26" : {
-
+      "shouldTranslate" : false
     },
     "M27" : {
-
+      "shouldTranslate" : false
     },
     "M28" : {
-
+      "shouldTranslate" : false
     },
     "M29" : {
-
+      "shouldTranslate" : false
     },
     "M30" : {
-
+      "shouldTranslate" : false
     },
     "M31" : {
-
+      "shouldTranslate" : false
     },
     "M32" : {
-
+      "shouldTranslate" : false
     },
     "M33" : {
-
+      "shouldTranslate" : false
     },
     "M34" : {
-
+      "shouldTranslate" : false
     },
     "M35" : {
-
+      "shouldTranslate" : false
     },
     "M36" : {
-
+      "shouldTranslate" : false
     },
     "M37" : {
-
+      "shouldTranslate" : false
     },
     "M38" : {
-
+      "shouldTranslate" : false
     },
     "M39" : {
-
+      "shouldTranslate" : false
     },
     "M40" : {
-
+      "shouldTranslate" : false
     },
     "M41" : {
-
+      "shouldTranslate" : false
     },
     "M42" : {
-
+      "shouldTranslate" : false
     },
     "M43" : {
-
+      "shouldTranslate" : false
     },
     "M44" : {
-
+      "shouldTranslate" : false
     },
     "M45" : {
-
+      "shouldTranslate" : false
     },
     "M46" : {
-
+      "shouldTranslate" : false
     },
     "M47" : {
-
+      "shouldTranslate" : false
     },
     "M48" : {
-
+      "shouldTranslate" : false
     },
     "M49" : {
-
+      "shouldTranslate" : false
     },
     "M50" : {
-
+      "shouldTranslate" : false
     },
     "M51" : {
-
+      "shouldTranslate" : false
     },
     "M52" : {
-
+      "shouldTranslate" : false
     },
     "M53" : {
-
+      "shouldTranslate" : false
     },
     "M54" : {
-
+      "shouldTranslate" : false
     },
     "M55" : {
-
+      "shouldTranslate" : false
     },
     "M56" : {
-
+      "shouldTranslate" : false
     },
     "M57" : {
-
+      "shouldTranslate" : false
     },
     "M58" : {
-
+      "shouldTranslate" : false
     },
     "M59" : {
-
+      "shouldTranslate" : false
     },
     "M60" : {
-
+      "shouldTranslate" : false
     },
     "M61" : {
-
+      "shouldTranslate" : false
     },
     "M62" : {
-
+      "shouldTranslate" : false
     },
     "M63" : {
-
+      "shouldTranslate" : false
     },
     "M64" : {
-
+      "shouldTranslate" : false
     },
     "M65" : {
-
+      "shouldTranslate" : false
     },
     "M66" : {
-
+      "shouldTranslate" : false
     },
     "M67" : {
-
+      "shouldTranslate" : false
     },
     "M68" : {
-
+      "shouldTranslate" : false
     },
     "M69" : {
-
+      "shouldTranslate" : false
     },
     "M70" : {
-
+      "shouldTranslate" : false
     },
     "M71" : {
-
+      "shouldTranslate" : false
     },
     "M72" : {
-
+      "shouldTranslate" : false
     },
     "M73" : {
-
+      "shouldTranslate" : false
     },
     "M74" : {
-
+      "shouldTranslate" : false
     },
     "M75" : {
-
+      "shouldTranslate" : false
     },
     "M76" : {
-
+      "shouldTranslate" : false
     },
     "M77" : {
-
+      "shouldTranslate" : false
     },
     "M78" : {
-
+      "shouldTranslate" : false
     },
     "M79" : {
-
+      "shouldTranslate" : false
     },
     "M80" : {
-
+      "shouldTranslate" : false
     },
     "M81" : {
-
+      "shouldTranslate" : false
     },
     "M82" : {
-
+      "shouldTranslate" : false
     },
     "M83" : {
-
+      "shouldTranslate" : false
     },
     "M84" : {
-
+      "shouldTranslate" : false
     },
     "M85" : {
-
+      "shouldTranslate" : false
     },
     "M86" : {
-
+      "shouldTranslate" : false
     },
     "M87" : {
-
+      "shouldTranslate" : false
     },
     "M88" : {
-
+      "shouldTranslate" : false
     },
     "M89" : {
-
+      "shouldTranslate" : false
     },
     "M90" : {
-
+      "shouldTranslate" : false
     },
     "M91" : {
-
+      "shouldTranslate" : false
     },
     "M92" : {
-
+      "shouldTranslate" : false
     },
     "M93" : {
-
+      "shouldTranslate" : false
     },
     "M94" : {
-
+      "shouldTranslate" : false
     },
     "M95" : {
-
+      "shouldTranslate" : false
     },
     "M96" : {
-
+      "shouldTranslate" : false
     },
     "M97" : {
-
+      "shouldTranslate" : false
     },
     "M98" : {
-
+      "shouldTranslate" : false
     },
     "M99" : {
-
+      "shouldTranslate" : false
     },
     "M100" : {
-
+      "shouldTranslate" : false
     },
     "M101" : {
-
+      "shouldTranslate" : false
     },
     "M102" : {
-
+      "shouldTranslate" : false
     },
     "M103" : {
-
+      "shouldTranslate" : false
     },
     "M104" : {
-
+      "shouldTranslate" : false
     },
     "M105" : {
-
+      "shouldTranslate" : false
     },
     "M106" : {
-
+      "shouldTranslate" : false
     },
     "M107" : {
-
+      "shouldTranslate" : false
     },
     "M108" : {
-
+      "shouldTranslate" : false
     },
     "M109" : {
-
+      "shouldTranslate" : false
     },
     "M110" : {
-
+      "shouldTranslate" : false
     },
     "MAP_SELECTION_LOCATION_NEW_NAME_HINT" : {
       "localizations" : {
@@ -8286,7 +8286,7 @@
       }
     },
     "Meteoblue" : {
-
+      "shouldTranslate" : false
     },
     "Miaplacidus" : {
       "localizations" : {
@@ -8604,7 +8604,7 @@
       }
     },
     "Name" : {
-
+      "shouldTranslate" : false
     },
     "Naos" : {
       "localizations" : {
@@ -8913,7 +8913,7 @@
       }
     },
     "Next Spacecraft Pass Configuration" : {
-
+      "shouldTranslate" : false
     },
     "NEXT_FULL_MOON_TEMPLATE" : {
       "localizations" : {
@@ -11681,7 +11681,7 @@
       }
     },
     "Riset Configuration" : {
-
+      "shouldTranslate" : false
     },
     "RISET_TEMPLATE_ALTITUDE" : {
       "comment" : "Template for showing altitude, %@ is the altitude expression",
@@ -11918,7 +11918,7 @@
       }
     },
     "Satellite Configuration" : {
-
+      "shouldTranslate" : false
     },
     "SATELLITE_MAP_ANIMATION_IMAGE_CREATE_FAILED" : {
       "localizations" : {
