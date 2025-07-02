@@ -23,28 +23,6 @@
         }
       }
     },
-    "@%@:" : {
-      "localizations" : {
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "@%@:"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "@%@："
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "@%@："
-          }
-        }
-      }
-    },
     "%@" : {
       "localizations" : {
         "ru" : {
@@ -213,50 +191,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ 過境"
-          }
-        }
-      }
-    },
-    "%@ sent you a message" : {
-      "localizations" : {
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@ вам отправил(а) сообщение"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@ 给你发了一条信息"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@ 給你發了一條資訊"
-          }
-        }
-      }
-    },
-    "%@ sent you a reply" : {
-      "localizations" : {
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@ вам ответил(а)"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@ 回复了你"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@ 回覆了你"
           }
         }
       }
@@ -840,34 +774,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "顯示星圖"
-          }
-        }
-      }
-    },
-    "ACTION_VIEW_MESSAGE" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "View"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Посмотреть"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "查看"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "檢視"
           }
         }
       }
@@ -3677,72 +3583,6 @@
         }
       }
     },
-    "Comment Failed" : {
-      "localizations" : {
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Не удалось оставить комментарий"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "评论失败"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "評論失敗"
-          }
-        }
-      }
-    },
-    "Comment here…" : {
-      "localizations" : {
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Прокомментируйте…"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "写评论…"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "寫評論…"
-          }
-        }
-      }
-    },
-    "Comment Success" : {
-      "localizations" : {
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Успешно прокомментировано"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "评论成功"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "評論成功"
-          }
-        }
-      }
-    },
     "COMMON_DIRECTION_EAST" : {
       "localizations" : {
         "en" : {
@@ -5110,28 +4950,6 @@
         }
       }
     },
-    "DM" : {
-      "localizations" : {
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ЛС"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "私信"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "私信"
-          }
-        }
-      }
-    },
     "Do you want to delete this comment?" : {
       "localizations" : {
         "ru" : {
@@ -5893,28 +5711,6 @@
         }
       }
     },
-    "Failed to fetch messages" : {
-      "localizations" : {
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Не удалось загрузить сообщения"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "拉取消息失败"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "拉取訊息失敗"
-          }
-        }
-      }
-    },
     "Failed to get spacecraft status." : {
       "localizations" : {
         "ru" : {
@@ -5977,28 +5773,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "無法載入更多內容: %@"
-          }
-        }
-      }
-    },
-    "Failed to send messages" : {
-      "localizations" : {
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Отправка сообщения не удалась"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "发送失败"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "傳送失敗"
           }
         }
       }
@@ -8263,28 +8037,6 @@
         }
       }
     },
-    "Messages sent" : {
-      "localizations" : {
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Сообщения отправлены"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "发送成功"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "傳送成功"
-          }
-        }
-      }
-    },
     "Meteoblue" : {
       "shouldTranslate" : false
     },
@@ -8774,34 +8526,6 @@
         }
       }
     },
-    "NAVIGATION_TITLE_MESSAGES" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Messages"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Сообщения"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "消息"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "訊息"
-          }
-        }
-      }
-    },
     "Neptune" : {
       "localizations" : {
         "ru" : {
@@ -9219,28 +8943,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "無圖片"
-          }
-        }
-      }
-    },
-    "No Messages" : {
-      "localizations" : {
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Нет сообщений"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "无消息"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "無訊息"
           }
         }
       }
@@ -11170,50 +10872,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "重新命名"
-          }
-        }
-      }
-    },
-    "Reply" : {
-      "localizations" : {
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ответить"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "回复"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "回覆"
-          }
-        }
-      }
-    },
-    "Reply to PM" : {
-      "localizations" : {
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ответить в ЛС"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "回复私信"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "回覆私信"
           }
         }
       }
@@ -14372,28 +14030,6 @@
         }
       }
     },
-    "Send PM" : {
-      "localizations" : {
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Отправить ЛС"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "发送私信"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "傳送私信"
-          }
-        }
-      }
-    },
     "Serpens Caput" : {
       "localizations" : {
         "ru" : {
@@ -17246,34 +16882,6 @@
         }
       }
     },
-    "TEXT_INPUT_SUBMIT_BUTTON_DEFAULT_TITLE" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Send"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Отправить"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "发送"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "傳送"
-          }
-        }
-      }
-    },
     "Thanks for your support!" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -17709,63 +17317,6 @@
         }
       }
     },
-    "UNSUPPORTED_CONFIGURATION_HINT" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unsupported configuration"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Неподдерживаемая конфигурация"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "不支持的配置"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "不支援的配置"
-          }
-        }
-      }
-    },
-    "UNSUPPORTED_SYSTEM_HINT" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unsupported system"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Неподдерживаемая система"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "不支持的系统"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "不支援的系統"
-          }
-        }
-      }
-    },
     "Up" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -18055,28 +17606,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "檢視當前的月相"
-          }
-        }
-      }
-    },
-    "View Quanzi" : {
-      "localizations" : {
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Посмотреть Quanzi"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "查看圈子"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "檢視圈子"
           }
         }
       }
@@ -18458,28 +17987,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "弧矢一"
-          }
-        }
-      }
-    },
-    "What do you want to say?" : {
-      "localizations" : {
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Что вы хотите сказать?"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "您想说什么？"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "您想說什麼？"
           }
         }
       }
@@ -18932,28 +18439,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "格式錯誤"
-          }
-        }
-      }
-    },
-    "You received a message" : {
-      "localizations" : {
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Вам пришло сообщение"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "您收到了一条消息"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "您收到了一條訊息"
           }
         }
       }
